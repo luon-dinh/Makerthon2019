@@ -19,9 +19,10 @@ import { EvaIconsPack } from '@ui-kitten/eva-icons';
 import { View } from 'react-native';
 import { createAppContainer } from 'react-navigation';
 import { createBottomTabNavigator } from 'react-navigation-tabs';
-import { db } from '../config';
+import { firebaseConf } from '../config';
 import { ScrollView } from 'react-native-gesture-handler';
 
+const db = firebaseConf.database();
 let itemsRef = db.ref('/benh').limitToFirst(100);
 
 const SearchBar = (style) => (
@@ -52,6 +53,7 @@ const SAMPLE_DATA = {
 const StarIcon = (style) => (
   <Icon {...style} name='star' />
 );
+
 
 
 
@@ -117,7 +119,7 @@ export default class DanhMuc extends React.Component {
       );
     }
     return (
-      <View style={{ flex: 1, justifyContent: 'center', marginTop:5, }}>
+      <View style={{ flex: 1, justifyContent: 'center' }}>
         <View style={{ flex: 1, marginHorizontal: 0,backgroundColor:"#ffffff" }}>
         <View style={{ margin: 10}}>
             <Input

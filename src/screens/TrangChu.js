@@ -14,10 +14,12 @@ import {
 import { EvaIconsPack } from '@ui-kitten/eva-icons';
 import { View, ScrollView, TouchableOpacity } from 'react-native';
 import SearchableDropdown from "../components/engine/dropsearchList";
-import { db } from '../config';
+import { firebaseConf } from '../config';
+
 import { getSupportedVideoFormats } from 'expo/build/AR';
 import LinearGradient from 'react-native-linear-gradient';
 // import { TouchableOpacity } from 'react-native-gesture-handler';
+const db = firebaseConf.database();
 let itemsRefTrieuChung = db.ref('/trieuchung');
 let itemsRefBenh = db.ref('/benh');
 
@@ -67,6 +69,8 @@ class SelectedRenderWarn extends React.Component {
   }
 }
 
+
+
 var dsTrung = [];
 var chi_so;
 var tong = 0;
@@ -107,82 +111,6 @@ export default class TrangChu extends React.Component {
         // {
         //   id: 1,
         //   name: 'Rách mi',
-        // },
-        // {
-        //   id: 1,
-        //   name: 'Sẹo ở mi',
-        // },
-        // {
-        //   id: 1,
-        //   name: 'Song thị',
-        // },
-        // {
-        //   id: 1,
-        //   name: 'Giảm thị lực',
-        // },
-        // {
-        //   id: 1,
-        //   name: 'Phù nề dưới kết mạc',
-        // },
-        // {
-        //   id: 1,
-        //   name: 'Xuất huyết tiên phòng',
-        // },
-        // {
-        //   id: 1,
-        //   name: 'Tiên phòng sâu bất thường',
-        // },
-        // {
-        //   id: 1,
-        //   name: 'Nhãn hạ áp',
-        // },
-        // {
-        //   id: 1,
-        //   name: 'Đồng tử méo',
-        // },
-        // {
-        //   id: 1,
-        //   name: 'Rách chân mống mắt',
-        // },
-        // {
-        //   id: 1,
-        //   name: 'Tách thể mi',
-        // },
-        // {
-        //   id: 1,
-        //   name: 'Bầm máu quanh hốc mắt',
-        // },
-        // {
-        //   id: 1,
-        //   name: 'Lệch TTT',
-        // },
-        // {
-        //   id: 1,
-        //   name: 'Chấn động võng mạc',
-        // },
-        // {
-        //   id: 1,
-        //   name: 'Vỡ cùng mạc',
-        // },
-        // {
-        //   id: 1,
-        //   name: 'Rách võng mạc',
-        // },
-        // {
-        //   id: 1,
-        //   name: 'Rách toàn bộ củng mạc và giác mạc',
-        // },
-        // {
-        //   id: 1,
-        //   name: 'Thị lực giảm hoặc không có triệu chứng gì',
-        // },
-        // {
-        //   id: 1,
-        //   name: 'Thấy dị vật trong nhãn cầu',
-        // },
-        // {
-        //   id: 1,
-        //   name: 'Phù bong nhỏ ở ngoại vi giác mạc',
         // },
 
       ],

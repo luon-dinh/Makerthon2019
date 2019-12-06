@@ -20,6 +20,8 @@ import { TabView, SceneMap, TabBar } from 'react-native-tab-view';
 import TrangChu from "./src/screens/TrangChu";
 import CaNhan from "./src/screens/CaNhan";
 import DanhMuc from "./src/screens/DanhMuc";
+import ChiTiet from "./src/screens/ChiTiet";
+import TestScr from "./src/screens/TestScr";
 import LinearGradient from 'react-native-linear-gradient';
 // import AppNav from './src/components/navigation/AppNav';
 
@@ -64,7 +66,8 @@ export default class main extends React.Component {
     routes: [
       { key: 'mot', title: 'CHUẨN ĐOÁN' },
       { key: 'hai', title: 'BỆNH LÝ' },
-      { key: 'ba', title: 'THÔNG TIN' },
+      { key: 'ba', title: 'GIẢI PHẪU' },
+      { key: 'bon', title: 'THÔNG TIN' },
     ],
   };
  
@@ -79,9 +82,10 @@ export default class main extends React.Component {
       <TabView
         navigationState={this.state}
         renderScene={SceneMap({
-          mot: Trchu,
+          mot: TestScr,
           hai: DanhMuc,
-          ba:  CaNhan,
+          ba : Trchu,
+          bon:  CaNhan,
         })}
         onIndexChange={index => this.setState({ index })}
         initialLayout={{ width: Dimensions.get('window').width}}
@@ -93,7 +97,7 @@ export default class main extends React.Component {
             indicatorStyle={{ backgroundColor: 'rgba(256, 256, 256, 0.6)',height:5 }}
             style={{ backgroundColor: 'transparent',height:37 }}
             renderLabel={({ route, focused, color }) => (
-              <Text style={{ color: '#fff', marginBottom: 20, fontSize:13 }}>
+              <Text style={{ color: '#fff', marginBottom: 20, fontSize:12, fontWeight:"bold" }}>
                 {route.title}
               </Text>
             )}
