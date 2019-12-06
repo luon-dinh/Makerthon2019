@@ -1,0 +1,10 @@
+{
+  "name": "GLXSOPH",
+  "displayName": "GLXSOPH",
+  "expo": {
+    "name": "GLXSOPH",
+    "slug": "GLXSOPH",
+    "sdkVersion": "35.0.0",
+    "privacy": "public"
+  }
+}
