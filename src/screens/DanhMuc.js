@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { StyleSheet, Image, ActivityIndicator } from 'react-native';
+import { StyleSheet, Image, ActivityIndicator,TextInput } from 'react-native';
 import {
   Text,
   BottomNavigation,
@@ -65,6 +65,7 @@ export default class DanhMuc extends React.Component {
     loadingInd: 1,
   };
   arrayholder = [];
+
   componentDidMount = async () => {
     itemsRef.once('value', snapshot => {
       let data = snapshot.val();
@@ -73,7 +74,6 @@ export default class DanhMuc extends React.Component {
       this.arrayholder = this.state.items;
       this.setState({ loadingInd: 0 });
     });
-
   }
 
   searchFilterFunction = text => {
@@ -92,14 +92,24 @@ export default class DanhMuc extends React.Component {
   };
 
   render() {
-
+    const { navigate } = this.props.navigation;
     const renderItem = ({ item, index }) => (
        <View key={index} style={{marginVertical:7,borderBottomWidth:0.5,borderBottomColor:'#90CAF9',backgroundColor:"#ffffff"}}>
        <ListItem
          title={item.Benh}
          titleStyle={{ fontSize: 20, color: '#2979FF' }}
          descriptionStyle={{ fontSize: 14, margin: 5 }}
-         description={item.Trieuchung} 
+         description={item.Trieuchung}
+         onPress={() => navigate("ChiTietDm", {
+          // TRUYỀN TÊN BỆNH
+          ten: item.Benh,
+          // TRUYỀN CHI TIẾT CHỮA TRỊ
+          chtr: item.Thuoc,
+          // TRUYỀN CHI TIẾT TRIỆU CHỨNG
+          trc: item.Trieuchung,
+          // TRUYỀN CHI TIẾT NGUYÊN NHÂN
+          ngnh: item.Nguyennhan
+        })}  
          />
          <View style={{ marginHorizontal: 15 }}>
            <Text style={{ marginVertical: 5, fontWeight:'bold' }} category='c1' status='warning'>{item.Nguyennhan}</Text>
@@ -121,9 +131,10 @@ export default class DanhMuc extends React.Component {
     return (
       <View style={{ flex: 1, justifyContent: 'center' }}>
         <View style={{ flex: 1, marginHorizontal: 0,backgroundColor:"#ffffff" }}>
-        <View style={{ margin: 10}}>
-            <Input
+        <View style={{ margin: 5}}>
+            <TextInput
               placeholder="Tìm kiếm tên bệnh, triệu chứng ..."
+              style={{paddingHorizontal: 10, backgroundColor: "#EEEEEE", borderRadius: 5, color: "#b0b0b0", height: 40, margin: 5}}
               onChangeText={text => this.searchFilterFunction(text)}
               autoCorrect={false}
               size="small"

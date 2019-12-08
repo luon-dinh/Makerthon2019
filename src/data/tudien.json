@@ -1,0 +1,12086 @@
+[
+    {
+        "name": "18Trisomy"
+    },
+    {
+        "name": "3DHD"
+    },
+    {
+        "name": "A"
+    },
+    {
+        "name": "aacg"
+    },
+    {
+        "name": "Abacteria"
+    },
+    {
+        "name": "Abaissement"
+    },
+    {
+        "name": "AbducensPalsy"
+    },
+    {
+        "name": "Abduction"
+    },
+    {
+        "name": "AbductorMuscles"
+    },
+    {
+        "name": "AberrantRegeneration"
+    },
+    {
+        "name": "Aberration"
+    },
+    {
+        "name": "Ablation"
+    },
+    {
+        "name": "Ablaze"
+    },
+    {
+        "name": "Ablepharon"
+    },
+    {
+        "name": "AbnormalRetinalCorrespondence"
+    },
+    {
+        "name": "Abortiveness"
+    },
+    {
+        "name": "Abrade"
+    },
+    {
+        "name": "Abrasion"
+    },
+    {
+        "name": "AbsoluteGlaucoma"
+    },
+    {
+        "name": "AbsoluteHyperopia"
+    },
+    {
+        "name": "AbsoluteScotoma"
+    },
+    {
+        "name": "Absorbability"
+    },
+    {
+        "name": "AbsorptiveLenses"
+    },
+    {
+        "name": "Ac"
+    },
+    {
+        "name": "ACAID"
+    },
+    {
+        "name": "AcaRatio"
+    },
+    {
+        "name": "Acc"
+    },
+    {
+        "name": "Accelerator"
+    },
+    {
+        "name": "Accommodation"
+    },
+    {
+        "name": "Accommodative"
+    },
+    {
+        "name": "AccommodativeConvergence"
+    },
+    {
+        "name": "AccommodativeEffortSyndrom"
+    },
+    {
+        "name": "Accommodometer"
+    },
+    {
+        "name": "Accretion"
+    },
+    {
+        "name": "Accugel"
+    },
+    {
+        "name": "Accumulator"
+    },
+    {
+        "name": "Acetazolamide"
+    },
+    {
+        "name": "Acetazolamide2"
+    },
+    {
+        "name": "AceticAcid"
+    },
+    {
+        "name": "Acetylcholine"
+    },
+    {
+        "name": "Acg"
+    },
+    {
+        "name": "Ach"
+    },
+    {
+        "name": "Ache"
+    },
+    {
+        "name": "Achromatic"
+    },
+    {
+        "name": "achromatism"
+    },
+    {
+        "name": "Achromatopsia"
+    },
+    {
+        "name": "AcidBurns"
+    },
+    {
+        "name": "AcidophilicAdenoma"
+    },
+    {
+        "name": "AcIol"
+    },
+    {
+        "name": "ACO"
+    },
+    {
+        "name": "AcquiredEsotropia"
+    },
+    {
+        "name": "AcrocephaloSyndactyliaOfApert"
+    },
+    {
+        "name": "Acrocephaly"
+    },
+    {
+        "name": "ACS"
+    },
+    {
+        "name": "Act"
+    },
+    {
+        "name": "ActinicKeratosis"
+    },
+    {
+        "name": "Acuity"
+    },
+    {
+        "name": "Acute"
+    },
+    {
+        "name": "AcuteAngleClosureGlaucoma"
+    },
+    {
+        "name": "AcuteMultifocalPlacoidPigmentEpitheliopathy"
+    },
+    {
+        "name": "18Trisomy"
+    },
+    {
+        "name": "3DHD"
+    },
+    {
+        "name": "A"
+    },
+    {
+        "name": "aacg"
+    },
+    {
+        "name": "Abacteria"
+    },
+    {
+        "name": "Abaissement"
+    },
+    {
+        "name": "AbducensPalsy"
+    },
+    {
+        "name": "Abduction"
+    },
+    {
+        "name": "AbductorMuscles"
+    },
+    {
+        "name": "AberrantRegeneration"
+    },
+    {
+        "name": "Aberration"
+    },
+    {
+        "name": "Ablation"
+    },
+    {
+        "name": "Ablaze"
+    },
+    {
+        "name": "Ablepharon"
+    },
+    {
+        "name": "AbnormalRetinalCorrespondence"
+    },
+    {
+        "name": "Abortiveness"
+    },
+    {
+        "name": "Abrade"
+    },
+    {
+        "name": "Abrasion"
+    },
+    {
+        "name": "AbsoluteGlaucoma"
+    },
+    {
+        "name": "AbsoluteHyperopia"
+    },
+    {
+        "name": "AbsoluteScotoma"
+    },
+    {
+        "name": "Absorbability"
+    },
+    {
+        "name": "AbsorptiveLenses"
+    },
+    {
+        "name": "Ac"
+    },
+    {
+        "name": "ACAID"
+    },
+    {
+        "name": "AcaRatio"
+    },
+    {
+        "name": "Acc"
+    },
+    {
+        "name": "Accelerator"
+    },
+    {
+        "name": "Accommodation"
+    },
+    {
+        "name": "Accommodative"
+    },
+    {
+        "name": "AccommodativeConvergence"
+    },
+    {
+        "name": "AccommodativeEffortSyndrom"
+    },
+    {
+        "name": "Accommodometer"
+    },
+    {
+        "name": "Accretion"
+    },
+    {
+        "name": "Accugel"
+    },
+    {
+        "name": "Accumulator"
+    },
+    {
+        "name": "Acetazolamide"
+    },
+    {
+        "name": "Acetazolamide2"
+    },
+    {
+        "name": "AceticAcid"
+    },
+    {
+        "name": "Acetylcholine"
+    },
+    {
+        "name": "Acg"
+    },
+    {
+        "name": "Ach"
+    },
+    {
+        "name": "Ache"
+    },
+    {
+        "name": "Achromatic"
+    },
+    {
+        "name": "achromatism"
+    },
+    {
+        "name": "Achromatopsia"
+    },
+    {
+        "name": "AcidBurns"
+    },
+    {
+        "name": "AcidophilicAdenoma"
+    },
+    {
+        "name": "AcIol"
+    },
+    {
+        "name": "ACO"
+    },
+    {
+        "name": "AcquiredEsotropia"
+    },
+    {
+        "name": "AcrocephaloSyndactyliaOfApert"
+    },
+    {
+        "name": "Acrocephaly"
+    },
+    {
+        "name": "ACS"
+    },
+    {
+        "name": "Act"
+    },
+    {
+        "name": "ActinicKeratosis"
+    },
+    {
+        "name": "Acuity"
+    },
+    {
+        "name": "Acute"
+    },
+    {
+        "name": "AcuteAngleClosureGlaucoma"
+    },
+    {
+        "name": "AcuteMultifocalPlacoidPigmentEpitheliopathy"
+    },
+    {
+        "name": "AcuteMultiPlaPigEpi"
+    },
+    {
+        "name": "Acuteness"
+    },
+    {
+        "name": "AcuteSpasticEntropion"
+    },
+    {
+        "name": "Acuvue"
+    },
+    {
+        "name": "AD"
+    },
+    {
+        "name": "Adaptation"
+    },
+    {
+        "name": "ADCC"
+    },
+    {
+        "name": "Add"
+    },
+    {
+        "name": "Adduction"
+    },
+    {
+        "name": "AdductorMuscles"
+    },
+    {
+        "name": "ADEM"
+    },
+    {
+        "name": "Adenoma"
+    },
+    {
+        "name": "Adenopathy"
+    },
+    {
+        "name": "Adenovirus"
+    },
+    {
+        "name": "Adherence"
+    },
+    {
+        "name": "AdherenceSyndrome"
+    },
+    {
+        "name": "AdhesiveSyndrome"
+    },
+    {
+        "name": "AdiesPupil"
+    },
+    {
+        "name": "AdjustableSuturesuseOf"
+    },
+    {
+        "name": "AdnexaOculi"
+    },
+    {
+        "name": "AdrenergicBlockingDrug"
+    },
+    {
+        "name": "AdrenergicStimulatingDrug"
+    },
+    {
+        "name": "Adsorbotear"
+    },
+    {
+        "name": "Adv"
+    },
+    {
+        "name": "Advancement"
+    },
+    {
+        "name": "AdvancementFlap"
+    },
+    {
+        "name": "AerialHaze"
+    },
+    {
+        "name": "Aerogen"
+    },
+    {
+        "name": "Afebrile"
+    },
+    {
+        "name": "Affection"
+    },
+    {
+        "name": "AfferentDefect"
+    },
+    {
+        "name": "AfferentNerve"
+    },
+    {
+        "name": "Afge"
+    },
+    {
+        "name": "AFPP"
+    },
+    {
+        "name": "AfterCataract"
+    },
+    {
+        "name": "AfterImage"
+    },
+    {
+        "name": "AfterImageTest"
+    },
+    {
+        "name": "AgainstMotion"
+    },
+    {
+        "name": "Againsttherule"
+    },
+    {
+        "name": "AgerelatedMacularDegeneration"
+    },
+    {
+        "name": "Agonist"
+    },
+    {
+        "name": "AIDS"
+    },
+    {
+        "name": "Aion"
+    },
+    {
+        "name": "AirFluidGasExchange"
+    },
+    {
+        "name": "AIUM"
+    },
+    {
+        "name": "AK"
+    },
+    {
+        "name": "Akinesia"
+    },
+    {
+        "name": "Alacrima"
+    },
+    {
+        "name": "Albinism"
+    },
+    {
+        "name": "AlbrightsDisease"
+    },
+    {
+        "name": "AlcoholAmblyopia"
+    },
+    {
+        "name": "AlexanderLaw"
+    },
+    {
+        "name": "Alexia"
+    },
+    {
+        "name": "ALK"
+    },
+    {
+        "name": "AlkaliBurns"
+    },
+    {
+        "name": "Alkaptonuria"
+    },
+    {
+        "name": "AllenCards"
+    },
+    {
+        "name": "AllergicConjunctivitis"
+    },
+    {
+        "name": "AlphaAdrenergic"
+    },
+    {
+        "name": "Alphachymotrysin"
+    },
+    {
+        "name": "AlphaHemolytic"
+    },
+    {
+        "name": "AlportSyndrome"
+    },
+    {
+        "name": "AlternateDayEstropia"
+    },
+    {
+        "name": "AlternatePrismCoverTest"
+    },
+    {
+        "name": "AlternatingStrabismus"
+    },
+    {
+        "name": "AlternatingSursumduction"
+    },
+    {
+        "name": "AlternativeCoverTest"
+    },
+    {
+        "name": "AltitudinalHemianopsia"
+    },
+    {
+        "name": "Am"
+    },
+    {
+        "name": "AmacrineCells"
+    },
+    {
+        "name": "Amaurosis"
+    },
+    {
+        "name": "Amaurotic"
+    },
+    {
+        "name": "AmauroticFamilyIdiocy"
+    },
+    {
+        "name": "AmauroticNystagmus"
+    },
+    {
+        "name": "AmauroticPupil"
+    },
+    {
+        "name": "Amblyopia"
+    },
+    {
+        "name": "Ametropia"
+    },
+    {
+        "name": "AmetropiaAmblyopia"
+    },
+    {
+        "name": "Amp acc"
+    },
+    {
+        "name": "AmplitudeOfAccommodation"
+    },
+    {
+        "name": "Amplitudes"
+    },
+    {
+        "name": "Amppe"
+    },
+    {
+        "name": "Amsler grid"
+    },
+    {
+        "name": "Amstergrid"
+    },
+    {
+        "name": "AMT"
+    },
+    {
+        "name": "Amyloidosis"
+    },
+    {
+        "name": "Anaglyph"
+    },
+    {
+        "name": "Analgesia"
+    },
+    {
+        "name": "Analgesic"
+    },
+    {
+        "name": "Anaphylaxis"
+    },
+    {
+        "name": "Anastomosis"
+    },
+    {
+        "name": "AnatomicEquator"
+    },
+    {
+        "name": "ANCA"
+    },
+    {
+        "name": "Anencephaly"
+    },
+    {
+        "name": "AnenfeldloopsOf"
+    },
+    {
+        "name": "Anesthesia"
+    },
+    {
+        "name": "Anesthetic"
+    },
+    {
+        "name": "Aneurysm"
+    },
+    {
+        "name": "AngeluccisSyndrome"
+    },
+    {
+        "name": "Angiogram"
+    },
+    {
+        "name": "Angiography"
+    },
+    {
+        "name": "AngioidStreaks"
+    },
+    {
+        "name": "Angiokeratoma"
+    },
+    {
+        "name": "AngiomatosisRetinae"
+    },
+    {
+        "name": "AngiopathiaRetinaeJuvenilis"
+    },
+    {
+        "name": "Angioscotoma"
+    },
+    {
+        "name": "Angle"
+    },
+    {
+        "name": "AngleOfAnomaly"
+    },
+    {
+        "name": "AngularBlepharitis"
+    },
+    {
+        "name": "Aniridia"
+    },
+    {
+        "name": "Aniseikonia"
+    },
+    {
+        "name": "AnisLens"
+    },
+    {
+        "name": "Anisocoria"
+    },
+    {
+        "name": "Anisohoria"
+    },
+    {
+        "name": "Anisometropia"
+    },
+    {
+        "name": "AnisometropicAmblyopia"
+    },
+    {
+        "name": "Anisopia"
+    },
+    {
+        "name": "Ankyloblepharon"
+    },
+    {
+        "name": "AnkylosingSpondylitis"
+    },
+    {
+        "name": "AnnularScotoma"
+    },
+    {
+        "name": "AnnulusOfZinn"
+    },
+    {
+        "name": "Anomaloscope"
+    },
+    {
+        "name": "Anomalous"
+    },
+    {
+        "name": "AnomalousRetinalCorrespondence"
+    },
+    {
+        "name": "AnomalousTrichromatism"
+    },
+    {
+        "name": "Anomaly"
+    },
+    {
+        "name": "Anophthalmia"
+    },
+    {
+        "name": "Anopsia"
+    },
+    {
+        "name": "Antagonist"
+    },
+    {
+        "name": "Anterior"
+    },
+    {
+        "name": "AnteriorChamberCleavageSyndroma"
+    },
+    {
+        "name": "AnteriorChamberIntraocularLens"
+    },
+    {
+        "name": "AnteriorChamberTap"
+    },
+    {
+        "name": "AnteriorCiliaryArteries"
+    },
+    {
+        "name": "AnteriorCornealStaphyloma"
+    },
+    {
+        "name": "AnteriorFocalPoint"
+    },
+    {
+        "name": "AnteriorHyaloidMembrane"
+    },
+    {
+        "name": "AnteriorIschemicOpticNeuropathy"
+    },
+    {
+        "name": "AnteriorMegalophthalmos"
+    },
+    {
+        "name": "AnteriorPole"
+    },
+    {
+        "name": "AnteriorSclerectomy"
+    },
+    {
+        "name": "AnteriorSegment"
+    },
+    {
+        "name": "AnteriorSynechia"
+    },
+    {
+        "name": "AnteriorUveitis"
+    },
+    {
+        "name": "AnteriorVitrectomy"
+    },
+    {
+        "name": "anterior_chamber"
+    },
+    {
+        "name": "AnteroposteriorAxisOfFick"
+    },
+    {
+        "name": "anthelmintics"
+    },
+    {
+        "name": "Antibody"
+    },
+    {
+        "name": "Anticholinesterase"
+    },
+    {
+        "name": "Anticoagulant"
+    },
+    {
+        "name": "AntifungalAgents"
+    },
+    {
+        "name": "Antigen"
+    },
+    {
+        "name": "AntiinflammatoryAgents"
+    },
+    {
+        "name": "Antimetropia"
+    },
+    {
+        "name": "AntimicrobialAgents"
+    },
+    {
+        "name": "AntimongoloidSlant"
+    },
+    {
+        "name": "AntipodeanStrabismus"
+    },
+    {
+        "name": "AntireflectiveCoating"
+    },
+    {
+        "name": "AntisuppressionExercise"
+    },
+    {
+        "name": "AntiviralAgents"
+    },
+    {
+        "name": "anti_allergic agents"
+    },
+    {
+        "name": "anti_histamine"
+    },
+    {
+        "name": "AntonsSyndrome"
+    },
+    {
+        "name": "aoS"
+    },
+    {
+        "name": "AoSoft"
+    },
+    {
+        "name": "AP"
+    },
+    {
+        "name": "Apattern"
+    },
+    {
+        "name": "APC"
+    },
+    {
+        "name": "Apct"
+    },
+    {
+        "name": "ApertsSyndrome"
+    },
+    {
+        "name": "Apex"
+    },
+    {
+        "name": "Aphake"
+    },
+    {
+        "name": "Aphakia"
+    },
+    {
+        "name": "AphakicPupillaryBlock"
+    },
+    {
+        "name": "AphakicSpectacles"
+    },
+    {
+        "name": "ApicalClearance"
+    },
+    {
+        "name": "ApicalRadius"
+    },
+    {
+        "name": "ApicalZone"
+    },
+    {
+        "name": "Aplasia"
+    },
+    {
+        "name": "AponeurosisOfTheEyelid"
+    },
+    {
+        "name": "AppendagesOfTheEye"
+    },
+    {
+        "name": "ApplanationTonometer"
+    },
+    {
+        "name": "Aqueous"
+    },
+    {
+        "name": "AqueousFlare"
+    },
+    {
+        "name": "AqueousHumor"
+    },
+    {
+        "name": "AqueousMisdirectionSyndrome"
+    },
+    {
+        "name": "AqueousOutflow"
+    },
+    {
+        "name": "Araa"
+    },
+    {
+        "name": "Arachnodactyly"
+    },
+    {
+        "name": "Arc"
+    },
+    {
+        "name": "Arcades"
+    },
+    {
+        "name": "ArcOfContact"
+    },
+    {
+        "name": "ArcPerimeter"
+    },
+    {
+        "name": "ArcuateScotoma"
+    },
+    {
+        "name": "ArcusJuvenilus"
+    },
+    {
+        "name": "ArcusSenilis"
+    },
+    {
+        "name": "ArdenPlates"
+    },
+    {
+        "name": "ArgonLaser"
+    },
+    {
+        "name": "ArgyllrobertsonPupils"
+    },
+    {
+        "name": "ArionProsthesis"
+    },
+    {
+        "name": "ArltsLine"
+    },
+    {
+        "name": "arm"
+    },
+    {
+        "name": "Armd"
+    },
+    {
+        "name": "ARN"
+    },
+    {
+        "name": "Arrhythmia"
+    },
+    {
+        "name": "ArterialPhase"
+    },
+    {
+        "name": "Arteriosclerosis"
+    },
+    {
+        "name": "ArtificialTears"
+    },
+    {
+        "name": "As"
+    },
+    {
+        "name": "Ascan"
+    },
+    {
+        "name": "Aseptic"
+    },
+    {
+        "name": "Aspergillus"
+    },
+    {
+        "name": "AsphericLens"
+    },
+    {
+        "name": "AsphericLenticularSpectacles"
+    },
+    {
+        "name": "Aspirate"
+    },
+    {
+        "name": "Aspirationirrgation"
+    },
+    {
+        "name": "AsteroidHyalosis"
+    },
+    {
+        "name": "Asthenopia"
+    },
+    {
+        "name": "AstigmaticAxis"
+    },
+    {
+        "name": "AstigmaticClock"
+    },
+    {
+        "name": "AstigmaticDial"
+    },
+    {
+        "name": "Astigmatism"
+    },
+    {
+        "name": "astrocyte"
+    },
+    {
+        "name": "astrocytoma of retina"
+    },
+    {
+        "name": "AsymmetricSurgery"
+    },
+    {
+        "name": "Asymptomatic"
+    },
+    {
+        "name": "Ataxia"
+    },
+    {
+        "name": "Atheroma"
+    },
+    {
+        "name": "Atherosclerosis"
+    },
+    {
+        "name": "AtopicConjunctivitis"
+    },
+    {
+        "name": "ATR"
+    },
+    {
+        "name": "Atresia"
+    },
+    {
+        "name": "Atrophy"
+    },
+    {
+        "name": "Atropine"
+    },
+    {
+        "name": "Attenuation"
+    },
+    {
+        "name": "AtypicalMonochromacy"
+    },
+    {
+        "name": "AtypicalMonochromat"
+    },
+    {
+        "name": "AutoimmuneDisease"
+    },
+    {
+        "name": "AutomatedPerimeter"
+    },
+    {
+        "name": "AutomatedRefractor"
+    },
+    {
+        "name": "AutonomicDrug"
+    },
+    {
+        "name": "Autorefractor"
+    },
+    {
+        "name": "AV"
+    },
+    {
+        "name": "AVM"
+    },
+    {
+        "name": "Aware"
+    },
+    {
+        "name": "AxenfeldAnomaly"
+    },
+    {
+        "name": "AxesOfFick"
+    },
+    {
+        "name": "AxialHyperopia"
+    },
+    {
+        "name": "AxialLength"
+    },
+    {
+        "name": "AxialMyopia"
+    },
+    {
+        "name": "Axis"
+    },
+    {
+        "name": "Axon"
+    },
+    {
+        "name": "AZOOR"
+    },
+    {
+        "name": "Azote"
+    },
+    {
+        "name": "Azurophil"
+    },
+    {
+        "name": "B"
+    },
+    {
+        "name": "BA"
+    },
+    {
+        "name": "BAB"
+    },
+    {
+        "name": "Bacillary"
+    },
+    {
+        "name": "Bacillemia"
+    },
+    {
+        "name": "Bacillicide"
+    },
+    {
+        "name": "Bacilliform"
+    },
+    {
+        "name": "BacillusSubtilis"
+    },
+    {
+        "name": "BackgroundDiabeticRetinopathy"
+    },
+    {
+        "name": "BackVertexPower"
+    },
+    {
+        "name": "Bacteremia"
+    },
+    {
+        "name": "BacterialConjunctivitis"
+    },
+    {
+        "name": "Bag"
+    },
+    {
+        "name": "BagoliniLenses"
+    },
+    {
+        "name": "BalancedSaltSolution"
+    },
+    {
+        "name": "Balancing"
+    },
+    {
+        "name": "BandageLens"
+    },
+    {
+        "name": "BandKeratopathy"
+    },
+    {
+        "name": "Bao"
+    },
+    {
+        "name": "Bar"
+    },
+    {
+        "name": "BareSclera"
+    },
+    {
+        "name": "BaringOfTheBlindSpot"
+    },
+    {
+        "name": "Barkan_membrane"
+    },
+    {
+        "name": "BarrelDistortion"
+    },
+    {
+        "name": "BasalIridectomy"
+    },
+    {
+        "name": "BasalLamina"
+    },
+    {
+        "name": "BaseballLens"
+    },
+    {
+        "name": "BaseCurve"
+    },
+    {
+        "name": "BasedownPrism"
+    },
+    {
+        "name": "BaseDownTriTarConjRes"
+    },
+    {
+        "name": "BasedowsDisease"
+    },
+    {
+        "name": "BaseExotropia"
+    },
+    {
+        "name": "BaseinPrism"
+    },
+    {
+        "name": "BasementMembrane"
+    },
+    {
+        "name": "BaseOfAPrism"
+    },
+    {
+        "name": "BaseoutPrism"
+    },
+    {
+        "name": "BaseupPrism"
+    },
+    {
+        "name": "BasicSecretionTest"
+    },
+    {
+        "name": "Basophil"
+    },
+    {
+        "name": "BasophilicAdenoma"
+    },
+    {
+        "name": "BassenkornzweigSyndrome"
+    },
+    {
+        "name": "BAT"
+    },
+    {
+        "name": "BattenmayouSyndrome"
+    },
+    {
+        "name": "BBB"
+    },
+    {
+        "name": "BCC"
+    },
+    {
+        "name": "Bcell"
+    },
+    {
+        "name": "Bd"
+    },
+    {
+        "name": "Bdr"
+    },
+    {
+        "name": "BearTracks"
+    },
+    {
+        "name": "BechertLens"
+    },
+    {
+        "name": "Bedewing"
+    },
+    {
+        "name": "BehcetsDisease"
+    },
+    {
+        "name": "BehrsDisease"
+    },
+    {
+        "name": "BejerrumScotoma"
+    },
+    {
+        "name": "BellsPalsy"
+    },
+    {
+        "name": "BellsPhenomenon"
+    },
+    {
+        "name": "BenediktsSyndrome"
+    },
+    {
+        "name": "Benign"
+    },
+    {
+        "name": "BenzalkoniumChloride"
+    },
+    {
+        "name": "BergmeistersPapilla"
+    },
+    {
+        "name": "Beriberi"
+    },
+    {
+        "name": "BerlinsEdema"
+    },
+    {
+        "name": "BermanLocator"
+    },
+    {
+        "name": "BestcorrectedVisualAcuity"
+    },
+    {
+        "name": "BestsDisease"
+    },
+    {
+        "name": "BetaAlrenergic"
+    },
+    {
+        "name": "BetaBlocker"
+    },
+    {
+        "name": "BetaHemolytic"
+    },
+    {
+        "name": "Bfp"
+    },
+    {
+        "name": "BG"
+    },
+    {
+        "name": "Bi"
+    },
+    {
+        "name": "BickProcedure"
+    },
+    {
+        "name": "BiconcaveLens"
+    },
+    {
+        "name": "BiconvexLens"
+    },
+    {
+        "name": "BielschowskyHeadTiltTest"
+    },
+    {
+        "name": "BielschowskylutzcoganSynd"
+    },
+    {
+        "name": "BietiisCrystallineDystrophy"
+    },
+    {
+        "name": "Bifixation"
+    },
+    {
+        "name": "Bifocals"
+    },
+    {
+        "name": "BifovealFixation"
+    },
+    {
+        "name": "Bilateral"
+    },
+    {
+        "name": "Binkhorst"
+    },
+    {
+        "name": "Binkhorst4LoopLens"
+    },
+    {
+        "name": "BinkhorstfyodorovLens"
+    },
+    {
+        "name": "Binocular"
+    },
+    {
+        "name": "BinocularDepthPerception"
+    },
+    {
+        "name": "BinocularField"
+    },
+    {
+        "name": "BinocularFixationPattern"
+    },
+    {
+        "name": "Binocularity"
+    },
+    {
+        "name": "BinocularParallax"
+    },
+    {
+        "name": "BinocularVision"
+    },
+    {
+        "name": "BinocularVisualAcuity"
+    },
+    {
+        "name": "BIO"
+    },
+    {
+        "name": "Biometry"
+    },
+    {
+        "name": "Biomicroscope"
+    },
+    {
+        "name": "BipolarCautery"
+    },
+    {
+        "name": "BipolarCells"
+    },
+    {
+        "name": "BipolarCoagulator"
+    },
+    {
+        "name": "Biprism"
+    },
+    {
+        "name": "Birdshot retinopathy"
+    },
+    {
+        "name": "Bitemporal"
+    },
+    {
+        "name": "BitemporalHemianopsia"
+    },
+    {
+        "name": "BitoricContactLens"
+    },
+    {
+        "name": "BitotsSpot"
+    },
+    {
+        "name": "BlackSunburst"
+    },
+    {
+        "name": "Blade"
+    },
+    {
+        "name": "Bled"
+    },
+    {
+        "name": "Blennorrhea"
+    },
+    {
+        "name": "Blepharitis"
+    },
+    {
+        "name": "Blepharo"
+    },
+    {
+        "name": "Blepharochalasis"
+    },
+    {
+        "name": "Blepharoclonus"
+    },
+    {
+        "name": "Blepharoconjunctivitis"
+    },
+    {
+        "name": "Blepharophimosis"
+    },
+    {
+        "name": "Blepharopigmentation"
+    },
+    {
+        "name": "Blepharoplasty"
+    },
+    {
+        "name": "Blepharoptosis"
+    },
+    {
+        "name": "Blepharospasm"
+    },
+    {
+        "name": "Blepharotomy"
+    },
+    {
+        "name": "BLinD"
+    },
+    {
+        "name": "BlindGoniotomy"
+    },
+    {
+        "name": "Blindness"
+    },
+    {
+        "name": "BlindSpot"
+    },
+    {
+        "name": "BlindSpotMechanism"
+    },
+    {
+        "name": "BlinkReflex"
+    },
+    {
+        "name": "BlochstauffersSyndrome"
+    },
+    {
+        "name": "BlochsulzbergerSyndrome"
+    },
+    {
+        "name": "BloodAgar"
+    },
+    {
+        "name": "BloodUreaNitrogen"
+    },
+    {
+        "name": "BlownPupil"
+    },
+    {
+        "name": "BlowoutFracture"
+    },
+    {
+        "name": "BlueSclera"
+    },
+    {
+        "name": "BlurAndClear"
+    },
+    {
+        "name": "BlurPoint"
+    },
+    {
+        "name": "Bo"
+    },
+    {
+        "name": "Bobbing"
+    },
+    {
+        "name": "BoecksSarcoid"
+    },
+    {
+        "name": "BOLD"
+    },
+    {
+        "name": "BOMS"
+    },
+    {
+        "name": "BotulinumToxin"
+    },
+    {
+        "name": "Botulism"
+    },
+    {
+        "name": "BoundDown"
+    },
+    {
+        "name": "bouquetofRochonDuvigneaud"
+    },
+    {
+        "name": "Bourneville's disease"
+    },
+    {
+        "name": "Bowen's disease"
+    },
+    {
+        "name": "Bowman_membrane"
+    },
+    {
+        "name": "boxcarring"
+    },
+    {
+        "name": "bradycardia"
+    },
+    {
+        "name": "brain cortex"
+    },
+    {
+        "name": "brain stem"
+    },
+    {
+        "name": "branch artery occlusion"
+    },
+    {
+        "name": "branch vein occlusion"
+    },
+    {
+        "name": "BRAO"
+    },
+    {
+        "name": "bridle suture"
+    },
+    {
+        "name": "Brodmann area 17"
+    },
+    {
+        "name": "Brodmann area 18"
+    },
+    {
+        "name": "Brodmann area 19"
+    },
+    {
+        "name": "Brodmann area 8"
+    },
+    {
+        "name": "Browlift"
+    },
+    {
+        "name": "BrownsSyndrome"
+    },
+    {
+        "name": "Browplasty"
+    },
+    {
+        "name": "BruchnerTest"
+    },
+    {
+        "name": "BruchsMembrane"
+    },
+    {
+        "name": "BrushfieldSpots"
+    },
+    {
+        "name": "BRVO"
+    },
+    {
+        "name": "Bscan"
+    },
+    {
+        "name": "Bss"
+    },
+    {
+        "name": "Bu"
+    },
+    {
+        "name": "Buckle"
+    },
+    {
+        "name": "Bulbar"
+    },
+    {
+        "name": "BulbarConjunctiva"
+    },
+    {
+        "name": "Bullous"
+    },
+    {
+        "name": "BullousKeratopathy"
+    },
+    {
+        "name": "BullsEyeMaculopathy"
+    },
+    {
+        "name": "Bun"
+    },
+    {
+        "name": "Buphthalmos"
+    },
+    {
+        "name": "BusaccaNodules"
+    },
+    {
+        "name": "But"
+    },
+    {
+        "name": "Button"
+    },
+    {
+        "name": "button16"
+    },
+    {
+        "name": "button1B"
+    },
+    {
+        "name": "button1D"
+    },
+    {
+        "name": "button20"
+    },
+    {
+        "name": "ButtonHole"
+    },
+    {
+        "name": "Bva"
+    },
+    {
+        "name": "Bvo"
+    },
+    {
+        "name": "BVP"
+    },
+    {
+        "name": "Bware"
+    },
+    {
+        "name": "Byproduct"
+    },
+    {
+        "name": "C3f8"
+    },
+    {
+        "name": "Cab"
+    },
+    {
+        "name": "Cacal"
+    },
+    {
+        "name": "Cachexia"
+    },
+    {
+        "name": "CalcarineFissure"
+    },
+    {
+        "name": "Caliper"
+    },
+    {
+        "name": "CaloricNystagmus"
+    },
+    {
+        "name": "CaloricTesting"
+    },
+    {
+        "name": "CAM"
+    },
+    {
+        "name": "Campimeter"
+    },
+    {
+        "name": "Canaliculi"
+    },
+    {
+        "name": "Canaliculitis"
+    },
+    {
+        "name": "Canaliculus"
+    },
+    {
+        "name": "CanalOfSchlemn"
+    },
+    {
+        "name": "Cancer"
+    },
+    {
+        "name": "Candela"
+    },
+    {
+        "name": "CandidaAlblicans"
+    },
+    {
+        "name": "CandlePower"
+    },
+    {
+        "name": "CandlewaxDrippings"
+    },
+    {
+        "name": "Cannula"
+    },
+    {
+        "name": "CanthalResection"
+    },
+    {
+        "name": "Cantholysis"
+    },
+    {
+        "name": "Canthoplasty"
+    },
+    {
+        "name": "Canthotomy"
+    },
+    {
+        "name": "Canthus"
+    },
+    {
+        "name": "CapillaryHemangioma"
+    },
+    {
+        "name": "CapsularBag"
+    },
+    {
+        "name": "CapsularFixation"
+    },
+    {
+        "name": "Capsule"
+    },
+    {
+        "name": "Capsulectomy"
+    },
+    {
+        "name": "Capsulorhexis"
+    },
+    {
+        "name": "Capsulotomy"
+    },
+    {
+        "name": "Carbachol"
+    },
+    {
+        "name": "CarbonicAnhydraseInhibitor"
+    },
+    {
+        "name": "CardinalMovements"
+    },
+    {
+        "name": "CardinalPoints"
+    },
+    {
+        "name": "CardinalPositionsOfGaze"
+    },
+    {
+        "name": "CarotidArtery"
+    },
+    {
+        "name": "CarotidCavernousFistula"
+    },
+    {
+        "name": "Caruncle"
+    },
+    {
+        "name": "CaruncleEpicanthus"
+    },
+    {
+        "name": "CAT"
+    },
+    {
+        "name": "Cataract"
+    },
+    {
+        "name": "CataractExtraction"
+    },
+    {
+        "name": "CataractGlasses"
+    },
+    {
+        "name": "CatCrySyndrome"
+    },
+    {
+        "name": "CatExt"
+    },
+    {
+        "name": "CatEyeSyndrome"
+    },
+    {
+        "name": "Cathecholamines"
+    },
+    {
+        "name": "CatScratchFever"
+    },
+    {
+        "name": "CatsEyeReflex"
+    },
+    {
+        "name": "CavenousSinusFistula"
+    },
+    {
+        "name": "CavernousHemangioma"
+    },
+    {
+        "name": "CavernousSinus"
+    },
+    {
+        "name": "CavernousSinusSyndrome"
+    },
+    {
+        "name": "CavernousSinusThrombosis"
+    },
+    {
+        "name": "Cbc"
+    },
+    {
+        "name": "CBF"
+    },
+    {
+        "name": "CBV"
+    },
+    {
+        "name": "Cc"
+    },
+    {
+        "name": "CCC"
+    },
+    {
+        "name": "CCSF"
+    },
+    {
+        "name": "Cd"
+    },
+    {
+        "name": "CDI"
+    },
+    {
+        "name": "CDT"
+    },
+    {
+        "name": "CellAndFlare"
+    },
+    {
+        "name": "CellophaneMaculopathy"
+    },
+    {
+        "name": "CellophaneRetinopathy"
+    },
+    {
+        "name": "Cellulitis"
+    },
+    {
+        "name": "CelluloseAcetateButyrate"
+    },
+    {
+        "name": "CenterOfRotation"
+    },
+    {
+        "name": "Centrad"
+    },
+    {
+        "name": "CentralFixation"
+    },
+    {
+        "name": "CentralFusion"
+    },
+    {
+        "name": "CentrallyFixingEye"
+    },
+    {
+        "name": "CentralNervousSystem"
+    },
+    {
+        "name": "CentralPosteriorCurve"
+    },
+    {
+        "name": "CentralRetinalArtery"
+    },
+    {
+        "name": "CentralRetinalArteryOcclusion"
+    },
+    {
+        "name": "CentralRetinalVein"
+    },
+    {
+        "name": "CentralRetinalVeinOcclusion"
+    },
+    {
+        "name": "CentralScotoma"
+    },
+    {
+        "name": "CentralSerousChorioretinopathy"
+    },
+    {
+        "name": "CentralSuppression"
+    },
+    {
+        "name": "CentralThresholdStimulus"
+    },
+    {
+        "name": "CentralVisualAcuity"
+    },
+    {
+        "name": "CentrocecalScotoma"
+    },
+    {
+        "name": "Cerclage"
+    },
+    {
+        "name": "CerebellopontineAngleTumor"
+    },
+    {
+        "name": "Cerebellum"
+    },
+    {
+        "name": "CerebralDyschromatopsia"
+    },
+    {
+        "name": "CerebralHemisphreres"
+    },
+    {
+        "name": "CerebrospinalFluid"
+    },
+    {
+        "name": "CerebrovascularAccident"
+    },
+    {
+        "name": "Cerebrum"
+    },
+    {
+        "name": "CervicalGanglion"
+    },
+    {
+        "name": "CervicooculoacousticMalformation"
+    },
+    {
+        "name": "CestanchenaisSyndrome"
+    },
+    {
+        "name": "CestansSyndrome"
+    },
+    {
+        "name": "Cf"
+    },
+    {
+        "name": "CFF"
+    },
+    {
+        "name": "CFT"
+    },
+    {
+        "name": "Chalazion"
+    },
+    {
+        "name": "Chalcosis"
+    },
+    {
+        "name": "ChalcosisLentis"
+    },
+    {
+        "name": "ChandlersSyndrome"
+    },
+    {
+        "name": "CharcotTriad"
+    },
+    {
+        "name": "CheckLigament"
+    },
+    {
+        "name": "CHED"
+    },
+    {
+        "name": "ChediakhigashiSyndrome"
+    },
+    {
+        "name": "Cheetah"
+    },
+    {
+        "name": "Cheiroscope"
+    },
+    {
+        "name": "ChemicalBurns"
+    },
+    {
+        "name": "Chemosis"
+    },
+    {
+        "name": "CherryredSpot"
+    },
+    {
+        "name": "Chiasm"
+    },
+    {
+        "name": "ChiasmalSyndrome"
+    },
+    {
+        "name": "Chievitz"
+    },
+    {
+        "name": "ChlamydiaTrachomatis"
+    },
+    {
+        "name": "Chloramphenicol"
+    },
+    {
+        "name": "Chlorolabe"
+    },
+    {
+        "name": "Chloromycetin"
+    },
+    {
+        "name": "Chloroptic"
+    },
+    {
+        "name": "Chloroquin"
+    },
+    {
+        "name": "ChloroquinRetinopathy"
+    },
+    {
+        "name": "ChocolateAgar"
+    },
+    {
+        "name": "ChokedDisc"
+    },
+    {
+        "name": "CholinergicBlockingDrug"
+    },
+    {
+        "name": "CholinergicStimulatingDrug"
+    },
+    {
+        "name": "Cholinesterase"
+    },
+    {
+        "name": "Choriocapillaris"
+    },
+    {
+        "name": "ChoriodalHyperfluorescence"
+    },
+    {
+        "name": "Chorioretinitis"
+    },
+    {
+        "name": "Choristoma"
+    },
+    {
+        "name": "Choroid"
+    },
+    {
+        "name": "ChoroidalDetachment"
+    },
+    {
+        "name": "ChoroidalFlush"
+    },
+    {
+        "name": "ChoroidalHemorrhage"
+    },
+    {
+        "name": "ChoroidalNevus"
+    },
+    {
+        "name": "Choroidals"
+    },
+    {
+        "name": "Choroideremia"
+    },
+    {
+        "name": "Choroididtis"
+    },
+    {
+        "name": "Choroidopathy"
+    },
+    {
+        "name": "ChoyceLens"
+    },
+    {
+        "name": "ChromaticAberration"
+    },
+    {
+        "name": "ChromaticDispersion"
+    },
+    {
+        "name": "ChromaticPerimetry"
+    },
+    {
+        "name": "ChromophobeAdenoma"
+    },
+    {
+        "name": "Chromosteropsis"
+    },
+    {
+        "name": "Chronic"
+    },
+    {
+        "name": "ChronicAngleClosureGlaucoma"
+    },
+    {
+        "name": "ChronicConjunctivitis"
+    },
+    {
+        "name": "ChronicOpenAngleGlaucoma"
+    },
+    {
+        "name": "ChronicProgExteOph"
+    },
+    {
+        "name": "ChronicSpasticEntropion"
+    },
+    {
+        "name": "CHSD"
+    },
+    {
+        "name": "CicatricialEctropion"
+    },
+    {
+        "name": "CicatricialStrabismus"
+    },
+    {
+        "name": "Cicatrix"
+    },
+    {
+        "name": "Cie"
+    },
+    {
+        "name": "Cilia"
+    },
+    {
+        "name": "CiliaryArteries"
+    },
+    {
+        "name": "CiliaryBlockGlaucoma"
+    },
+    {
+        "name": "CiliaryBody"
+    },
+    {
+        "name": "CiliaryFlush"
+    },
+    {
+        "name": "CiliaryGanglion"
+    },
+    {
+        "name": "CiliaryHyperemia"
+    },
+    {
+        "name": "CiliaryMuscle"
+    },
+    {
+        "name": "CiliaryNerves"
+    },
+    {
+        "name": "CiliaryProcesses"
+    },
+    {
+        "name": "CiliarySpasm"
+    },
+    {
+        "name": "CiliarySulcus"
+    },
+    {
+        "name": "CiliorentinalArtery"
+    },
+    {
+        "name": "CiliospinalReflex"
+    },
+    {
+        "name": "Cinch"
+    },
+    {
+        "name": "CircadianHeterotropia"
+    },
+    {
+        "name": "CircinateExudate"
+    },
+    {
+        "name": "CircinateRetinopathy"
+    },
+    {
+        "name": "CircleOfLeastConfusion"
+    },
+    {
+        "name": "CircumferentialExplant"
+    },
+    {
+        "name": "CISS"
+    },
+    {
+        "name": "CK"
+    },
+    {
+        "name": "CL"
+    },
+    {
+        "name": "CLAPC"
+    },
+    {
+        "name": "CLARE"
+    },
+    {
+        "name": "Clens"
+    },
+    {
+        "name": "Clerz"
+    },
+    {
+        "name": "ClockDial"
+    },
+    {
+        "name": "ClockMechanismEsotropia"
+    },
+    {
+        "name": "CloquetsCanal"
+    },
+    {
+        "name": "ClosedangleGlaucoma"
+    },
+    {
+        "name": "Clostridium"
+    },
+    {
+        "name": "Cme"
+    },
+    {
+        "name": "Cmi"
+    },
+    {
+        "name": "Cnn"
+    },
+    {
+        "name": "Cns"
+    },
+    {
+        "name": "CNV"
+    },
+    {
+        "name": "Coag"
+    },
+    {
+        "name": "Coagulation"
+    },
+    {
+        "name": "CoatsDisease"
+    },
+    {
+        "name": "CoatsWhiteRing"
+    },
+    {
+        "name": "CoaxialViewing"
+    },
+    {
+        "name": "Cobblestones"
+    },
+    {
+        "name": "Cocaine"
+    },
+    {
+        "name": "Cocktail"
+    },
+    {
+        "name": "CocontractionSyndrome"
+    },
+    {
+        "name": "CogansCongenOculoApraxia"
+    },
+    {
+        "name": "CogansLidTwitch"
+    },
+    {
+        "name": "CogansSyndrome"
+    },
+    {
+        "name": "Cogwheeling"
+    },
+    {
+        "name": "Collagen"
+    },
+    {
+        "name": "CollagenDisease"
+    },
+    {
+        "name": "Collarette"
+    },
+    {
+        "name": "CollateralCirculation"
+    },
+    {
+        "name": "ColliersSign"
+    },
+    {
+        "name": "Collyrium"
+    },
+    {
+        "name": "Coloboma"
+    },
+    {
+        "name": "ColorBlindness"
+    },
+    {
+        "name": "ColorPerimetry"
+    },
+    {
+        "name": "ColorVision"
+    },
+    {
+        "name": "ComaAberration"
+    },
+    {
+        "name": "CombergLens"
+    },
+    {
+        "name": "CometScotoma"
+    },
+    {
+        "name": "ComitantStrabismus"
+    },
+    {
+        "name": "CommonCanaliculus"
+    },
+    {
+        "name": "CommotioRetinae"
+    },
+    {
+        "name": "ComplementaryAfterimage"
+    },
+    {
+        "name": "ComplementaryChromaticities"
+    },
+    {
+        "name": "ComplementaryColors"
+    },
+    {
+        "name": "CompleteBloodCount"
+    },
+    {
+        "name": "CompoundAstigmatism"
+    },
+    {
+        "name": "ComputerizedTomography"
+    },
+    {
+        "name": "concavelens"
+    },
+    {
+        "name": "Cone"
+    },
+    {
+        "name": "ConeDystrophy"
+    },
+    {
+        "name": "ConeMonochromacy"
+    },
+    {
+        "name": "Conformer"
+    },
+    {
+        "name": "ConfrontationFields"
+    },
+    {
+        "name": "Confusion"
+    },
+    {
+        "name": "CongenitalAmaurosis"
+    },
+    {
+        "name": "CongenitalBulbarParalysis"
+    },
+    {
+        "name": "CongenitalEsotropia"
+    },
+    {
+        "name": "CongenitalFacialDiplegia"
+    },
+    {
+        "name": "CongenitalFibrosisSyndrome"
+    },
+    {
+        "name": "CongenitalGlaucoma"
+    },
+    {
+        "name": "CongenitalNystagmus"
+    },
+    {
+        "name": "CongenitalOculomotorApraxia"
+    },
+    {
+        "name": "CongenitalSystrophicPtosis"
+    },
+    {
+        "name": "Congested"
+    },
+    {
+        "name": "Congruous"
+    },
+    {
+        "name": "ConicalCornea"
+    },
+    {
+        "name": "ConjugateMovement"
+    },
+    {
+        "name": "Conjunctiva"
+    },
+    {
+        "name": "ConjunctivalFlap"
+    },
+    {
+        "name": "ConjunctivalHyperemia"
+    },
+    {
+        "name": "ConjunctivalInjection"
+    },
+    {
+        "name": "ConjunctivalSac"
+    },
+    {
+        "name": "ConjunctivalScraping"
+    },
+    {
+        "name": "ConjunctiveMovement"
+    },
+    {
+        "name": "Conjunctivitis"
+    },
+    {
+        "name": "Conjunctivodacryocystorhinostomy"
+    },
+    {
+        "name": "ConnectiveTissure"
+    },
+    {
+        "name": "ConoidOfSturn"
+    },
+    {
+        "name": "ConsecutiveEsotropia"
+    },
+    {
+        "name": "ConsecutiveExotropia"
+    },
+    {
+        "name": "ConsensualLightReflex"
+    },
+    {
+        "name": "ConsensualLightResponse"
+    },
+    {
+        "name": "ConstrictedPupil"
+    },
+    {
+        "name": "ContactArc"
+    },
+    {
+        "name": "ContactConjunctivitis"
+    },
+    {
+        "name": "ContactDermatitis"
+    },
+    {
+        "name": "ContactLens"
+    },
+    {
+        "name": "ContactoGauge"
+    },
+    {
+        "name": "Contactoscope"
+    },
+    {
+        "name": "ContinousSutures"
+    },
+    {
+        "name": "Contralateral"
+    },
+    {
+        "name": "ContralateralAntagonist"
+    },
+    {
+        "name": "ContrastSensitivity"
+    },
+    {
+        "name": "Contusion"
+    },
+    {
+        "name": "ConusOfOpticDisc"
+    },
+    {
+        "name": "ConusRetinalis"
+    },
+    {
+        "name": "ConvaveCylinder"
+    },
+    {
+        "name": "Converge"
+    },
+    {
+        "name": "Convergence"
+    },
+    {
+        "name": "ConvergenceAmplitudes"
+    },
+    {
+        "name": "ConvergenceInsufficiency"
+    },
+    {
+        "name": "ConvergenceSpasm"
+    },
+    {
+        "name": "ConvergentDeviation"
+    },
+    {
+        "name": "ConvergingLens"
+    },
+    {
+        "name": "ConvexLens"
+    },
+    {
+        "name": "ConvexoconcaveLens"
+    },
+    {
+        "name": "CopelandLens"
+    },
+    {
+        "name": "CopperWiring"
+    },
+    {
+        "name": "COR"
+    },
+    {
+        "name": "Corectopia"
+    },
+    {
+        "name": "Coreoplasty"
+    },
+    {
+        "name": "Cornea"
+    },
+    {
+        "name": "CorneaAbrasion"
+    },
+    {
+        "name": "Corneal"
+    },
+    {
+        "name": "CornealAstigmatism"
+    },
+    {
+        "name": "CornealBedewing"
+    },
+    {
+        "name": "CornealButton"
+    },
+    {
+        "name": "CornealCap"
+    },
+    {
+        "name": "CornealDellen"
+    },
+    {
+        "name": "CornealDystrophy"
+    },
+    {
+        "name": "CornealEdema"
+    },
+    {
+        "name": "CornealErosion"
+    },
+    {
+        "name": "CornealGraft"
+    },
+    {
+        "name": "CornealHydrops"
+    },
+    {
+        "name": "CornealLens"
+    },
+    {
+        "name": "CornealMelt"
+    },
+    {
+        "name": "CornealReflex"
+    },
+    {
+        "name": "CornealScleralTrephination"
+    },
+    {
+        "name": "CornealScraping"
+    },
+    {
+        "name": "CornealTransplant"
+    },
+    {
+        "name": "CornealTransplant2"
+    },
+    {
+        "name": "CornealTrephination"
+    },
+    {
+        "name": "CornealUlcer"
+    },
+    {
+        "name": "CornelaEctasia"
+    },
+    {
+        "name": "CorrespondingPoints"
+    },
+    {
+        "name": "Cortex"
+    },
+    {
+        "name": "CorticalBlindness"
+    },
+    {
+        "name": "CorticalCataract"
+    },
+    {
+        "name": "CorticalSpokes"
+    },
+    {
+        "name": "Corticosteroid"
+    },
+    {
+        "name": "Corticosteroid_NSAIDs"
+    },
+    {
+        "name": "CorynebacteriumXerosis"
+    },
+    {
+        "name": "CottonwoolSpot"
+    },
+    {
+        "name": "Couching"
+    },
+    {
+        "name": "CountFinger"
+    },
+    {
+        "name": "CouvergingRays"
+    },
+    {
+        "name": "CoverTest"
+    },
+    {
+        "name": "Cows"
+    },
+    {
+        "name": "Cpc"
+    },
+    {
+        "name": "Cpd"
+    },
+    {
+        "name": "Cpeo"
+    },
+    {
+        "name": "CR39"
+    },
+    {
+        "name": "Cra"
+    },
+    {
+        "name": "CranialArteritis"
+    },
+    {
+        "name": "CranialNerves"
+    },
+    {
+        "name": "CranioFacialDysostosis"
+    },
+    {
+        "name": "Craniopharyngioma"
+    },
+    {
+        "name": "Craniosynostosis"
+    },
+    {
+        "name": "Crao"
+    },
+    {
+        "name": "CreatinineSerum"
+    },
+    {
+        "name": "CredesProphylaxis"
+    },
+    {
+        "name": "Crescent"
+    },
+    {
+        "name": "CribiformLigament"
+    },
+    {
+        "name": "CribiformPlate"
+    },
+    {
+        "name": "CriduchatSyndrome"
+    },
+    {
+        "name": "CrocodileTears"
+    },
+    {
+        "name": "CrossCoverTest"
+    },
+    {
+        "name": "CrossCylinder"
+    },
+    {
+        "name": "CrossedDiplopia"
+    },
+    {
+        "name": "Crosseyes"
+    },
+    {
+        "name": "CrossFixation"
+    },
+    {
+        "name": "CrouzonsSyndrome"
+    },
+    {
+        "name": "CrowdingPhenomenon"
+    },
+    {
+        "name": "Crv"
+    },
+    {
+        "name": "Crvo"
+    },
+    {
+        "name": "Cryo"
+    },
+    {
+        "name": "Cryoextraction"
+    },
+    {
+        "name": "Cryolathe"
+    },
+    {
+        "name": "Cryopexy"
+    },
+    {
+        "name": "Cryophake"
+    },
+    {
+        "name": "Cryoprobe"
+    },
+    {
+        "name": "Cryoretinopexy"
+    },
+    {
+        "name": "Cryptophthalmus"
+    },
+    {
+        "name": "CryptsOfFuchs"
+    },
+    {
+        "name": "CrystallineLens"
+    },
+    {
+        "name": "CS"
+    },
+    {
+        "name": "Csf"
+    },
+    {
+        "name": "csme"
+    },
+    {
+        "name": "CSOpticdict"
+    },
+    {
+        "name": "Ct"
+    },
+    {
+        "name": "Ct2"
+    },
+    {
+        "name": "CTL"
+    },
+    {
+        "name": "ctp"
+    },
+    {
+        "name": "CTT"
+    },
+    {
+        "name": "Culdesac"
+    },
+    {
+        "name": "CultureMedium"
+    },
+    {
+        "name": "Cum"
+    },
+    {
+        "name": "CumCorrection"
+    },
+    {
+        "name": "Cup"
+    },
+    {
+        "name": "CuppedDisc"
+    },
+    {
+        "name": "Cuptodisc"
+    },
+    {
+        "name": "CupuliformCataract"
+    },
+    {
+        "name": "CurvatureHyperopia"
+    },
+    {
+        "name": "CurvatureMyopia"
+    },
+    {
+        "name": "CutaneousHorn"
+    },
+    {
+        "name": "CuttlerbeardProcedure"
+    },
+    {
+        "name": "CV"
+    },
+    {
+        "name": "Cva"
+    },
+    {
+        "name": "CVS"
+    },
+    {
+        "name": "Cyanolabe"
+    },
+    {
+        "name": "Cyanopsia"
+    },
+    {
+        "name": "Cyclectomy"
+    },
+    {
+        "name": "CyclicStrabismus"
+    },
+    {
+        "name": "CycliticMembrane"
+    },
+    {
+        "name": "Cyclitis"
+    },
+    {
+        "name": "Cyclocryo"
+    },
+    {
+        "name": "Cyclocryopexy"
+    },
+    {
+        "name": "Cyclocryotherapy"
+    },
+    {
+        "name": "Cyclodialysis"
+    },
+    {
+        "name": "Cyclodiathermy"
+    },
+    {
+        "name": "Cycloduction"
+    },
+    {
+        "name": "CyclopentolateHydrochloride"
+    },
+    {
+        "name": "Cyclopia"
+    },
+    {
+        "name": "Cycloplegia"
+    },
+    {
+        "name": "Cycloplegic"
+    },
+    {
+        "name": "CycloplegicAgents"
+    },
+    {
+        "name": "CycloplegicRefraction"
+    },
+    {
+        "name": "Cyclops"
+    },
+    {
+        "name": "Cyclotropia"
+    },
+    {
+        "name": "Cycloversion"
+    },
+    {
+        "name": "Cyl"
+    },
+    {
+        "name": "Cylinder"
+    },
+    {
+        "name": "Cyst"
+    },
+    {
+        "name": "CysticMicrophthalmia"
+    },
+    {
+        "name": "Cystinosis"
+    },
+    {
+        "name": "CystoidMucularEdema"
+    },
+    {
+        "name": "CystomegalicInclusionDisease"
+    },
+    {
+        "name": "Cystotome"
+    },
+    {
+        "name": "CytotoxicAgent"
+    },
+    {
+        "name": "Cytotoxin"
+    },
+    {
+        "name": "D"
+    },
+    {
+        "name": "Dacryadenitis"
+    },
+    {
+        "name": "Dacryo"
+    },
+    {
+        "name": "Dacryoadenistis"
+    },
+    {
+        "name": "Dacryocystectomy"
+    },
+    {
+        "name": "Dacryocystitis"
+    },
+    {
+        "name": "Dacryocystography"
+    },
+    {
+        "name": "Dacryocytogram"
+    },
+    {
+        "name": "Dacryoscintigraphy"
+    },
+    {
+        "name": "DalenfuchsNodules"
+    },
+    {
+        "name": "DalrymplesSign"
+    },
+    {
+        "name": "DannheimLens"
+    },
+    {
+        "name": "DarkAdaption"
+    },
+    {
+        "name": "DarkRoomProvocativeTest"
+    },
+    {
+        "name": "DC"
+    },
+    {
+        "name": "Dcr"
+    },
+    {
+        "name": "Ddh"
+    },
+    {
+        "name": "DDST"
+    },
+    {
+        "name": "Debridement"
+    },
+    {
+        "name": "Decentration"
+    },
+    {
+        "name": "Decompression"
+    },
+    {
+        "name": "Decussation"
+    },
+    {
+        "name": "DegenerativeMyopia"
+    },
+    {
+        "name": "Degree"
+    },
+    {
+        "name": "Dellen"
+    },
+    {
+        "name": "Dematochalasis"
+    },
+    {
+        "name": "DemecariumBromide"
+    },
+    {
+        "name": "Demyelination"
+    },
+    {
+        "name": "Dendriform"
+    },
+    {
+        "name": "Dendrite"
+    },
+    {
+        "name": "DendriticKeratitis"
+    },
+    {
+        "name": "DenervationSupersensitivity"
+    },
+    {
+        "name": "Deorsumvergence"
+    },
+    {
+        "name": "Deorsumversion"
+    },
+    {
+        "name": "Depression"
+    },
+    {
+        "name": "Depressors"
+    },
+    {
+        "name": "Deprivation"
+    },
+    {
+        "name": "DepthPerception"
+    },
+    {
+        "name": "Dermatomyositis"
+    },
+    {
+        "name": "Dermatovonjunctivitis"
+    },
+    {
+        "name": "Dermoid"
+    },
+    {
+        "name": "Desaturated15HueTest"
+    },
+    {
+        "name": "Descemetocele"
+    },
+    {
+        "name": "DescemetsMembrane"
+    },
+    {
+        "name": "Detachment"
+    },
+    {
+        "name": "Deuteranomaly"
+    },
+    {
+        "name": "Deuteranopia"
+    },
+    {
+        "name": "DevergingLens"
+    },
+    {
+        "name": "Deviation"
+    },
+    {
+        "name": "DevicsDisease"
+    },
+    {
+        "name": "DexamethasoneSodiumPhosphate"
+    },
+    {
+        "name": "Dextroversion"
+    },
+    {
+        "name": "Dfp"
+    },
+    {
+        "name": "DH"
+    },
+    {
+        "name": "DiabeticRetinopathy"
+    },
+    {
+        "name": "DiagnosticPositionsOfGaze"
+    },
+    {
+        "name": "Dialysis"
+    },
+    {
+        "name": "DiamondConjunctivalResection"
+    },
+    {
+        "name": "Diaphoresis"
+    },
+    {
+        "name": "DiastolidBloodPressure"
+    },
+    {
+        "name": "Diathermy"
+    },
+    {
+        "name": "Dichlorophenamide"
+    },
+    {
+        "name": "Dichromatism"
+    },
+    {
+        "name": "Dictionary"
+    },
+    {
+        "name": "Differential"
+    },
+    {
+        "name": "Diffraction"
+    },
+    {
+        "name": "Diffuse"
+    },
+    {
+        "name": "DiffuseAngiokeratoma"
+    },
+    {
+        "name": "DiffuseUnilateralSubacuteNeuroretinitis"
+    },
+    {
+        "name": "DigitalisToxicity"
+    },
+    {
+        "name": "Dihiscence"
+    },
+    {
+        "name": "DiisopropylFluorophosphate"
+    },
+    {
+        "name": "Diktyoma"
+    },
+    {
+        "name": "Dilate"
+    },
+    {
+        "name": "DilatedPinholeTest"
+    },
+    {
+        "name": "DilatedPupil"
+    },
+    {
+        "name": "DilatorMuscle"
+    },
+    {
+        "name": "DilatorPupillae"
+    },
+    {
+        "name": "Dioper"
+    },
+    {
+        "name": "Diphtheroid"
+    },
+    {
+        "name": "Dipivefrin"
+    },
+    {
+        "name": "Diplopia"
+    },
+    {
+        "name": "DiplopiaFields"
+    },
+    {
+        "name": "DirectAntagonist"
+    },
+    {
+        "name": "DirectGoniotomy"
+    },
+    {
+        "name": "DirectLightResponse"
+    },
+    {
+        "name": "DirectOphthalmoscope"
+    },
+    {
+        "name": "DirectScope"
+    },
+    {
+        "name": "Disc"
+    },
+    {
+        "name": "DiscCupping"
+    },
+    {
+        "name": "DiscDiameter"
+    },
+    {
+        "name": "DiscDrusen"
+    },
+    {
+        "name": "DisciformDegenerationOfTheMacula"
+    },
+    {
+        "name": "DisciformKeratitis"
+    },
+    {
+        "name": "Discision"
+    },
+    {
+        "name": "DiscNeovascularization"
+    },
+    {
+        "name": "DisconjugateMovement"
+    },
+    {
+        "name": "Disinsertion"
+    },
+    {
+        "name": "DisjugateMovement"
+    },
+    {
+        "name": "DisjunctiveMovement"
+    },
+    {
+        "name": "DislocatedLens"
+    },
+    {
+        "name": "DisodiumEdta"
+    },
+    {
+        "name": "DisparateRetinalPoints"
+    },
+    {
+        "name": "DispensingOptician"
+    },
+    {
+        "name": "DisposableLens"
+    },
+    {
+        "name": "DissociatedDoubleHypertropia"
+    },
+    {
+        "name": "DissociatedNystagmus"
+    },
+    {
+        "name": "DissociatedPosition"
+    },
+    {
+        "name": "DissociatedVerticalDeviation"
+    },
+    {
+        "name": "Distal"
+    },
+    {
+        "name": "DistanceAndNear"
+    },
+    {
+        "name": "DistanceVision"
+    },
+    {
+        "name": "Distichiasis"
+    },
+    {
+        "name": "Distometer"
+    },
+    {
+        "name": "Distorsion"
+    },
+    {
+        "name": "Diuresis"
+    },
+    {
+        "name": "Diuretic"
+    },
+    {
+        "name": "Diverge"
+    },
+    {
+        "name": "Divergence"
+    },
+    {
+        "name": "DivergenceExcess"
+    },
+    {
+        "name": "DivergenceInsufficiency"
+    },
+    {
+        "name": "DivergentStrabismus"
+    },
+    {
+        "name": "Dk"
+    },
+    {
+        "name": "Dk_L"
+    },
+    {
+        "name": "DLPC"
+    },
+    {
+        "name": "DLPN"
+    },
+    {
+        "name": "Dn"
+    },
+    {
+        "name": "DNA"
+    },
+    {
+        "name": "DOG"
+    },
+    {
+        "name": "DollsHeadPhenomenon"
+    },
+    {
+        "name": "DOMS"
+    },
+    {
+        "name": "DondersChart"
+    },
+    {
+        "name": "DondersLaw"
+    },
+    {
+        "name": "DondersLine"
+    },
+    {
+        "name": "DonorEye"
+    },
+    {
+        "name": "DorellosCanal"
+    },
+    {
+        "name": "Dorsal"
+    },
+    {
+        "name": "Dorsalis"
+    },
+    {
+        "name": "DorsalMidbrainSyndrome"
+    },
+    {
+        "name": "DotAndBlot"
+    },
+    {
+        "name": "DoubleArcuateScotoma"
+    },
+    {
+        "name": "DoubleDissociated"
+    },
+    {
+        "name": "DoubleElevatorPalsy"
+    },
+    {
+        "name": "DoubleHomonymousHemianopsia"
+    },
+    {
+        "name": "DoubleHypertropia"
+    },
+    {
+        "name": "DoubleVision"
+    },
+    {
+        "name": "DouvasRotoextractor"
+    },
+    {
+        "name": "DownBeatNystagmus"
+    },
+    {
+        "name": "Downgaze"
+    },
+    {
+        "name": "DownsSyndrome"
+    },
+    {
+        "name": "DoynesSyndrome"
+    },
+    {
+        "name": "DPA"
+    },
+    {
+        "name": "DraegerTonometer"
+    },
+    {
+        "name": "DraggedDisc"
+    },
+    {
+        "name": "DraggedMacula"
+    },
+    {
+        "name": "DruaultsBundle"
+    },
+    {
+        "name": "DrugAbuseRetinopathy"
+    },
+    {
+        "name": "Drusen"
+    },
+    {
+        "name": "DrusenDisc"
+    },
+    {
+        "name": "DryEyeAgents"
+    },
+    {
+        "name": "DryEyeSyndrome"
+    },
+    {
+        "name": "DSA"
+    },
+    {
+        "name": "DSeg"
+    },
+    {
+        "name": "DTrisomySyndrome"
+    },
+    {
+        "name": "DuanesAccommodationChart"
+    },
+    {
+        "name": "DuanesRetractionSyndrome"
+    },
+    {
+        "name": "Duction"
+    },
+    {
+        "name": "DuochromeTest"
+    },
+    {
+        "name": "Dusn"
+    },
+    {
+        "name": "DV"
+    },
+    {
+        "name": "DVA"
+    },
+    {
+        "name": "Dvd"
+    },
+    {
+        "name": "DVM"
+    },
+    {
+        "name": "DW"
+    },
+    {
+        "name": "DyeDilution"
+    },
+    {
+        "name": "Dysarthria"
+    },
+    {
+        "name": "Dyschromatopsia"
+    },
+    {
+        "name": "Dyscoria"
+    },
+    {
+        "name": "Dyscrasia"
+    },
+    {
+        "name": "Dyslexia"
+    },
+    {
+        "name": "Dysmetria"
+    },
+    {
+        "name": "Dysplasia"
+    },
+    {
+        "name": "DysplasticColoboma"
+    },
+    {
+        "name": "Dysthyroidism"
+    },
+    {
+        "name": "Dystrophy"
+    },
+    {
+        "name": "E'"
+    },
+    {
+        "name": "E"
+    },
+    {
+        "name": "Eagleeye"
+    },
+    {
+        "name": "EalesDisease"
+    },
+    {
+        "name": "EarlsFetalBovineSerum"
+    },
+    {
+        "name": "EBV"
+    },
+    {
+        "name": "ECA"
+    },
+    {
+        "name": "Ecce"
+    },
+    {
+        "name": "EccentricFixation"
+    },
+    {
+        "name": "Ecchymosis"
+    },
+    {
+        "name": "Echography"
+    },
+    {
+        "name": "EchothiophateIodide"
+    },
+    {
+        "name": "EclipseBlindness"
+    },
+    {
+        "name": "EclipseScotoma"
+    },
+    {
+        "name": "Ectasia"
+    },
+    {
+        "name": "EctopiaLentis"
+    },
+    {
+        "name": "EctopiaMacula"
+    },
+    {
+        "name": "EctopicPupil"
+    },
+    {
+        "name": "Ectropion"
+    },
+    {
+        "name": "Edema"
+    },
+    {
+        "name": "EdetateSodium"
+    },
+    {
+        "name": "EdigerwestphalNucleus"
+    },
+    {
+        "name": "Edma"
+    },
+    {
+        "name": "EdrophoniumChloride"
+    },
+    {
+        "name": "EdwardsSyndrome"
+    },
+    {
+        "name": "EEG"
+    },
+    {
+        "name": "EffectivePower"
+    },
+    {
+        "name": "EfferenctNerve"
+    },
+    {
+        "name": "Effusion"
+    },
+    {
+        "name": "EhlersDanlosSyndrome"
+    },
+    {
+        "name": "EightballHyphema"
+    },
+    {
+        "name": "Eikometer"
+    },
+    {
+        "name": "Ekc"
+    },
+    {
+        "name": "Ekf"
+    },
+    {
+        "name": "ElectromagneticSpectrum"
+    },
+    {
+        "name": "Electrooculogram"
+    },
+    {
+        "name": "Electroperimetry"
+    },
+    {
+        "name": "Electrophysiology"
+    },
+    {
+        "name": "Electroretinogram"
+    },
+    {
+        "name": "Elevation"
+    },
+    {
+        "name": "Elevators"
+    },
+    {
+        "name": "Elisa"
+    },
+    {
+        "name": "ElschnigPearls"
+    },
+    {
+        "name": "Embolus"
+    },
+    {
+        "name": "Emergent"
+    },
+    {
+        "name": "Emesis"
+    },
+    {
+        "name": "EMG"
+    },
+    {
+        "name": "Emmetropia"
+    },
+    {
+        "name": "Emphysema"
+    },
+    {
+        "name": "EncephalofacialAngiomatosis"
+    },
+    {
+        "name": "Endocarditis"
+    },
+    {
+        "name": "EndocrineExophthalmos"
+    },
+    {
+        "name": "EndocrineOphthalmopathy"
+    },
+    {
+        "name": "Endogenous"
+    },
+    {
+        "name": "EndogenousUveitis"
+    },
+    {
+        "name": "Endophthalmistis"
+    },
+    {
+        "name": "Endothelial"
+    },
+    {
+        "name": "EndothelialCamera"
+    },
+    {
+        "name": "Endothelium"
+    },
+    {
+        "name": "EndpointNystagmus"
+    },
+    {
+        "name": "Enophtalmos"
+    },
+    {
+        "name": "EntopticPhenomenon"
+    },
+    {
+        "name": "Entropion"
+    },
+    {
+        "name": "Enucleation"
+    },
+    {
+        "name": "EnzymaticCleaner"
+    },
+    {
+        "name": "EnzymLinkedImmunosorbentAssay"
+    },
+    {
+        "name": "Eog"
+    },
+    {
+        "name": "Eom"
+    },
+    {
+        "name": "Eosinophil"
+    },
+    {
+        "name": "EOZ"
+    },
+    {
+        "name": "Epiblepharon"
+    },
+    {
+        "name": "EpicanthalFold"
+    },
+    {
+        "name": "EpicanthusInversus"
+    },
+    {
+        "name": "EpicapsularLensStars"
+    },
+    {
+        "name": "EpidemicKeratoconjunctivitis"
+    },
+    {
+        "name": "Epikeratophakia"
+    },
+    {
+        "name": "Epilation"
+    },
+    {
+        "name": "Epinerphrine"
+    },
+    {
+        "name": "Epiphora"
+    },
+    {
+        "name": "EpiretinalMembrane"
+    },
+    {
+        "name": "Episclera"
+    },
+    {
+        "name": "EpiscleralExplant"
+    },
+    {
+        "name": "Episcleritis"
+    },
+    {
+        "name": "Epistaxis"
+    },
+    {
+        "name": "Epithelial"
+    },
+    {
+        "name": "EpithelialDowngrowth"
+    },
+    {
+        "name": "Epithelium"
+    },
+    {
+        "name": "Equator"
+    },
+    {
+        "name": "EquatorialDegeneration"
+    },
+    {
+        "name": "EquatorialMeridian"
+    },
+    {
+        "name": "Erg"
+    },
+    {
+        "name": "Erm"
+    },
+    {
+        "name": "Erosion"
+    },
+    {
+        "name": "Erysiphake"
+    },
+    {
+        "name": "ErythemaMultiforme"
+    },
+    {
+        "name": "ErythroclasticGlaucoma"
+    },
+    {
+        "name": "Erythrocyte"
+    },
+    {
+        "name": "ErythrocyteSedimentationRate"
+    },
+    {
+        "name": "Erythrolabe"
+    },
+    {
+        "name": "Erythropsia"
+    },
+    {
+        "name": "Eserine"
+    },
+    {
+        "name": "Eso"
+    },
+    {
+        "name": "Esodeviation"
+    },
+    {
+        "name": "Esophoria"
+    },
+    {
+        "name": "esoT"
+    },
+    {
+        "name": "Esotropia"
+    },
+    {
+        "name": "Esr"
+    },
+    {
+        "name": "EssentialIrisAtrophy"
+    },
+    {
+        "name": "ET'"
+    },
+    {
+        "name": "Et"
+    },
+    {
+        "name": "Et2"
+    },
+    {
+        "name": "ETDRS"
+    },
+    {
+        "name": "EthmoidBone"
+    },
+    {
+        "name": "EthmoidSinus"
+    },
+    {
+        "name": "Ethoxzolamide"
+    },
+    {
+        "name": "EthylAlcoholAmblyopia"
+    },
+    {
+        "name": "EthyleneGlycodimethacrylate"
+    },
+    {
+        "name": "Etiology"
+    },
+    {
+        "name": "Etiopathology"
+    },
+    {
+        "name": "ETrisomy"
+    },
+    {
+        "name": "Eucatropine"
+    },
+    {
+        "name": "Euthyscope"
+    },
+    {
+        "name": "Eversion"
+    },
+    {
+        "name": "Evisceration"
+    },
+    {
+        "name": "EVS"
+    },
+    {
+        "name": "EW"
+    },
+    {
+        "name": "EwNucleus"
+    },
+    {
+        "name": "Exacerbation"
+    },
+    {
+        "name": "Excise"
+    },
+    {
+        "name": "Excision"
+    },
+    {
+        "name": "Excoriation"
+    },
+    {
+        "name": "Excycloduction"
+    },
+    {
+        "name": "Excyclovergence"
+    },
+    {
+        "name": "ExecutiveBifocals"
+    },
+    {
+        "name": "ExecutiveTrifocals"
+    },
+    {
+        "name": "Exenteration"
+    },
+    {
+        "name": "Exfoliation"
+    },
+    {
+        "name": "Exo"
+    },
+    {
+        "name": "Exodeviation"
+    },
+    {
+        "name": "Exogenous"
+    },
+    {
+        "name": "Exophoria"
+    },
+    {
+        "name": "Exophthalmometer"
+    },
+    {
+        "name": "Exophthamos"
+    },
+    {
+        "name": "Exotropia"
+    },
+    {
+        "name": "Exo_T"
+    },
+    {
+        "name": "Explant"
+    },
+    {
+        "name": "ExposureKeratitis"
+    },
+    {
+        "name": "ExpulsiveHemorrhage"
+    },
+    {
+        "name": "ExtendedWearLens"
+    },
+    {
+        "name": "ExternalDisease"
+    },
+    {
+        "name": "ExternalGeniculateBody"
+    },
+    {
+        "name": "ExternalHordeolum"
+    },
+    {
+        "name": "ExternalLevatorResection"
+    },
+    {
+        "name": "ExternalLimitingMembrane"
+    },
+    {
+        "name": "ExternalOphthalmoplegia"
+    },
+    {
+        "name": "ExternalPterygoidlevatorSynkinesis"
+    },
+    {
+        "name": "ExternalStrabismus"
+    },
+    {
+        "name": "Extinction"
+    },
+    {
+        "name": "Extorsion"
+    },
+    {
+        "name": "ExtracapsularCataractExtraction"
+    },
+    {
+        "name": "ExtraocularMuscles"
+    },
+    {
+        "name": "ExtrinsicMuscles"
+    },
+    {
+        "name": "Extrucsion"
+    },
+    {
+        "name": "Exudate"
+    },
+    {
+        "name": "ExudativeRetinitis"
+    },
+    {
+        "name": "Eye"
+    },
+    {
+        "name": "Eyeball"
+    },
+    {
+        "name": "Eyebrow"
+    },
+    {
+        "name": "Eyecup"
+    },
+    {
+        "name": "EyeExamination"
+    },
+    {
+        "name": "Eyeground"
+    },
+    {
+        "name": "Eyelash"
+    },
+    {
+        "name": "Eyelids"
+    },
+    {
+        "name": "Eyepiece"
+    },
+    {
+        "name": "Eyestrain"
+    },
+    {
+        "name": "F"
+    },
+    {
+        "name": "F3t"
+    },
+    {
+        "name": "FabryDisease"
+    },
+    {
+        "name": "Face"
+    },
+    {
+        "name": "FacialPalsy"
+    },
+    {
+        "name": "FaciesAnteriorPalpebrarum"
+    },
+    {
+        "name": "FaciesOrbitalisMaxillae"
+    },
+    {
+        "name": "FacilityOfOutflow"
+    },
+    {
+        "name": "FACT"
+    },
+    {
+        "name": "FacultativeHyperopia"
+    },
+    {
+        "name": "FacultativeSuppression"
+    },
+    {
+        "name": "FadenProcedure"
+    },
+    {
+        "name": "FalciformFold"
+    },
+    {
+        "name": "FalseImage"
+    },
+    {
+        "name": "FamilialAutonomicDysfunction"
+    },
+    {
+        "name": "FamilialLipoproteinDeficiency"
+    },
+    {
+        "name": "FanDial"
+    },
+    {
+        "name": "FarbersLipogranulomatosis"
+    },
+    {
+        "name": "Farinata"
+    },
+    {
+        "name": "FarnsworthD100Test"
+    },
+    {
+        "name": "FarnsworthD15Test"
+    },
+    {
+        "name": "FarpointOfAccommodation"
+    },
+    {
+        "name": "Farsightedness"
+    },
+    {
+        "name": "FasanellaservatProcedure"
+    },
+    {
+        "name": "Fascia"
+    },
+    {
+        "name": "FasciaBulbi"
+    },
+    {
+        "name": "FasciaLataSling"
+    },
+    {
+        "name": "FAZ"
+    },
+    {
+        "name": "Fbs"
+    },
+    {
+        "name": "Fc"
+    },
+    {
+        "name": "FDA"
+    },
+    {
+        "name": "FDP"
+    },
+    {
+        "name": "Febrile"
+    },
+    {
+        "name": "FEF"
+    },
+    {
+        "name": "FeldsteinSuturePlication"
+    },
+    {
+        "name": "FerreerandPerimeter"
+    },
+    {
+        "name": "FetalAlcoholSyndrome"
+    },
+    {
+        "name": "FetalFissure"
+    },
+    {
+        "name": "FEVR"
+    },
+    {
+        "name": "FffFields"
+    },
+    {
+        "name": "FF_CATS"
+    },
+    {
+        "name": "FHC"
+    },
+    {
+        "name": "FiberLayerOfChevitz"
+    },
+    {
+        "name": "FiberopticLightPipe"
+    },
+    {
+        "name": "Fibrosis"
+    },
+    {
+        "name": "FibrousDysplasia"
+    },
+    {
+        "name": "FicksAxes"
+    },
+    {
+        "name": "FieldOfGaze"
+    },
+    {
+        "name": "FieldOfVision"
+    },
+    {
+        "name": "FifthCranialNerve"
+    },
+    {
+        "name": "FilamentaryKeratitis"
+    },
+    {
+        "name": "FilteringBleb"
+    },
+    {
+        "name": "FilteringProcedure"
+    },
+    {
+        "name": "FingerprintDystrophy"
+    },
+    {
+        "name": "FirstGradeFusion"
+    },
+    {
+        "name": "FishMouthTear"
+    },
+    {
+        "name": "FissureHeight"
+    },
+    {
+        "name": "FissureLenght"
+    },
+    {
+        "name": "Fix"
+    },
+    {
+        "name": "Fixate"
+    },
+    {
+        "name": "Fixation"
+    },
+    {
+        "name": "FixationAxis"
+    },
+    {
+        "name": "FixationLight"
+    },
+    {
+        "name": "FixationObject"
+    },
+    {
+        "name": "FixationReflex"
+    },
+    {
+        "name": "FixedDilatedPupil"
+    },
+    {
+        "name": "FixingEye"
+    },
+    {
+        "name": "FlamavicularRetinopathy"
+    },
+    {
+        "name": "Flap"
+    },
+    {
+        "name": "Flare"
+    },
+    {
+        "name": "FlashBlindness"
+    },
+    {
+        "name": "FlattestMeridian"
+    },
+    {
+        "name": "FlatTop"
+    },
+    {
+        "name": "FleckedRetinaSyndrome"
+    },
+    {
+        "name": "FleicherRing"
+    },
+    {
+        "name": "FlexLens"
+    },
+    {
+        "name": "FlickerFusionFrequencyFields"
+    },
+    {
+        "name": "FlieringaRing"
+    },
+    {
+        "name": "Floaters"
+    },
+    {
+        "name": "FluidGasExchange"
+    },
+    {
+        "name": "FluoresceinAngiography"
+    },
+    {
+        "name": "FluoresceinDyeDisapprearanceTest"
+    },
+    {
+        "name": "FluoresceinSodium"
+    },
+    {
+        "name": "Fluorophotometer"
+    },
+    {
+        "name": "Fluorophotometry"
+    },
+    {
+        "name": "Flush"
+    },
+    {
+        "name": "Flutter"
+    },
+    {
+        "name": "FM 100"
+    },
+    {
+        "name": "fMRI"
+    },
+    {
+        "name": "Focal"
+    },
+    {
+        "name": "FocalDistance"
+    },
+    {
+        "name": "FocalLength"
+    },
+    {
+        "name": "FocalPoint"
+    },
+    {
+        "name": "Focus"
+    },
+    {
+        "name": "FoersterfuchsSpot"
+    },
+    {
+        "name": "Fogging"
+    },
+    {
+        "name": "Follicles"
+    },
+    {
+        "name": "FollicularConjunctivitis"
+    },
+    {
+        "name": "Footcandle"
+    },
+    {
+        "name": "Footlambert"
+    },
+    {
+        "name": "FOR"
+    },
+    {
+        "name": "ForcedDuctionTest"
+    },
+    {
+        "name": "ForcedGenerationTest"
+    },
+    {
+        "name": "Forceps"
+    },
+    {
+        "name": "ForeignBodySensation"
+    },
+    {
+        "name": "Fornix"
+    },
+    {
+        "name": "FornixApproach"
+    },
+    {
+        "name": "FornixBasedFlap"
+    },
+    {
+        "name": "FosterkennedySyndrome"
+    },
+    {
+        "name": "FourprismDiopterTest"
+    },
+    {
+        "name": "FourthCranialNerve"
+    },
+    {
+        "name": "FourthNervePalsy"
+    },
+    {
+        "name": "Fovea"
+    },
+    {
+        "name": "FovealDystopia"
+    },
+    {
+        "name": "FovealReflex"
+    },
+    {
+        "name": "Foveola"
+    },
+    {
+        "name": "FovilleSyndrome"
+    },
+    {
+        "name": "Fpa"
+    },
+    {
+        "name": "Framing"
+    },
+    {
+        "name": "FranceschettiSyndrome"
+    },
+    {
+        "name": "FrancoisSyndrome"
+    },
+    {
+        "name": "FreeGraft"
+    },
+    {
+        "name": "FreeTenotomy"
+    },
+    {
+        "name": "FresnelLens"
+    },
+    {
+        "name": "FresnelPrinciple"
+    },
+    {
+        "name": "FresnelPrism"
+    },
+    {
+        "name": "Friable"
+    },
+    {
+        "name": "FrontalisSling"
+    },
+    {
+        "name": "FrontalLobe"
+    },
+    {
+        "name": "FrontalNerve"
+    },
+    {
+        "name": "FrostSuture"
+    },
+    {
+        "name": "Fuchs'Dystrophy"
+    },
+    {
+        "name": "Fuchs"
+    },
+    {
+        "name": "FuchsHeterochromicCyclitis"
+    },
+    {
+        "name": "FuchsSpot"
+    },
+    {
+        "name": "FunctionalAmblyopia"
+    },
+    {
+        "name": "FunctionalDefects"
+    },
+    {
+        "name": "Fundus"
+    },
+    {
+        "name": "FundusAlbipunctatus"
+    },
+    {
+        "name": "FundusCamera"
+    },
+    {
+        "name": "Funduscope"
+    },
+    {
+        "name": "FundusFlavimaculatus"
+    },
+    {
+        "name": "FungalCornealInfection"
+    },
+    {
+        "name": "FungalKeratitis"
+    },
+    {
+        "name": "Furrows"
+    },
+    {
+        "name": "Fusarium"
+    },
+    {
+        "name": "Fuscin"
+    },
+    {
+        "name": "FusedBifocal"
+    },
+    {
+        "name": "Fusion"
+    },
+    {
+        "name": "FusionalAmplitudes"
+    },
+    {
+        "name": "FusionalConvergence"
+    },
+    {
+        "name": "FusionFreePosition"
+    },
+    {
+        "name": "FVP"
+    },
+    {
+        "name": "FyoderovLens"
+    },
+    {
+        "name": "GABA"
+    },
+    {
+        "name": "GabellarFlap"
+    },
+    {
+        "name": "Gait"
+    },
+    {
+        "name": "Galactosemia"
+    },
+    {
+        "name": "GalactosylCeramideLipidosis"
+    },
+    {
+        "name": "Ganglion"
+    },
+    {
+        "name": "GanglionCellLayer"
+    },
+    {
+        "name": "GanglionCiliare"
+    },
+    {
+        "name": "Gangliosidoses"
+    },
+    {
+        "name": "Gargoylism"
+    },
+    {
+        "name": "GasPermeableLens"
+    },
+    {
+        "name": "GasserianGanglion"
+    },
+    {
+        "name": "GauchersDisease"
+    },
+    {
+        "name": "GazeMovement"
+    },
+    {
+        "name": "GazePalsy"
+    },
+    {
+        "name": "GazePareticNystagmus"
+    },
+    {
+        "name": "GBM"
+    },
+    {
+        "name": "GCA"
+    },
+    {
+        "name": "GeneralizedGangliosidosis"
+    },
+    {
+        "name": "GenevaLensClock"
+    },
+    {
+        "name": "GeniculateBody"
+    },
+    {
+        "name": "GeniculocalcarineTract"
+    },
+    {
+        "name": "GeographicChoroidopathy"
+    },
+    {
+        "name": "GeometricAxis"
+    },
+    {
+        "name": "GeometricEquator"
+    },
+    {
+        "name": "GeometricPerspective"
+    },
+    {
+        "name": "GermanMeasles"
+    },
+    {
+        "name": "Gerotoxon"
+    },
+    {
+        "name": "GH"
+    },
+    {
+        "name": "GhostCellGlaucoma"
+    },
+    {
+        "name": "GhostVessels"
+    },
+    {
+        "name": "GiantCellArteritis"
+    },
+    {
+        "name": "GiantPapillaryConjunctivitis"
+    },
+    {
+        "name": "GiantTear"
+    },
+    {
+        "name": "GiemsaStain"
+    },
+    {
+        "name": "GierkesDisease"
+    },
+    {
+        "name": "GirardProcedure"
+    },
+    {
+        "name": "Glare"
+    },
+    {
+        "name": "Glaucoma"
+    },
+    {
+        "name": "GlaucomaMedications"
+    },
+    {
+        "name": "GlaucomaMeds"
+    },
+    {
+        "name": "GlaucomatocycliticCrisis"
+    },
+    {
+        "name": "GlaucomSuspect"
+    },
+    {
+        "name": "Glaukomflecken"
+    },
+    {
+        "name": "Glia"
+    },
+    {
+        "name": "Glioma"
+    },
+    {
+        "name": "Globe"
+    },
+    {
+        "name": "Glycerin"
+    },
+    {
+        "name": "GobletCells"
+    },
+    {
+        "name": "GoldenharsSyndrome"
+    },
+    {
+        "name": "GoldmannApplanationTonometer"
+    },
+    {
+        "name": "GoldmannPerimeter"
+    },
+    {
+        "name": "Goniolens"
+    },
+    {
+        "name": "Goniophotocoagulation"
+    },
+    {
+        "name": "Goniopuncture"
+    },
+    {
+        "name": "Gonioscope"
+    },
+    {
+        "name": "Gonioscopy"
+    },
+    {
+        "name": "Goniotomy"
+    },
+    {
+        "name": "Gonosynechiae"
+    },
+    {
+        "name": "Gp"
+    },
+    {
+        "name": "Gpc"
+    },
+    {
+        "name": "GradenigosSyndrome"
+    },
+    {
+        "name": "Graft"
+    },
+    {
+        "name": "GramNegativeBacteria"
+    },
+    {
+        "name": "GramPositiveBacteria"
+    },
+    {
+        "name": "GramsStain"
+    },
+    {
+        "name": "GranularDystrophy"
+    },
+    {
+        "name": "Granuloma"
+    },
+    {
+        "name": "GranulomatousUveitis"
+    },
+    {
+        "name": "Graves"
+    },
+    {
+        "name": "GrayLine"
+    },
+    {
+        "name": "GridleyIntraocularLens"
+    },
+    {
+        "name": "GroenowsDystrophy"
+    },
+    {
+        "name": "GronbladstrandbergSyndrome"
+    },
+    {
+        "name": "Guanethidine"
+    },
+    {
+        "name": "GullstrandsReducedEye"
+    },
+    {
+        "name": "GunnPupil"
+    },
+    {
+        "name": "GunnSyndrome"
+    },
+    {
+        "name": "Guttata"
+    },
+    {
+        "name": "Gy"
+    },
+    {
+        "name": "GyrateDystrophy"
+    },
+    {
+        "name": "H"
+    },
+    {
+        "name": "H2s"
+    },
+    {
+        "name": "HA"
+    },
+    {
+        "name": "HaabsStriae"
+    },
+    {
+        "name": "HaidingerBrush"
+    },
+    {
+        "name": "HalbergClip"
+    },
+    {
+        "name": "HallermannstreiffSyndrome"
+    },
+    {
+        "name": "HallersLayer"
+    },
+    {
+        "name": "Halo"
+    },
+    {
+        "name": "Haloscope"
+    },
+    {
+        "name": "HandMotion"
+    },
+    {
+        "name": "HandMovement"
+    },
+    {
+        "name": "HandschullerChristianDisease"
+    },
+    {
+        "name": "Haptic"
+    },
+    {
+        "name": "HaradaIto"
+    },
+    {
+        "name": "HaradasSyndrome"
+    },
+    {
+        "name": "HardContactLens"
+    },
+    {
+        "name": "HardExudates"
+    },
+    {
+        "name": "HardyrandritterPlates"
+    },
+    {
+        "name": "Harmatoma"
+    },
+    {
+        "name": "HarmoniousARC"
+    },
+    {
+        "name": "HarringtonflocksMultiplePattern"
+    },
+    {
+        "name": "HasnersValve"
+    },
+    {
+        "name": "HassallhenleBodies"
+    },
+    {
+        "name": "HattsTest"
+    },
+    {
+        "name": "Hcl"
+    },
+    {
+        "name": "HeadTiltTest"
+    },
+    {
+        "name": "Healon-GV"
+    },
+    {
+        "name": "Healon"
+    },
+    {
+        "name": "HeartAttack"
+    },
+    {
+        "name": "HeattreatedLens"
+    },
+    {
+        "name": "HeerfordtsDisease"
+    },
+    {
+        "name": "heerfordt_syndrome"
+    },
+    {
+        "name": "HelicoidChoroidopathy"
+    },
+    {
+        "name": "Hema"
+    },
+    {
+        "name": "Hemangioma"
+    },
+    {
+        "name": "Hematocrit"
+    },
+    {
+        "name": "Hematogenous"
+    },
+    {
+        "name": "Heme"
+    },
+    {
+        "name": "Hemeralopia"
+    },
+    {
+        "name": "Hemianopia"
+    },
+    {
+        "name": "Hemianopsia"
+    },
+    {
+        "name": "HemifacialMicrosomia"
+    },
+    {
+        "name": "Hemoglobin"
+    },
+    {
+        "name": "HemolyticGlaucome"
+    },
+    {
+        "name": "HemophilusAegyptius"
+    },
+    {
+        "name": "Hemorrhage"
+    },
+    {
+        "name": "HemorrhageConjunctivitis"
+    },
+    {
+        "name": "HemorrhageGlaucoma"
+    },
+    {
+        "name": "HemorrhagicRetinopathy"
+    },
+    {
+        "name": "Hemostasis"
+    },
+    {
+        "name": "HenleFiberLayer"
+    },
+    {
+        "name": "HenlesGlands"
+    },
+    {
+        "name": "HepatolenticularDegeneration"
+    },
+    {
+        "name": "HepatorenalGlycogenesis"
+    },
+    {
+        "name": "HepermatureCataract"
+    },
+    {
+        "name": "Hepermetropia"
+    },
+    {
+        "name": "HerbertsPits"
+    },
+    {
+        "name": "HeredopathiaAtacticaPolyneu"
+    },
+    {
+        "name": "HeringsLaw"
+    },
+    {
+        "name": "HerpesSimplexVirus"
+    },
+    {
+        "name": "HerpesZoster"
+    },
+    {
+        "name": "HerpeticKeratitis"
+    },
+    {
+        "name": "HesslessScreen"
+    },
+    {
+        "name": "HeterochromiaOfIris"
+    },
+    {
+        "name": "HeterochromicUveitis"
+    },
+    {
+        "name": "Heteronymous"
+    },
+    {
+        "name": "HeteronymousDiplopia"
+    },
+    {
+        "name": "Heterophoria"
+    },
+    {
+        "name": "HeterophoricPosition"
+    },
+    {
+        "name": "Heterotropia"
+    },
+    {
+        "name": "HGP"
+    },
+    {
+        "name": "HIC"
+    },
+    {
+        "name": "HighHyperopia"
+    },
+    {
+        "name": "Hippus"
+    },
+    {
+        "name": "HirschbergTest"
+    },
+    {
+        "name": "Histocompatibility"
+    },
+    {
+        "name": "Histoplasmosis"
+    },
+    {
+        "name": "HistoSpots"
+    },
+    {
+        "name": "HIV"
+    },
+    {
+        "name": "Hla"
+    },
+    {
+        "name": "HlaTyping"
+    },
+    {
+        "name": "Hm"
+    },
+    {
+        "name": "HOAs"
+    },
+    {
+        "name": "HollenhorstPlaques"
+    },
+    {
+        "name": "HolmgrensTest"
+    },
+    {
+        "name": "HomatropineHydrobromide"
+    },
+    {
+        "name": "Homeostasis"
+    },
+    {
+        "name": "Homocystinuria"
+    },
+    {
+        "name": "Homonymous"
+    },
+    {
+        "name": "HomonymousDiplopia"
+    },
+    {
+        "name": "HomonymousNemianopia"
+    },
+    {
+        "name": "HonanBalloon"
+    },
+    {
+        "name": "Hook"
+    },
+    {
+        "name": "Hordeolum"
+    },
+    {
+        "name": "HorizontalGazeCenter"
+    },
+    {
+        "name": "HorizontalMeridian"
+    },
+    {
+        "name": "HorizontalNystagmus"
+    },
+    {
+        "name": "HorizontalRaphe"
+    },
+    {
+        "name": "HorizontalTighteningProcedure"
+    },
+    {
+        "name": "HornersSyndrome"
+    },
+    {
+        "name": "Horopter"
+    },
+    {
+        "name": "HorseshoeTear"
+    },
+    {
+        "name": "Hotv"
+    },
+    {
+        "name": "HowarddolmanApparatus"
+    },
+    {
+        "name": "HPMC"
+    },
+    {
+        "name": "HR"
+    },
+    {
+        "name": "HRRPlates"
+    },
+    {
+        "name": "HrubyLens"
+    },
+    {
+        "name": "Hsv"
+    },
+    {
+        "name": "Ht"
+    },
+    {
+        "name": "HudsonstahliLine"
+    },
+    {
+        "name": "Hue"
+    },
+    {
+        "name": "HughesProcedure"
+    },
+    {
+        "name": "HumanLeukocyteAntigens"
+    },
+    {
+        "name": "HummelsheimProcedure"
+    },
+    {
+        "name": "HumphreyAnlyzer"
+    },
+    {
+        "name": "HunterSyndrome"
+    },
+    {
+        "name": "HurlersSyndrome"
+    },
+    {
+        "name": "HutchinsonsPupil"
+    },
+    {
+        "name": "HutchinsonsTriad"
+    },
+    {
+        "name": "HyalineMasses"
+    },
+    {
+        "name": "Hyalitis"
+    },
+    {
+        "name": "HyaloidArtery"
+    },
+    {
+        "name": "HyaloidCanal"
+    },
+    {
+        "name": "HyaloidMembrane"
+    },
+    {
+        "name": "Hyaluronidase"
+    },
+    {
+        "name": "HydraulicReitnalReattachment"
+    },
+    {
+        "name": "HydrogelLens"
+    },
+    {
+        "name": "HydrogenPeroxideSterillization"
+    },
+    {
+        "name": "Hydrophilic"
+    },
+    {
+        "name": "HydrophilicLens"
+    },
+    {
+        "name": "HydropicDegeneration"
+    },
+    {
+        "name": "Hydrops"
+    },
+    {
+        "name": "Hydroxyamphetamine"
+    },
+    {
+        "name": "Hydroxychloroquine"
+    },
+    {
+        "name": "HydroxyEthylMethacrylate"
+    },
+    {
+        "name": "Hyper"
+    },
+    {
+        "name": "Hyperemia"
+    },
+    {
+        "name": "Hyperfluorescence"
+    },
+    {
+        "name": "Hyperlipoproteinemia"
+    },
+    {
+        "name": "Hyperopia"
+    },
+    {
+        "name": "HyperopicAstigmatism"
+    },
+    {
+        "name": "Hyperphoria"
+    },
+    {
+        "name": "Hyperplasia"
+    },
+    {
+        "name": "Hypertelorism"
+    },
+    {
+        "name": "HypertensiveRetinopathy"
+    },
+    {
+        "name": "Hyperthyroidism"
+    },
+    {
+        "name": "HypertonicSaline"
+    },
+    {
+        "name": "Hypertrophy"
+    },
+    {
+        "name": "Hypertropia"
+    },
+    {
+        "name": "HyperviscositySyndrome"
+    },
+    {
+        "name": "HypervitaminosisA"
+    },
+    {
+        "name": "HypervitaminosisD"
+    },
+    {
+        "name": "Hypesthesia"
+    },
+    {
+        "name": "Hyphema"
+    },
+    {
+        "name": "Hypo"
+    },
+    {
+        "name": "Hypofluorescence"
+    },
+    {
+        "name": "Hypolasia"
+    },
+    {
+        "name": "Hypophysis"
+    },
+    {
+        "name": "Hypopion"
+    },
+    {
+        "name": "HypoplasticDisc"
+    },
+    {
+        "name": "HypotensiveRetinopathy"
+    },
+    {
+        "name": "Hypotony"
+    },
+    {
+        "name": "Hypotropia"
+    },
+    {
+        "name": "Hypoxia"
+    },
+    {
+        "name": "HystericalAmblyopia"
+    },
+    {
+        "name": "HystericalField"
+    },
+    {
+        "name": "Hysterope"
+    },
+    {
+        "name": "Hysteropia"
+    },
+    {
+        "name": "Hz"
+    },
+    {
+        "name": "H_dict (36)"
+    },
+    {
+        "name": "I"
+    },
+    {
+        "name": "IAC"
+    },
+    {
+        "name": "Ianthinopsia"
+    },
+    {
+        "name": "Iatrogenic"
+    },
+    {
+        "name": "ICA"
+    },
+    {
+        "name": "Icce"
+    },
+    {
+        "name": "Icd"
+    },
+    {
+        "name": "Ice"
+    },
+    {
+        "name": "ICL"
+    },
+    {
+        "name": "IdiopathicAteritisOfTakayasu"
+    },
+    {
+        "name": "Idoxuridine"
+    },
+    {
+        "name": "Idu"
+    },
+    {
+        "name": "IFN"
+    },
+    {
+        "name": "Iga"
+    },
+    {
+        "name": "Ik"
+    },
+    {
+        "name": "IL"
+    },
+    {
+        "name": "IlliterateE"
+    },
+    {
+        "name": "Illuminance"
+    },
+    {
+        "name": "Im"
+    },
+    {
+        "name": "Image"
+    },
+    {
+        "name": "ImageDisplacement"
+    },
+    {
+        "name": "ImageJump"
+    },
+    {
+        "name": "ImagePoint"
+    },
+    {
+        "name": "ImmatureCataract"
+    },
+    {
+        "name": "ImmuneResponse"
+    },
+    {
+        "name": "ImmuneSystem"
+    },
+    {
+        "name": "Immunoglobulin"
+    },
+    {
+        "name": "ImpactResistantLens"
+    },
+    {
+        "name": "Implant"
+    },
+    {
+        "name": "IncidentRay"
+    },
+    {
+        "name": "Incise"
+    },
+    {
+        "name": "Incision"
+    },
+    {
+        "name": "InclusionBodies"
+    },
+    {
+        "name": "IncomitantStrabismus"
+    },
+    {
+        "name": "IncongruousFieldDefects"
+    },
+    {
+        "name": "IncontinentiaPigmenti"
+    },
+    {
+        "name": "Incycloduction"
+    },
+    {
+        "name": "Incyclovergence"
+    },
+    {
+        "name": "IndentationTonometry"
+    },
+    {
+        "name": "IndexHyperopia"
+    },
+    {
+        "name": "IndexMyopia"
+    },
+    {
+        "name": "IndexOfRefraction"
+    },
+    {
+        "name": "IndirectOphthalmoscope"
+    },
+    {
+        "name": "InducedAnisophoria"
+    },
+    {
+        "name": "InfantileEsotropia"
+    },
+    {
+        "name": "InfantileGlaucoma"
+    },
+    {
+        "name": "Infarct"
+    },
+    {
+        "name": "Infection"
+    },
+    {
+        "name": "Inferior"
+    },
+    {
+        "name": "InferiorArcade"
+    },
+    {
+        "name": "InferiorCanaliculus"
+    },
+    {
+        "name": "InferiorLongitudinalFasciculus"
+    },
+    {
+        "name": "InferiorNasalArtery"
+    },
+    {
+        "name": "InferiorNasalVein"
+    },
+    {
+        "name": "InferiorOblique"
+    },
+    {
+        "name": "InferiorOphthalmicVein"
+    },
+    {
+        "name": "InferiorOrbitalFissure"
+    },
+    {
+        "name": "InferiorPunctum"
+    },
+    {
+        "name": "InferiorRectus"
+    },
+    {
+        "name": "InferiorTemporalArtery"
+    },
+    {
+        "name": "InferiorTemporalVein"
+    },
+    {
+        "name": "Inferonasal"
+    },
+    {
+        "name": "Inferotemporal"
+    },
+    {
+        "name": "Infiltrate"
+    },
+    {
+        "name": "Infinity"
+    },
+    {
+        "name": "Inflammation"
+    },
+    {
+        "name": "InflammatoryResponse"
+    },
+    {
+        "name": "Infraduction"
+    },
+    {
+        "name": "InfranuclearPathway"
+    },
+    {
+        "name": "InfraorbitalNerve"
+    },
+    {
+        "name": "InfraredRadiation"
+    },
+    {
+        "name": "InfusionaspirationSystem"
+    },
+    {
+        "name": "InhiPConAntago"
+    },
+    {
+        "name": "Injection"
+    },
+    {
+        "name": "InnerCanthus"
+    },
+    {
+        "name": "InnerNuclearLayer"
+    },
+    {
+        "name": "InnerPlexiformLayer"
+    },
+    {
+        "name": "InnerRetina"
+    },
+    {
+        "name": "InnerSegment"
+    },
+    {
+        "name": "Ino"
+    },
+    {
+        "name": "InputNerve"
+    },
+    {
+        "name": "Insert"
+    },
+    {
+        "name": "Insertion"
+    },
+    {
+        "name": "IntercanthalDistance"
+    },
+    {
+        "name": "IntermediateCurve"
+    },
+    {
+        "name": "IntermittentEsotropia"
+    },
+    {
+        "name": "IntermittentExotropia"
+    },
+    {
+        "name": "IntermittentStabismus"
+    },
+    {
+        "name": "IntermuscularMembrane"
+    },
+    {
+        "name": "InternalCarotidArtery"
+    },
+    {
+        "name": "InternalHordeolum"
+    },
+    {
+        "name": "InternalLevatorResection"
+    },
+    {
+        "name": "InternalLimitingMembrane"
+    },
+    {
+        "name": "InternalOphthalmoplegia"
+    },
+    {
+        "name": "InternalStrabismus"
+    },
+    {
+        "name": "InternalTarsalorbicularisResection"
+    },
+    {
+        "name": "Internuclear"
+    },
+    {
+        "name": "InternuclearOphthalmoplegia"
+    },
+    {
+        "name": "Interocular"
+    },
+    {
+        "name": "InterpupillaryDistance"
+    },
+    {
+        "name": "InterruptedSutures"
+    },
+    {
+        "name": "InterstitialKeratitis"
+    },
+    {
+        "name": "InterTarConjMullerectomy"
+    },
+    {
+        "name": "Inthebag"
+    },
+    {
+        "name": "Inthesulcus"
+    },
+    {
+        "name": "Intorsion"
+    },
+    {
+        "name": "Intracameral"
+    },
+    {
+        "name": "IntracapsularCataractExtraction"
+    },
+    {
+        "name": "IntraepithelialEpithelioma"
+    },
+    {
+        "name": "IntramarginalSulcus"
+    },
+    {
+        "name": "Intramuscular"
+    },
+    {
+        "name": "Intraocular"
+    },
+    {
+        "name": "IntraocularLens"
+    },
+    {
+        "name": "IntraocularMuscles"
+    },
+    {
+        "name": "IntraocularPressure"
+    },
+    {
+        "name": "IntraretinalMicrovasAbnor"
+    },
+    {
+        "name": "IntrascleralImplant"
+    },
+    {
+        "name": "IntrascleralNerveLoops"
+    },
+    {
+        "name": "IntrasheathTenotomy"
+    },
+    {
+        "name": "Intravenous"
+    },
+    {
+        "name": "IntravenousFluoresceinAngiography"
+    },
+    {
+        "name": "intravitreal injection"
+    },
+    {
+        "name": "Intravitreal"
+    },
+    {
+        "name": "IntrinsicOcularMuscles"
+    },
+    {
+        "name": "Introduction"
+    },
+    {
+        "name": "IntumescentCataract"
+    },
+    {
+        "name": "InvolutionalEctropion"
+    },
+    {
+        "name": "InvolutionalEntropion"
+    },
+    {
+        "name": "Io"
+    },
+    {
+        "name": "IOA"
+    },
+    {
+        "name": "Iodopsin"
+    },
+    {
+        "name": "IOFB"
+    },
+    {
+        "name": "Iol"
+    },
+    {
+        "name": "Ion"
+    },
+    {
+        "name": "Iop"
+    },
+    {
+        "name": "IOT"
+    },
+    {
+        "name": "Ipd"
+    },
+    {
+        "name": "Ipsilateral"
+    },
+    {
+        "name": "IpsilateralAntagonist"
+    },
+    {
+        "name": "Ir"
+    },
+    {
+        "name": "Iridectomy"
+    },
+    {
+        "name": "Iridencleisis"
+    },
+    {
+        "name": "Irides"
+    },
+    {
+        "name": "Iridocapsulotomy"
+    },
+    {
+        "name": "IridocornealEndothelialSyndrome"
+    },
+    {
+        "name": "Iridocorneosclerectomy"
+    },
+    {
+        "name": "Iridocyclectomy"
+    },
+    {
+        "name": "Iridocyclitis"
+    },
+    {
+        "name": "Iridodialysis"
+    },
+    {
+        "name": "Iridodonesis"
+    },
+    {
+        "name": "Iridoplegia"
+    },
+    {
+        "name": "Iridotomy"
+    },
+    {
+        "name": "Iris"
+    },
+    {
+        "name": "IrisBombe"
+    },
+    {
+        "name": "IrisColoboma"
+    },
+    {
+        "name": "IrisCrypts"
+    },
+    {
+        "name": "IrisDilator"
+    },
+    {
+        "name": "IrisFixationLens"
+    },
+    {
+        "name": "IrisProlapse"
+    },
+    {
+        "name": "IrisRoot"
+    },
+    {
+        "name": "IrisSphincter"
+    },
+    {
+        "name": "IrisStroma"
+    },
+    {
+        "name": "Iritis"
+    },
+    {
+        "name": "Irma"
+    },
+    {
+        "name": "Irradiance"
+    },
+    {
+        "name": "IrreversilbleAmblyopia"
+    },
+    {
+        "name": "IrrgularAstigmatism"
+    },
+    {
+        "name": "IrvinegassSyndrome"
+    },
+    {
+        "name": "Ischemia"
+    },
+    {
+        "name": "IschemicOpticNeuropathy"
+    },
+    {
+        "name": "IseikonicLens"
+    },
+    {
+        "name": "IshiharaTestPlates"
+    },
+    {
+        "name": "ISO"
+    },
+    {
+        "name": "Isobutyl2cyanacrylate"
+    },
+    {
+        "name": "Isopsia"
+    },
+    {
+        "name": "Isosorbide"
+    },
+    {
+        "name": "ISRS"
+    },
+    {
+        "name": "IT"
+    },
+    {
+        "name": "Iv"
+    },
+    {
+        "name": "Ivfa"
+    },
+    {
+        "name": "J"
+    },
+    {
+        "name": "Jacinth"
+    },
+    {
+        "name": "JackintheboxPhenomenon"
+    },
+    {
+        "name": "JacksonCrossCylinder"
+    },
+    {
+        "name": "JaegerTest"
+    },
+    {
+        "name": "JanskybielschowskySyndrome"
+    },
+    {
+        "name": "JawWinkingSyndrome"
+    },
+    {
+        "name": "JensenProcedure"
+    },
+    {
+        "name": "JensensChoroiditisJuxtapapillaris"
+    },
+    {
+        "name": "JerkNystagmus"
+    },
+    {
+        "name": "JIA"
+    },
+    {
+        "name": "JohnsonSyndrome"
+    },
+    {
+        "name": "JonesTest"
+    },
+    {
+        "name": "JonesTube"
+    },
+    {
+        "name": "Joule"
+    },
+    {
+        "name": "JRA"
+    },
+    {
+        "name": "JunctionScotoma"
+    },
+    {
+        "name": "JuvenileCornealEpithelialDystrophy"
+    },
+    {
+        "name": "JuvenileGm1Gangliosidosis"
+    },
+    {
+        "name": "JuvenileRetinoschisis"
+    },
+    {
+        "name": "JuvenileRheumatoidArthritis"
+    },
+    {
+        "name": "JuvenileXanthogranuloma"
+    },
+    {
+        "name": "Juxtapapillary"
+    },
+    {
+        "name": "Juxtaposistion"
+    },
+    {
+        "name": "Jxg"
+    },
+    {
+        "name": "K"
+    },
+    {
+        "name": "KA"
+    },
+    {
+        "name": "KaufmanVitrector"
+    },
+    {
+        "name": "KayserfleischerRing"
+    },
+    {
+        "name": "Kcs"
+    },
+    {
+        "name": "KearnssayreSyndrome"
+    },
+    {
+        "name": "KelmanLens"
+    },
+    {
+        "name": "KennedySyndrome"
+    },
+    {
+        "name": "Keratabrasion"
+    },
+    {
+        "name": "Keratectasia"
+    },
+    {
+        "name": "Keratectomy"
+    },
+    {
+        "name": "KeraticPrecipitates"
+    },
+    {
+        "name": "Keratitis"
+    },
+    {
+        "name": "Kerato"
+    },
+    {
+        "name": "Keratoacanthoma"
+    },
+    {
+        "name": "Keratocele"
+    },
+    {
+        "name": "Keratocentesis"
+    },
+    {
+        "name": "Keratoconjunctivitis"
+    },
+    {
+        "name": "KeratoconjunctivitisSicca"
+    },
+    {
+        "name": "Keratoconus"
+    },
+    {
+        "name": "Keratoglobus"
+    },
+    {
+        "name": "Keratolysis"
+    },
+    {
+        "name": "Keratomalacia"
+    },
+    {
+        "name": "Keratome"
+    },
+    {
+        "name": "Keratometer"
+    },
+    {
+        "name": "KeratometerReadings"
+    },
+    {
+        "name": "Keratomileusis"
+    },
+    {
+        "name": "Keratomycosis"
+    },
+    {
+        "name": "Keratopathy"
+    },
+    {
+        "name": "Keratophakia"
+    },
+    {
+        "name": "Keratoplasty"
+    },
+    {
+        "name": "Keratoprosthesis"
+    },
+    {
+        "name": "Keratoscope"
+    },
+    {
+        "name": "Keratotomy"
+    },
+    {
+        "name": "Keratouveitis"
+    },
+    {
+        "name": "KestenbaumProcedure"
+    },
+    {
+        "name": "KestenbaumRule"
+    },
+    {
+        "name": "KeystoneCards"
+    },
+    {
+        "name": "KineticPerimetry"
+    },
+    {
+        "name": "Kinetics"
+    },
+    {
+        "name": "KissingChoroidals"
+    },
+    {
+        "name": "KlebsiellaPneumonia"
+    },
+    {
+        "name": "KlippelfeiSyndrome"
+    },
+    {
+        "name": "KnappProcedure"
+    },
+    {
+        "name": "KnappsRule"
+    },
+    {
+        "name": "KochweeksBacillus"
+    },
+    {
+        "name": "KoellnersLaw"
+    },
+    {
+        "name": "KoeppeLens"
+    },
+    {
+        "name": "Koh"
+    },
+    {
+        "name": "KollnersLaw"
+    },
+    {
+        "name": "Kps"
+    },
+    {
+        "name": "KrabbesDisease"
+    },
+    {
+        "name": "KratzLens"
+    },
+    {
+        "name": "KrauseGlands"
+    },
+    {
+        "name": "Kreadings"
+    },
+    {
+        "name": "KrimskyMethod"
+    },
+    {
+        "name": "KronleinProcedure"
+    },
+    {
+        "name": "KrukenbergsSpindle"
+    },
+    {
+        "name": "KrupinValve"
+    },
+    {
+        "name": "KufsDisease"
+    },
+    {
+        "name": "KuhntjuniusDisease"
+    },
+    {
+        "name": "KuhntszymanowskiProcedure"
+    },
+    {
+        "name": "L"
+    },
+    {
+        "name": "Labile"
+    },
+    {
+        "name": "LabyrithineNystagmus"
+    },
+    {
+        "name": "LacquerCracks"
+    },
+    {
+        "name": "LacrimalApparatus"
+    },
+    {
+        "name": "LacrimalArtery"
+    },
+    {
+        "name": "LacrimalBone"
+    },
+    {
+        "name": "LacrimalCanaliculi"
+    },
+    {
+        "name": "LacrimalDuct"
+    },
+    {
+        "name": "LacrimalGland"
+    },
+    {
+        "name": "LacrimalLake"
+    },
+    {
+        "name": "LacrimalNerve"
+    },
+    {
+        "name": "LacrimalPapilla"
+    },
+    {
+        "name": "LacrimalProbe"
+    },
+    {
+        "name": "LacrimalSac"
+    },
+    {
+        "name": "lacrimal_caruncle"
+    },
+    {
+        "name": "lacrimal_crest"
+    },
+    {
+        "name": "lacrimal_fascia"
+    },
+    {
+        "name": "lacrimal_prism"
+    },
+    {
+        "name": "lacrimal_reflex"
+    },
+    {
+        "name": "Lacrimation"
+    },
+    {
+        "name": "laevo"
+    },
+    {
+        "name": "Lagophthalmos"
+    },
+    {
+        "name": "LAL"
+    },
+    {
+        "name": "Lambert"
+    },
+    {
+        "name": "Lambert_cosine_law"
+    },
+    {
+        "name": "lamda_angle"
+    },
+    {
+        "name": "LamellarCataract"
+    },
+    {
+        "name": "LamellarCribrosa"
+    },
+    {
+        "name": "LamellarGraft"
+    },
+    {
+        "name": "LamellarKeratoplasty"
+    },
+    {
+        "name": "lamina papyracea"
+    },
+    {
+        "name": "LaminaDots"
+    },
+    {
+        "name": "LaminaFuscaSclerae"
+    },
+    {
+        "name": "LaminarFlow"
+    },
+    {
+        "name": "LaminaSuprachoroidea"
+    },
+    {
+        "name": "LaminaVitrea"
+    },
+    {
+        "name": "lamp"
+    },
+    {
+        "name": "LancasterRedgreen"
+    },
+    {
+        "name": "LancasterreganDial1"
+    },
+    {
+        "name": "LancasterreganDial2"
+    },
+    {
+        "name": "LandoltBrokenRingChart"
+    },
+    {
+        "name": "Lanthony'sDesaturated15HueTest"
+    },
+    {
+        "name": "LASEK"
+    },
+    {
+        "name": "Laser"
+    },
+    {
+        "name": "LaserGonioplasty"
+    },
+    {
+        "name": "LaserInterferometer"
+    },
+    {
+        "name": "LaserIridectomy"
+    },
+    {
+        "name": "LaserPupillomydriasis"
+    },
+    {
+        "name": "LaserSculpting"
+    },
+    {
+        "name": "LaserTrabeculoplasty"
+    },
+    {
+        "name": "LaserTreatment"
+    },
+    {
+        "name": "LASIK"
+    },
+    {
+        "name": "lasik_video"
+    },
+    {
+        "name": "LatentHyperopia"
+    },
+    {
+        "name": "LatentNystagmus"
+    },
+    {
+        "name": "LateralCanthotomy"
+    },
+    {
+        "name": "LateralCanthus"
+    },
+    {
+        "name": "LateralGeniculateBody"
+    },
+    {
+        "name": "LateralGeniculateNucleus"
+    },
+    {
+        "name": "LateralHorn"
+    },
+    {
+        "name": "LateralMedullarySyndrome"
+    },
+    {
+        "name": "LateralOrbitalDecompression"
+    },
+    {
+        "name": "LateralPalpebralLigament"
+    },
+    {
+        "name": "LateralRectusMuscle"
+    },
+    {
+        "name": "LateralRectusPalsy"
+    },
+    {
+        "name": "LathecutLens"
+    },
+    {
+        "name": "LatticeDystrophy"
+    },
+    {
+        "name": "LatticeRetinalDegeneration"
+    },
+    {
+        "name": "LaurencemoonbiedlSyndrome"
+    },
+    {
+        "name": "LazyEye"
+    },
+    {
+        "name": "LazyTprocedure"
+    },
+    {
+        "name": "LC"
+    },
+    {
+        "name": "LCA"
+    },
+    {
+        "name": "LCH"
+    },
+    {
+        "name": "Le"
+    },
+    {
+        "name": "Leash"
+    },
+    {
+        "name": "LebensohnChart"
+    },
+    {
+        "name": "LeberCongenitalAmurosis"
+    },
+    {
+        "name": "LebersDisease"
+    },
+    {
+        "name": "LEC"
+    },
+    {
+        "name": "LeftbeatingNystagmus"
+    },
+    {
+        "name": "LeftDeorsumvergence"
+    },
+    {
+        "name": "LeftGaze"
+    },
+    {
+        "name": "LeftgazeVerticals"
+    },
+    {
+        "name": "LeftHypertropia"
+    },
+    {
+        "name": "LeftSursumvergence"
+    },
+    {
+        "name": "LegalBlindness"
+    },
+    {
+        "name": "Lens"
+    },
+    {
+        "name": "LensAxis"
+    },
+    {
+        "name": "LensCapsule"
+    },
+    {
+        "name": "LensCortex"
+    },
+    {
+        "name": "Lensectomy"
+    },
+    {
+        "name": "LensinducedGlaucoma"
+    },
+    {
+        "name": "LensinducedUveitis"
+    },
+    {
+        "name": "LensNucleus"
+    },
+    {
+        "name": "Lensometer"
+    },
+    {
+        "name": "LensPower"
+    },
+    {
+        "name": "Lenticonus"
+    },
+    {
+        "name": "LenticularAstigmatism"
+    },
+    {
+        "name": "LenticularLens"
+    },
+    {
+        "name": "Lentiglobus"
+    },
+    {
+        "name": "Lesion"
+    },
+    {
+        "name": "Leukocoria"
+    },
+    {
+        "name": "Leukocyte"
+    },
+    {
+        "name": "Leukocytosis"
+    },
+    {
+        "name": "Leukoma"
+    },
+    {
+        "name": "LevatorAponeurosis"
+    },
+    {
+        "name": "LevatorMuscle"
+    },
+    {
+        "name": "LevatorPalpebraeSuperioris"
+    },
+    {
+        "name": "LevatorResection"
+    },
+    {
+        "name": "Levoversion"
+    },
+    {
+        "name": "Lgb"
+    },
+    {
+        "name": "Lgn"
+    },
+    {
+        "name": "Lht"
+    },
+    {
+        "name": "LidbracingSutures"
+    },
+    {
+        "name": "LidFold"
+    },
+    {
+        "name": "Lidocain"
+    },
+    {
+        "name": "LidRetraction"
+    },
+    {
+        "name": "Lids"
+    },
+    {
+        "name": "LidSpeculum"
+    },
+    {
+        "name": "LigamentumPectinatumIridis"
+    },
+    {
+        "name": "Light"
+    },
+    {
+        "name": "LightAdaptation"
+    },
+    {
+        "name": "LightnearDissociation"
+    },
+    {
+        "name": "LightPerception"
+    },
+    {
+        "name": "LightPipe"
+    },
+    {
+        "name": "LightProjection"
+    },
+    {
+        "name": "LigLag"
+    },
+    {
+        "name": "LignacfanconilsSyndrome"
+    },
+    {
+        "name": "LimbalApproach"
+    },
+    {
+        "name": "LimbalbasedFlap"
+    },
+    {
+        "name": "Limbus"
+    },
+    {
+        "name": "LimulusLysateTest"
+    },
+    {
+        "name": "LincarPerspective"
+    },
+    {
+        "name": "LindausDisease"
+    },
+    {
+        "name": "LindauvonHippelDisease"
+    },
+    {
+        "name": "LineOfDirection"
+    },
+    {
+        "name": "LineOfFixation"
+    },
+    {
+        "name": "Lipid"
+    },
+    {
+        "name": "LipimiaRetinalis"
+    },
+    {
+        "name": "Lipofuscin"
+    },
+    {
+        "name": "LischNodules"
+    },
+    {
+        "name": "ListingsLaw"
+    },
+    {
+        "name": "ListingsPlane"
+    },
+    {
+        "name": "Lithiasis"
+    },
+    {
+        "name": "Lkp"
+    },
+    {
+        "name": "Localixation"
+    },
+    {
+        "name": "LongCiliaryNerves"
+    },
+    {
+        "name": "LongitudinalAxisOfFick"
+    },
+    {
+        "name": "LongPosteriorCiliaryArteries"
+    },
+    {
+        "name": "LoopsOfAxenfeld"
+    },
+    {
+        "name": "LouisbarSyndrome"
+    },
+    {
+        "name": "Loupes"
+    },
+    {
+        "name": "lower order aberration"
+    },
+    {
+        "name": "LowerPunctum"
+    },
+    {
+        "name": "LowesSyndrome"
+    },
+    {
+        "name": "LowvisionAids"
+    },
+    {
+        "name": "Lp"
+    },
+    {
+        "name": "Lpp"
+    },
+    {
+        "name": "LPS"
+    },
+    {
+        "name": "Lr"
+    },
+    {
+        "name": "Lr6"
+    },
+    {
+        "name": "LRI"
+    },
+    {
+        "name": "LRK"
+    },
+    {
+        "name": "LTG"
+    },
+    {
+        "name": "LTK"
+    },
+    {
+        "name": "Ltp"
+    },
+    {
+        "name": "Lues"
+    },
+    {
+        "name": "LumbarPuncture"
+    },
+    {
+        "name": "Lumen"
+    },
+    {
+        "name": "Luminance"
+    },
+    {
+        "name": "LupusErythematosus"
+    },
+    {
+        "name": "Luxation"
+    },
+    {
+        "name": "Lva"
+    },
+    {
+        "name": "Lx"
+    },
+    {
+        "name": "Lymphadenopathy"
+    },
+    {
+        "name": "Lymphangioma"
+    },
+    {
+        "name": "LymphNode"
+    },
+    {
+        "name": "Lymphocyte"
+    },
+    {
+        "name": "Lymphoma"
+    },
+    {
+        "name": "Lyse"
+    },
+    {
+        "name": "Lysozyme"
+    },
+    {
+        "name": "L_R"
+    },
+    {
+        "name": "M"
+    },
+    {
+        "name": "MAC"
+    },
+    {
+        "name": "MackaymargTonometer"
+    },
+    {
+        "name": "Macrophage"
+    },
+    {
+        "name": "Macrophthalmos"
+    },
+    {
+        "name": "Macropsia"
+    },
+    {
+        "name": "macugen"
+    },
+    {
+        "name": "Macula"
+    },
+    {
+        "name": "MaculaCornealDystrophy"
+    },
+    {
+        "name": "MaculaDegeneration"
+    },
+    {
+        "name": "MaculaLutea"
+    },
+    {
+        "name": "MacularPucker"
+    },
+    {
+        "name": "MacularSparing"
+    },
+    {
+        "name": "MacularSplitting"
+    },
+    {
+        "name": "MacularStar"
+    },
+    {
+        "name": "macular_cyst"
+    },
+    {
+        "name": "macular_edema"
+    },
+    {
+        "name": "macular_hole"
+    },
+    {
+        "name": "Maculopathy"
+    },
+    {
+        "name": "Madarosis"
+    },
+    {
+        "name": "MaddoxRod"
+    },
+    {
+        "name": "MaddoxRodTest"
+    },
+    {
+        "name": "MaddoxWing"
+    },
+    {
+        "name": "Magnesium"
+    },
+    {
+        "name": "MagneticResonanceImaging"
+    },
+    {
+        "name": "Magnification"
+    },
+    {
+        "name": "MajorAmblyoscope"
+    },
+    {
+        "name": "MajorArterialCircleOfTheIris"
+    },
+    {
+        "name": "MajorMeridians"
+    },
+    {
+        "name": "Malformation"
+    },
+    {
+        "name": "MalignantGlaucoma"
+    },
+    {
+        "name": "MalignantLesion"
+    },
+    {
+        "name": "MalignantMyopia"
+    },
+    {
+        "name": "Malingerer"
+    },
+    {
+        "name": "Malprojection"
+    },
+    {
+        "name": "MALT"
+    },
+    {
+        "name": "MandibulofacialDysostosis"
+    },
+    {
+        "name": "Mandrin"
+    },
+    {
+        "name": "ManifestHyperopia"
+    },
+    {
+        "name": "ManifestRefraction"
+    },
+    {
+        "name": "Mannitol"
+    },
+    {
+        "name": "MarchesanisSyndrome"
+    },
+    {
+        "name": "MarcugunnJawWinkingSyndrome"
+    },
+    {
+        "name": "MarcusgunnPupil"
+    },
+    {
+        "name": "MarfansSyndrome"
+    },
+    {
+        "name": "MarginalBlepharitis"
+    },
+    {
+        "name": "MarginalCatarrhalUlcer"
+    },
+    {
+        "name": "MarginalMyotomy"
+    },
+    {
+        "name": "MarinescosjogrenSyndrome"
+    },
+    {
+        "name": "MaroteauxlamySyndrome"
+    },
+    {
+        "name": "MassivePreretinalRetraction"
+    },
+    {
+        "name": "MassiveVitreousRetraction"
+    },
+    {
+        "name": "mast cell stabilizers"
+    },
+    {
+        "name": "MatureCataract"
+    },
+    {
+        "name": "Maxilla"
+    },
+    {
+        "name": "MaxillaryNerve"
+    },
+    {
+        "name": "MaxillarySinus"
+    },
+    {
+        "name": "Maximum"
+    },
+    {
+        "name": "MaxwellsSpot"
+    },
+    {
+        "name": "McCannelSuturing"
+    },
+    {
+        "name": "Measles"
+    },
+    {
+        "name": "MecholylTest"
+    },
+    {
+        "name": "MedialBorn"
+    },
+    {
+        "name": "MedialCanthus"
+    },
+    {
+        "name": "MedialEctropion"
+    },
+    {
+        "name": "MedialEctropionOperation"
+    },
+    {
+        "name": "MedialLongitudinalFasciculus"
+    },
+    {
+        "name": "MedialPalpebralLigament"
+    },
+    {
+        "name": "MedialRectus"
+    },
+    {
+        "name": "Mediate"
+    },
+    {
+        "name": "Medulla"
+    },
+    {
+        "name": "MeesmanDystrophy"
+    },
+    {
+        "name": "Megalocornea"
+    },
+    {
+        "name": "Megophthalmos"
+    },
+    {
+        "name": "MeibomianGlands"
+    },
+    {
+        "name": "Melanin"
+    },
+    {
+        "name": "Melanocyte"
+    },
+    {
+        "name": "Melanocytoma"
+    },
+    {
+        "name": "Melanoma"
+    },
+    {
+        "name": "Membrane"
+    },
+    {
+        "name": "MembranePeeling"
+    },
+    {
+        "name": "Meningioma"
+    },
+    {
+        "name": "MeniscusLens"
+    },
+    {
+        "name": "Meridian"
+    },
+    {
+        "name": "MeridionalAmblyopia"
+    },
+    {
+        "name": "MesodermalDysgenesisCornea"
+    },
+    {
+        "name": "MesodermalDysgenesisOfIris"
+    },
+    {
+        "name": "MesopicVision"
+    },
+    {
+        "name": "MetachromaticLeukodystrophy"
+    },
+    {
+        "name": "Metamorphopsia"
+    },
+    {
+        "name": "Metaplasia"
+    },
+    {
+        "name": "Metastasis"
+    },
+    {
+        "name": "MeterAngle"
+    },
+    {
+        "name": "Methacholine"
+    },
+    {
+        "name": "Methaxolamide"
+    },
+    {
+        "name": "Methicillin"
+    },
+    {
+        "name": "Methylcellulose"
+    },
+    {
+        "name": "MethylPrednisolone"
+    },
+    {
+        "name": "MeyersTemporalLoop"
+    },
+    {
+        "name": "Mg"
+    },
+    {
+        "name": "MGD"
+    },
+    {
+        "name": "MHC"
+    },
+    {
+        "name": "Mi"
+    },
+    {
+        "name": "MIC"
+    },
+    {
+        "name": "Microaneurysm"
+    },
+    {
+        "name": "Microcornea"
+    },
+    {
+        "name": "Microdermatoblepig"
+    },
+    {
+        "name": "Microkeratome"
+    },
+    {
+        "name": "Micronystagmus"
+    },
+    {
+        "name": "Microorganism"
+    },
+    {
+        "name": "microperimeter"
+    },
+    {
+        "name": "Microphakia"
+    },
+    {
+        "name": "Microphthalmia"
+    },
+    {
+        "name": "Micropsia"
+    },
+    {
+        "name": "Microsaccades"
+    },
+    {
+        "name": "Microspherophakia"
+    },
+    {
+        "name": "Microstrabismus"
+    },
+    {
+        "name": "MicrovitreoretinalBlade"
+    },
+    {
+        "name": "Midbrain"
+    },
+    {
+        "name": "MidpupillaryLine"
+    },
+    {
+        "name": "Migraine"
+    },
+    {
+        "name": "MikuliczsSyndrome"
+    },
+    {
+        "name": "Milia"
+    },
+    {
+        "name": "MillardgubberSyndrome"
+    },
+    {
+        "name": "Millijoule"
+    },
+    {
+        "name": "Millimicron"
+    },
+    {
+        "name": "MinersNystagmus"
+    },
+    {
+        "name": "MinimumPerceptibleAcuity"
+    },
+    {
+        "name": "MinimumSeparableAcuity"
+    },
+    {
+        "name": "Ministroke"
+    },
+    {
+        "name": "MinusCylinder"
+    },
+    {
+        "name": "MinusCylinderGrinding"
+    },
+    {
+        "name": "MinusLens"
+    },
+    {
+        "name": "Miosis"
+    },
+    {
+        "name": "Miotic"
+    },
+    {
+        "name": "Mires"
+    },
+    {
+        "name": "MittendorfsDot"
+    },
+    {
+        "name": "MixedAstigmatism"
+    },
+    {
+        "name": "Mlf"
+    },
+    {
+        "name": "MoebiusSyndrome"
+    },
+    {
+        "name": "MohsTechnique"
+    },
+    {
+        "name": "MollGlands"
+    },
+    {
+        "name": "MolluscumContagiosum"
+    },
+    {
+        "name": "MolluscumSebaceum"
+    },
+    {
+        "name": "MoltenoValve"
+    },
+    {
+        "name": "Mongolism"
+    },
+    {
+        "name": "MongoloidSlant"
+    },
+    {
+        "name": "Monochromacy"
+    },
+    {
+        "name": "Monochromat"
+    },
+    {
+        "name": "Monocular"
+    },
+    {
+        "name": "MonocularDepthPerception"
+    },
+    {
+        "name": "MonocularDiplopia"
+    },
+    {
+        "name": "Monocyte"
+    },
+    {
+        "name": "MonofixationSyndrome"
+    },
+    {
+        "name": "MoorensUlcer"
+    },
+    {
+        "name": "MoraxellaLacunata"
+    },
+    {
+        "name": "MorganianCataract"
+    },
+    {
+        "name": "MorningGloryDetachment"
+    },
+    {
+        "name": "MorquiobrailsfordSyndrome"
+    },
+    {
+        "name": "Motility"
+    },
+    {
+        "name": "MotionParallax"
+    },
+    {
+        "name": "MotorNerve"
+    },
+    {
+        "name": "MPD"
+    },
+    {
+        "name": "Mpp"
+    },
+    {
+        "name": "MPS"
+    },
+    {
+        "name": "Mr"
+    },
+    {
+        "name": "MRF"
+    },
+    {
+        "name": "Mri"
+    },
+    {
+        "name": "MRSA"
+    },
+    {
+        "name": "Ms"
+    },
+    {
+        "name": "MST"
+    },
+    {
+        "name": "MT"
+    },
+    {
+        "name": "MTF"
+    },
+    {
+        "name": "Mucin"
+    },
+    {
+        "name": "Mucocele"
+    },
+    {
+        "name": "Mucopolysaccharoidoses"
+    },
+    {
+        "name": "Mucormycosis"
+    },
+    {
+        "name": "MuellerCell"
+    },
+    {
+        "name": "MuellersMuscle"
+    },
+    {
+        "name": "MultifocalLens"
+    },
+    {
+        "name": "Multilux"
+    },
+    {
+        "name": "MultipleSclerosis"
+    },
+    {
+        "name": "MunchausensSyndrome"
+    },
+    {
+        "name": "MunsellScale"
+    },
+    {
+        "name": "MuralCells"
+    },
+    {
+        "name": "MurinePlus"
+    },
+    {
+        "name": "MuscaeVolitantes"
+    },
+    {
+        "name": "MuscleCone"
+    },
+    {
+        "name": "MuscleHook"
+    },
+    {
+        "name": "MuscleOfRiolan"
+    },
+    {
+        "name": "MusclePareticNystagmus"
+    },
+    {
+        "name": "MuscleSheath"
+    },
+    {
+        "name": "mustarde_flap"
+    },
+    {
+        "name": "MuttonFat"
+    },
+    {
+        "name": "Mvr"
+    },
+    {
+        "name": "MyastheniaGravis"
+    },
+    {
+        "name": "Mydriasis"
+    },
+    {
+        "name": "Mydriatic"
+    },
+    {
+        "name": "MydriaticAgents"
+    },
+    {
+        "name": "MydriaticProvocativeTest"
+    },
+    {
+        "name": "Myectomy"
+    },
+    {
+        "name": "Myelin"
+    },
+    {
+        "name": "MyelinatedNerveFibers"
+    },
+    {
+        "name": "Myeloma"
+    },
+    {
+        "name": "MyocardialInfarction"
+    },
+    {
+        "name": "Myokymia"
+    },
+    {
+        "name": "MyoneuralJunction"
+    },
+    {
+        "name": "Myopia"
+    },
+    {
+        "name": "MyopicAstigmatism"
+    },
+    {
+        "name": "MyopicDegeneration"
+    },
+    {
+        "name": "Myositis"
+    },
+    {
+        "name": "MyoticCrescent"
+    },
+    {
+        "name": "Myotomy"
+    },
+    {
+        "name": "Myxedema"
+    },
+    {
+        "name": "n"
+    },
+    {
+        "name": "NAA"
+    },
+    {
+        "name": "NAd"
+    },
+    {
+        "name": "NagelAnomaloscope"
+    },
+    {
+        "name": "Nanisme"
+    },
+    {
+        "name": "Nanocephalia"
+    },
+    {
+        "name": "Nanometer"
+    },
+    {
+        "name": "Nanophthamos"
+    },
+    {
+        "name": "NaphazolineHydrochloride"
+    },
+    {
+        "name": "Nasal"
+    },
+    {
+        "name": "NasalSinuses"
+    },
+    {
+        "name": "NasalStep"
+    },
+    {
+        "name": "NasociliaryNerve"
+    },
+    {
+        "name": "NasolacrimalDuct"
+    },
+    {
+        "name": "NasolacrimalProbing"
+    },
+    {
+        "name": "Natamycin"
+    },
+    {
+        "name": "NCn"
+    },
+    {
+        "name": "NCT"
+    },
+    {
+        "name": "ND"
+    },
+    {
+        "name": "NearPointOfAccommodation"
+    },
+    {
+        "name": "NearPointOfConvergence"
+    },
+    {
+        "name": "NearSightedness"
+    },
+    {
+        "name": "NearVision"
+    },
+    {
+        "name": "Nebula"
+    },
+    {
+        "name": "Necrosis"
+    },
+    {
+        "name": "NeedleHolder"
+    },
+    {
+        "name": "NegativeScotoma"
+    },
+    {
+        "name": "NegativeVerticalVergence"
+    },
+    {
+        "name": "NeimanpickDisease"
+    },
+    {
+        "name": "NeisseriaCatarrhalis"
+    },
+    {
+        "name": "NeisseriaGonorhea"
+    },
+    {
+        "name": "NeisseriaMeningitidis"
+    },
+    {
+        "name": "Neomycin"
+    },
+    {
+        "name": "Neoplasm"
+    },
+    {
+        "name": "Neosynephrine"
+    },
+    {
+        "name": "NeovascularGlaucoma"
+    },
+    {
+        "name": "Neovascularization"
+    },
+    {
+        "name": "NephropathicCysStoDis"
+    },
+    {
+        "name": "Neptazane"
+    },
+    {
+        "name": "NerveFiberBundleDefect"
+    },
+    {
+        "name": "NerveFiberBundleLayer"
+    },
+    {
+        "name": "Neuritis"
+    },
+    {
+        "name": "Neurofibromatosis"
+    },
+    {
+        "name": "NeuromuscularJunction"
+    },
+    {
+        "name": "NeuromyelitisOptica"
+    },
+    {
+        "name": "Neuropathy"
+    },
+    {
+        "name": "Neuroretinitis"
+    },
+    {
+        "name": "Neuroretinopathy"
+    },
+    {
+        "name": "NeurotropicKeratitis"
+    },
+    {
+        "name": "NeutralDensityFilter"
+    },
+    {
+        "name": "Neutrality"
+    },
+    {
+        "name": "Neutralize"
+    },
+    {
+        "name": "Neutrophil"
+    },
+    {
+        "name": "Nevus"
+    },
+    {
+        "name": "NevusOfOta"
+    },
+    {
+        "name": "NF"
+    },
+    {
+        "name": "Nfl"
+    },
+    {
+        "name": "NHL"
+    },
+    {
+        "name": "NIBUT"
+    },
+    {
+        "name": "NicoletSystem"
+    },
+    {
+        "name": "nictitating_membrane"
+    },
+    {
+        "name": "NIDEK"
+    },
+    {
+        "name": "Nidus"
+    },
+    {
+        "name": "NightBlindness"
+    },
+    {
+        "name": "NightVision"
+    },
+    {
+        "name": "Nld"
+    },
+    {
+        "name": "NLP"
+    },
+    {
+        "name": "Nm"
+    },
+    {
+        "name": "Nmr"
+    },
+    {
+        "name": "NocardiaAsteroides"
+    },
+    {
+        "name": "NodalPoint"
+    },
+    {
+        "name": "NoncomitantStrabismus"
+    },
+    {
+        "name": "NonopticReflexEyeMovements"
+    },
+    {
+        "name": "NonProlifeDiaRetipat"
+    },
+    {
+        "name": "NonsteroidAntiinflammatoryDrugs"
+    },
+    {
+        "name": "Normal"
+    },
+    {
+        "name": "NormalRetinalCorrespondence"
+    },
+    {
+        "name": "NormanwoodSyndrome"
+    },
+    {
+        "name": "NothnagelsSyndrome"
+    },
+    {
+        "name": "Npa"
+    },
+    {
+        "name": "Npc"
+    },
+    {
+        "name": "NPDR"
+    },
+    {
+        "name": "NPS"
+    },
+    {
+        "name": "NRA"
+    },
+    {
+        "name": "Nrc"
+    },
+    {
+        "name": "Nsaids"
+    },
+    {
+        "name": "Nuclear"
+    },
+    {
+        "name": "NuclearOfPerlia"
+    },
+    {
+        "name": "NuclearSclerosis"
+    },
+    {
+        "name": "NullPoint"
+    },
+    {
+        "name": "NutritionalAmblyopia"
+    },
+    {
+        "name": "NV"
+    },
+    {
+        "name": "NVP"
+    },
+    {
+        "name": "Nyctalopia"
+    },
+    {
+        "name": "Nystagmoid"
+    },
+    {
+        "name": "Nystagmus"
+    },
+    {
+        "name": "NystagmusBlocskageSyndrome"
+    },
+    {
+        "name": "Nystatin"
+    },
+    {
+        "name": "N_auto refractometer"
+    },
+    {
+        "name": "N_chart projector"
+    },
+    {
+        "name": "N_excimer"
+    },
+    {
+        "name": "N_slitlamp"
+    },
+    {
+        "name": "N_yag"
+    },
+    {
+        "name": "OA"
+    },
+    {
+        "name": "Oag"
+    },
+    {
+        "name": "Oath"
+    },
+    {
+        "name": "Obcecation"
+    },
+    {
+        "name": "ObjectiveTest"
+    },
+    {
+        "name": "ObjectOfRegards"
+    },
+    {
+        "name": "ObligatorySuppression"
+    },
+    {
+        "name": "ObliqueAstigmatism"
+    },
+    {
+        "name": "Obstruction"
+    },
+    {
+        "name": "Obtunded"
+    },
+    {
+        "name": "Obtundent"
+    },
+    {
+        "name": "OccipitalLobe"
+    },
+    {
+        "name": "Occluder"
+    },
+    {
+        "name": "Occlusion"
+    },
+    {
+        "name": "OcclusionAmblyopia"
+    },
+    {
+        "name": "Ochre_membrane"
+    },
+    {
+        "name": "OCT"
+    },
+    {
+        "name": "Octopus"
+    },
+    {
+        "name": "OcularAdnexa"
+    },
+    {
+        "name": "OcularAlbinism"
+    },
+    {
+        "name": "OcularBiometry"
+    },
+    {
+        "name": "OcularBobbing"
+    },
+    {
+        "name": "OcularDecongestants"
+    },
+    {
+        "name": "OcularDysmetria"
+    },
+    {
+        "name": "OcularFlutter"
+    },
+    {
+        "name": "OcularHistoplasmosis"
+    },
+    {
+        "name": "OcularHypertensive"
+    },
+    {
+        "name": "Ocularist"
+    },
+    {
+        "name": "OcularMedia"
+    },
+    {
+        "name": "OcularMotility"
+    },
+    {
+        "name": "OcularMyoclonus"
+    },
+    {
+        "name": "OcularPemphigus"
+    },
+    {
+        "name": "OcularTorticollis"
+    },
+    {
+        "name": "Oculinum"
+    },
+    {
+        "name": "Oculist"
+    },
+    {
+        "name": "OculiUterque"
+    },
+    {
+        "name": "OculoauriculovertebralDysplasia"
+    },
+    {
+        "name": "OculocardiacReflex"
+    },
+    {
+        "name": "OculocephalicReflex"
+    },
+    {
+        "name": "OculodermalMelanocytosis"
+    },
+    {
+        "name": "OculodigitalReflex"
+    },
+    {
+        "name": "OculoglandularSyndrome"
+    },
+    {
+        "name": "OculomandibuloDyscephaly"
+    },
+    {
+        "name": "Oculomotor"
+    },
+    {
+        "name": "OculomotorApraxia"
+    },
+    {
+        "name": "OculomotorDecussation"
+    },
+    {
+        "name": "OculomotorPalsies"
+    },
+    {
+        "name": "OculoplasticSurgery"
+    },
+    {
+        "name": "OculopressiveDevice"
+    },
+    {
+        "name": "OculorespiratoryReflex"
+    },
+    {
+        "name": "OculusDexter"
+    },
+    {
+        "name": "OculusSinister"
+    },
+    {
+        "name": "Ocusert"
+    },
+    {
+        "name": "Ocutome"
+    },
+    {
+        "name": "Od"
+    },
+    {
+        "name": "ODM"
+    },
+    {
+        "name": "Odn"
+    },
+    {
+        "name": "Oedema"
+    },
+    {
+        "name": "OguchisDisease"
+    },
+    {
+        "name": "OHS"
+    },
+    {
+        "name": "Oht"
+    },
+    {
+        "name": "OIS"
+    },
+    {
+        "name": "Okn"
+    },
+    {
+        "name": "OKR"
+    },
+    {
+        "name": "OneSnipOrTwoSnipOperation"
+    },
+    {
+        "name": "OpaqueMedia"
+    },
+    {
+        "name": "OpenAngle"
+    },
+    {
+        "name": "OpenAngleGlaucoma"
+    },
+    {
+        "name": "OpenSkyVitrectomy"
+    },
+    {
+        "name": "OperatingMicroscope"
+    },
+    {
+        "name": "Operculum"
+    },
+    {
+        "name": "OPG"
+    },
+    {
+        "name": "OphthalmicArtery"
+    },
+    {
+        "name": "OphthalmicAssistant"
+    },
+    {
+        "name": "OphthalmicDispenser"
+    },
+    {
+        "name": "OphthalmicMedicalAssistant"
+    },
+    {
+        "name": "OphthalmicNerve"
+    },
+    {
+        "name": "OphthalmicTechnician"
+    },
+    {
+        "name": "OphthalmicTechnologist"
+    },
+    {
+        "name": "Ophthalmodynamometer"
+    },
+    {
+        "name": "Ophthalmodynamometry"
+    },
+    {
+        "name": "Ophthalmologist"
+    },
+    {
+        "name": "Ophthalmology"
+    },
+    {
+        "name": "Ophthalmoplegia"
+    },
+    {
+        "name": "OphthalmoplegicExophthalmos"
+    },
+    {
+        "name": "OphthalmoplegicMigraine"
+    },
+    {
+        "name": "Ophthalmoscope"
+    },
+    {
+        "name": "Ophthetic"
+    },
+    {
+        "name": "OphthlmiaNeonatorum"
+    },
+    {
+        "name": "Ophthocort"
+    },
+    {
+        "name": "Opsin"
+    },
+    {
+        "name": "Opsoclonus"
+    },
+    {
+        "name": "Opthaine"
+    },
+    {
+        "name": "OpticalAxis"
+    },
+    {
+        "name": "OpticalCenter"
+    },
+    {
+        "name": "OpticalZone"
+    },
+    {
+        "name": "OpticAtrophy"
+    },
+    {
+        "name": "OpticAxis"
+    },
+    {
+        "name": "OpticChiasm"
+    },
+    {
+        "name": "OpticCup"
+    },
+    {
+        "name": "Opticdict"
+    },
+    {
+        "name": "Opticdict"
+    },
+    {
+        "name": "Opticdict"
+    },
+    {
+        "name": "OpticDisc"
+    },
+    {
+        "name": "OpticForamen"
+    },
+    {
+        "name": "Optician"
+    },
+    {
+        "name": "OpticNerve"
+    },
+    {
+        "name": "OpticNerveGlioma"
+    },
+    {
+        "name": "OpticNerveHead"
+    },
+    {
+        "name": "OpticNerveHypoplasia"
+    },
+    {
+        "name": "OpticNervePit"
+    },
+    {
+        "name": "OpticNeuritis"
+    },
+    {
+        "name": "OpticNeuropathy"
+    },
+    {
+        "name": "Optics"
+    },
+    {
+        "name": "OpticTract"
+    },
+    {
+        "name": "OpticVesicle"
+    },
+    {
+        "name": "Optimyd"
+    },
+    {
+        "name": "OptokineticNystagmus"
+    },
+    {
+        "name": "Optometer"
+    },
+    {
+        "name": "OptometricTechnician"
+    },
+    {
+        "name": "Optometrist"
+    },
+    {
+        "name": "Oral antibiotics"
+    },
+    {
+        "name": "OraSerrata"
+    },
+    {
+        "name": "Oratol"
+    },
+    {
+        "name": "OrbicularisOculiMuscle"
+    },
+    {
+        "name": "Orbit"
+    },
+    {
+        "name": "OrbitalApex"
+    },
+    {
+        "name": "OrbitalApexSyndrome"
+    },
+    {
+        "name": "OrbitalCellulitis"
+    },
+    {
+        "name": "OrbitalDecompression"
+    },
+    {
+        "name": "OrbitalFascia"
+    },
+    {
+        "name": "OrbitalFissureSyndrome"
+    },
+    {
+        "name": "OrbitalFloorFracture"
+    },
+    {
+        "name": "OrbitalPeriost"
+    },
+    {
+        "name": "OrbitalPseudotumor"
+    },
+    {
+        "name": "OrbitalSeptum"
+    },
+    {
+        "name": "Orbitotomy"
+    },
+    {
+        "name": "OrganicAmblyopia"
+    },
+    {
+        "name": "OrganicVisualLoss"
+    },
+    {
+        "name": "OrganizedVitreous"
+    },
+    {
+        "name": "orion"
+    },
+    {
+        "name": "Orthophoria"
+    },
+    {
+        "name": "Orthoptics"
+    },
+    {
+        "name": "Orthoptist"
+    },
+    {
+        "name": "Os"
+    },
+    {
+        "name": "Oscillopsia"
+    },
+    {
+        "name": "OsmoticAgent"
+    },
+    {
+        "name": "OsteogenesisImperfecta"
+    },
+    {
+        "name": "OtasNevus"
+    },
+    {
+        "name": "OTC"
+    },
+    {
+        "name": "OtherAgents"
+    },
+    {
+        "name": "Ou"
+    },
+    {
+        "name": "OuterCanthus"
+    },
+    {
+        "name": "OuterNuclearLayer"
+    },
+    {
+        "name": "OuterPlexiformLayer"
+    },
+    {
+        "name": "OuterRetina"
+    },
+    {
+        "name": "OuterSegment"
+    },
+    {
+        "name": "OutputNerve"
+    },
+    {
+        "name": "OVD"
+    },
+    {
+        "name": "Overlap"
+    },
+    {
+        "name": "OverRefraction"
+    },
+    {
+        "name": "OverWearSyndrome"
+    },
+    {
+        "name": "Ows"
+    },
+    {
+        "name": "Pachometer"
+    },
+    {
+        "name": "Pachyblepharon"
+    },
+    {
+        "name": "Pachymetry"
+    },
+    {
+        "name": "Pact"
+    },
+    {
+        "name": "PaddyKeratitis"
+    },
+    {
+        "name": "PAF"
+    },
+    {
+        "name": "PagetsDisease"
+    },
+    {
+        "name": "PainfulOphthalmoplegia"
+    },
+    {
+        "name": "PallorOfDisc"
+    },
+    {
+        "name": "Palpate"
+    },
+    {
+        "name": "Palpebral"
+    },
+    {
+        "name": "PalpebralConjunctiva"
+    },
+    {
+        "name": "PalpebralFascia"
+    },
+    {
+        "name": "PalpebralFissure"
+    },
+    {
+        "name": "PalpebralFissureLength"
+    },
+    {
+        "name": "PalpebralFissureWidth"
+    },
+    {
+        "name": "Palsy"
+    },
+    {
+        "name": "Pam"
+    },
+    {
+        "name": "Pan"
+    },
+    {
+        "name": "PanaumsFusionArea"
+    },
+    {
+        "name": "Pannus"
+    },
+    {
+        "name": "Panophthalmistis"
+    },
+    {
+        "name": "PanretinalPhotocoagulation"
+    },
+    {
+        "name": "Papilla"
+    },
+    {
+        "name": "Papillae"
+    },
+    {
+        "name": "Papilledema"
+    },
+    {
+        "name": "Papillitis"
+    },
+    {
+        "name": "PapillomacularBundle"
+    },
+    {
+        "name": "Paracentesis"
+    },
+    {
+        "name": "ParacentralScotoma"
+    },
+    {
+        "name": "ParadoxicDiplogia"
+    },
+    {
+        "name": "ParadoxicPupil"
+    },
+    {
+        "name": "Parafovea"
+    },
+    {
+        "name": "ParafoveaFixation"
+    },
+    {
+        "name": "Parallax"
+    },
+    {
+        "name": "Paralysis"
+    },
+    {
+        "name": "ParalyticEctropion"
+    },
+    {
+        "name": "ParamedianPontineReForm"
+    },
+    {
+        "name": "ParasellarSyndrome"
+    },
+    {
+        "name": "ParastriateArea"
+    },
+    {
+        "name": "ParasympatheticNervousSystem"
+    },
+    {
+        "name": "Parasympatholytic"
+    },
+    {
+        "name": "ParasympatholyticDrug"
+    },
+    {
+        "name": "Parasympathomimetic"
+    },
+    {
+        "name": "ParasympathomimeticDrug"
+    },
+    {
+        "name": "Parenteral"
+    },
+    {
+        "name": "Paresthesia"
+    },
+    {
+        "name": "PareticMuscle"
+    },
+    {
+        "name": "ParietalLobe"
+    },
+    {
+        "name": "ParinaudsOculoglandConj"
+    },
+    {
+        "name": "ParinaudsSyndrome"
+    },
+    {
+        "name": "ParsCiliaris"
+    },
+    {
+        "name": "ParsPlanaCiliaris"
+    },
+    {
+        "name": "ParsPlanaIncision"
+    },
+    {
+        "name": "ParsPlanaVitrectomy"
+    },
+    {
+        "name": "ParsPlanitis"
+    },
+    {
+        "name": "ParsPlicataCiliaris"
+    },
+    {
+        "name": "PartialThicknessGraft"
+    },
+    {
+        "name": "Pas"
+    },
+    {
+        "name": "PassiveForcedDuctionTest"
+    },
+    {
+        "name": "Pat"
+    },
+    {
+        "name": "PatausSyndrome"
+    },
+    {
+        "name": "PatchCornealGraft"
+    },
+    {
+        "name": "Patent"
+    },
+    {
+        "name": "Pathogenesis"
+    },
+    {
+        "name": "Pathognomocic"
+    },
+    {
+        "name": "Pathologic"
+    },
+    {
+        "name": "PathologicDiplopia"
+    },
+    {
+        "name": "Pc"
+    },
+    {
+        "name": "PCA"
+    },
+    {
+        "name": "PcIol"
+    },
+    {
+        "name": "pco"
+    },
+    {
+        "name": "PCO2"
+    },
+    {
+        "name": "PCR"
+    },
+    {
+        "name": "PCRI"
+    },
+    {
+        "name": "Pd"
+    },
+    {
+        "name": "Pdr"
+    },
+    {
+        "name": "PDw"
+    },
+    {
+        "name": "Pe"
+    },
+    {
+        "name": "PeakedPupil"
+    },
+    {
+        "name": "PECS"
+    },
+    {
+        "name": "PedicleFlap"
+    },
+    {
+        "name": "PEF"
+    },
+    {
+        "name": "PEK"
+    },
+    {
+        "name": "Pellagra"
+    },
+    {
+        "name": "pellucid marginal degeneration"
+    },
+    {
+        "name": "Pemphigoid"
+    },
+    {
+        "name": "Penalization"
+    },
+    {
+        "name": "PendularNystagmus"
+    },
+    {
+        "name": "PenetratingKeratoplasty"
+    },
+    {
+        "name": "Peo"
+    },
+    {
+        "name": "Perfluoropropane"
+    },
+    {
+        "name": "Perfusion"
+    },
+    {
+        "name": "PerHypePriVit"
+    },
+    {
+        "name": "PeriarteritisNodosa"
+    },
+    {
+        "name": "PeribulbarInjection"
+    },
+    {
+        "name": "PericentralScotoma"
+    },
+    {
+        "name": "Perichiasmal"
+    },
+    {
+        "name": "Perifovea"
+    },
+    {
+        "name": "Perimeter"
+    },
+    {
+        "name": "Perimetry"
+    },
+    {
+        "name": "Perioclular"
+    },
+    {
+        "name": "Periorbita"
+    },
+    {
+        "name": "Peripapillary"
+    },
+    {
+        "name": "PeripapillaryAtrophy"
+    },
+    {
+        "name": "PeripheralAnteriorSynechia"
+    },
+    {
+        "name": "PeripheralCurve"
+    },
+    {
+        "name": "PeripheralFusion"
+    },
+    {
+        "name": "PeripheralIridectomy"
+    },
+    {
+        "name": "PeripheralNervousSystem"
+    },
+    {
+        "name": "PeripheralRetina"
+    },
+    {
+        "name": "PeripheralUveitis"
+    },
+    {
+        "name": "PeripheralVision"
+    },
+    {
+        "name": "Periphlebilis"
+    },
+    {
+        "name": "PeriphlebitisRetinae"
+    },
+    {
+        "name": "PeristriateArea"
+    },
+    {
+        "name": "Peritomy"
+    },
+    {
+        "name": "Perivascllitis"
+    },
+    {
+        "name": "PerkinsTonometer"
+    },
+    {
+        "name": "PerliasNucleus"
+    },
+    {
+        "name": "Permalens"
+    },
+    {
+        "name": "Perrla"
+    },
+    {
+        "name": "PET"
+    },
+    {
+        "name": "PetersAnomaly"
+    },
+    {
+        "name": "PG"
+    },
+    {
+        "name": "Pgc"
+    },
+    {
+        "name": "Ph"
+    },
+    {
+        "name": "Ph2"
+    },
+    {
+        "name": "Phaco"
+    },
+    {
+        "name": "PhacoAnaphylacticUveitis"
+    },
+    {
+        "name": "Phacocyte"
+    },
+    {
+        "name": "Phacodonesis"
+    },
+    {
+        "name": "Phacoemulsification"
+    },
+    {
+        "name": "PhacolyticGlaucoma"
+    },
+    {
+        "name": "phacomatoses"
+    },
+    {
+        "name": "phaco_cv7000"
+    },
+    {
+        "name": "Phakic"
+    },
+    {
+        "name": "Phako"
+    },
+    {
+        "name": "Phakomatoses"
+    },
+    {
+        "name": "Phenergan"
+    },
+    {
+        "name": "Phenothiazine"
+    },
+    {
+        "name": "PhenylephrineHydrochloride"
+    },
+    {
+        "name": "Phenylketonuria"
+    },
+    {
+        "name": "Phlebitis"
+    },
+    {
+        "name": "Phlyctenular"
+    },
+    {
+        "name": "Phlyctenule"
+    },
+    {
+        "name": "Phm"
+    },
+    {
+        "name": "Phoria"
+    },
+    {
+        "name": "Phoropter"
+    },
+    {
+        "name": "Phosphene"
+    },
+    {
+        "name": "Phosphorescence"
+    },
+    {
+        "name": "Photism"
+    },
+    {
+        "name": "Photochemistry"
+    },
+    {
+        "name": "Photocoagulation"
+    },
+    {
+        "name": "PhotocromicGlasses"
+    },
+    {
+        "name": "Photodynamic"
+    },
+    {
+        "name": "Photometer"
+    },
+    {
+        "name": "Photometry"
+    },
+    {
+        "name": "Photomicrograph"
+    },
+    {
+        "name": "Photon"
+    },
+    {
+        "name": "Photophobia"
+    },
+    {
+        "name": "Photopia"
+    },
+    {
+        "name": "Photopter"
+    },
+    {
+        "name": "Photoreceptors"
+    },
+    {
+        "name": "Photosensitive"
+    },
+    {
+        "name": "PhotostressTest"
+    },
+    {
+        "name": "Phototaxis"
+    },
+    {
+        "name": "Phototherapy"
+    },
+    {
+        "name": "Phototropism"
+    },
+    {
+        "name": "Phpv"
+    },
+    {
+        "name": "PhthisisBulbi"
+    },
+    {
+        "name": "Physiologic"
+    },
+    {
+        "name": "PhysiologicBlindSpot"
+    },
+    {
+        "name": "PhysiologicDiplopia"
+    },
+    {
+        "name": "PhysiologicNystagmus"
+    },
+    {
+        "name": "PhysiologicOptics"
+    },
+    {
+        "name": "Physostigmine"
+    },
+    {
+        "name": "Pi"
+    },
+    {
+        "name": "Picosecond"
+    },
+    {
+        "name": "Pigmentary"
+    },
+    {
+        "name": "Pigmentation"
+    },
+    {
+        "name": "PigmentBorder"
+    },
+    {
+        "name": "PigmentClumping"
+    },
+    {
+        "name": "PigmentDispersionGlaucoma"
+    },
+    {
+        "name": "PigmentDropout"
+    },
+    {
+        "name": "PigmentEpithelitis"
+    },
+    {
+        "name": "Pilocarpine"
+    },
+    {
+        "name": "Pimaricin"
+    },
+    {
+        "name": "Pinealoma"
+    },
+    {
+        "name": "Pingueculum"
+    },
+    {
+        "name": "Pinhole"
+    },
+    {
+        "name": "PinkEye"
+    },
+    {
+        "name": "Pit"
+    },
+    {
+        "name": "PituitaryBody"
+    },
+    {
+        "name": "PituitaryTumor"
+    },
+    {
+        "name": "Pkp"
+    },
+    {
+        "name": "Pku"
+    },
+    {
+        "name": "PlacidoDisc"
+    },
+    {
+        "name": "Plane"
+    },
+    {
+        "name": "Plano"
+    },
+    {
+        "name": "PlanoConcave"
+    },
+    {
+        "name": "PlanoConvex"
+    },
+    {
+        "name": "PlanoTLens"
+    },
+    {
+        "name": "Plaque"
+    },
+    {
+        "name": "PlasmaLecithinDeficiency"
+    },
+    {
+        "name": "PlasticIritis"
+    },
+    {
+        "name": "PlateauIris"
+    },
+    {
+        "name": "Pleotics"
+    },
+    {
+        "name": "Plt"
+    },
+    {
+        "name": "PlusCylinder"
+    },
+    {
+        "name": "PlusLens"
+    },
+    {
+        "name": "Pmma"
+    },
+    {
+        "name": "Pmn"
+    },
+    {
+        "name": "Pn"
+    },
+    {
+        "name": "PneumaticRetinopexy"
+    },
+    {
+        "name": "PneumaticTonometer"
+    },
+    {
+        "name": "Pneumo"
+    },
+    {
+        "name": "Pns"
+    },
+    {
+        "name": "Poag"
+    },
+    {
+        "name": "POH"
+    },
+    {
+        "name": "Pohs"
+    },
+    {
+        "name": "Poliosis"
+    },
+    {
+        "name": "Polyarteritis"
+    },
+    {
+        "name": "Polycon"
+    },
+    {
+        "name": "Polycoria"
+    },
+    {
+        "name": "Polycythemia"
+    },
+    {
+        "name": "Polymethylmetacrylate"
+    },
+    {
+        "name": "PolymorphonuclearLeukocyte"
+    },
+    {
+        "name": "Polyopia"
+    },
+    {
+        "name": "PolyostoticFibrousDysplasia"
+    },
+    {
+        "name": "Polys"
+    },
+    {
+        "name": "Polysporin"
+    },
+    {
+        "name": "PolyvinylAlcohol"
+    },
+    {
+        "name": "PompesDisease"
+    },
+    {
+        "name": "Pons"
+    },
+    {
+        "name": "PontineGazeCenter"
+    },
+    {
+        "name": "PontineLesions"
+    },
+    {
+        "name": "Pontocain"
+    },
+    {
+        "name": "Port"
+    },
+    {
+        "name": "PosChamIntraocuLen"
+    },
+    {
+        "name": "PositiveScotoma"
+    },
+    {
+        "name": "PositveSeidel"
+    },
+    {
+        "name": "PosnerschlossmanSyndrome"
+    },
+    {
+        "name": "PostassiumHydroxide"
+    },
+    {
+        "name": "Postchiasmal"
+    },
+    {
+        "name": "Posterior"
+    },
+    {
+        "name": "PosteriorChamber"
+    },
+    {
+        "name": "PosteriorCiliaryArteries"
+    },
+    {
+        "name": "PosteriorFixationSuture"
+    },
+    {
+        "name": "PosteriorHyaloidMembrane"
+    },
+    {
+        "name": "PosteriorLipSclerectomy"
+    },
+    {
+        "name": "PosteriorPole"
+    },
+    {
+        "name": "PosteriorPolymorphusDystrophy"
+    },
+    {
+        "name": "PosteriorSclerectomy"
+    },
+    {
+        "name": "PosteriorSclerotomy"
+    },
+    {
+        "name": "PosteriorSegment"
+    },
+    {
+        "name": "PosteriorSubcapsularCataract"
+    },
+    {
+        "name": "PosteriorSynechia"
+    },
+    {
+        "name": "PosteriorUveitis"
+    },
+    {
+        "name": "PosteriorVeins"
+    },
+    {
+        "name": "PosteriorVitreousDetachment"
+    },
+    {
+        "name": "Postoperative"
+    },
+    {
+        "name": "PostOrbital"
+    },
+    {
+        "name": "Postprandial"
+    },
+    {
+        "name": "PotentialAcuityMeter"
+    },
+    {
+        "name": "POTF"
+    },
+    {
+        "name": "Power"
+    },
+    {
+        "name": "PowerDensity"
+    },
+    {
+        "name": "Pp"
+    },
+    {
+        "name": "Ppa"
+    },
+    {
+        "name": "PPRF"
+    },
+    {
+        "name": "PPV"
+    },
+    {
+        "name": "PRA"
+    },
+    {
+        "name": "PreauricularNodes"
+    },
+    {
+        "name": "PreChiasmal"
+    },
+    {
+        "name": "Precipitate"
+    },
+    {
+        "name": "PrecornealTearFilm"
+    },
+    {
+        "name": "Prednisolone"
+    },
+    {
+        "name": "Prednisone"
+    },
+    {
+        "name": "PreplacedSuture"
+    },
+    {
+        "name": "PreretinalMembrane"
+    },
+    {
+        "name": "PreretinalNeovascularization"
+    },
+    {
+        "name": "Presbyopia"
+    },
+    {
+        "name": "PreseptalCellulitis"
+    },
+    {
+        "name": "PresOcuHistoSyn"
+    },
+    {
+        "name": "PressOns"
+    },
+    {
+        "name": "PresumedOcularHistoplasmosisSyndrome"
+    },
+    {
+        "name": "pretectal_nucleus"
+    },
+    {
+        "name": "PrimaryDeviation"
+    },
+    {
+        "name": "PrimaryFocalPoint"
+    },
+    {
+        "name": "PrimaryLineOfSinht"
+    },
+    {
+        "name": "PrimaryMover"
+    },
+    {
+        "name": "PrimaryOpenAngleGlaucoma"
+    },
+    {
+        "name": "PrimaryPerivasculitisOfTheRetina"
+    },
+    {
+        "name": "PrimaryPosition"
+    },
+    {
+        "name": "PrimaryVistreous"
+    },
+    {
+        "name": "PrinceRule"
+    },
+    {
+        "name": "PrincipalAxis"
+    },
+    {
+        "name": "PrincipalLineOfDirection"
+    },
+    {
+        "name": "PrincipalPlanes"
+    },
+    {
+        "name": "PrincipalPoints"
+    },
+    {
+        "name": "PrincipalVisualDirection"
+    },
+    {
+        "name": "Prism"
+    },
+    {
+        "name": "PrismalternateCoverTest"
+    },
+    {
+        "name": "PrismBar"
+    },
+    {
+        "name": "PrismDiopter"
+    },
+    {
+        "name": "PRL"
+    },
+    {
+        "name": "Probing"
+    },
+    {
+        "name": "ProfileAnalyzer"
+    },
+    {
+        "name": "ProgreExteOphplegia"
+    },
+    {
+        "name": "ProgressiveMyopiaDegeneration"
+    },
+    {
+        "name": "ProgressiveSupranuclearPalsy"
+    },
+    {
+        "name": "Projector"
+    },
+    {
+        "name": "Projectoscope"
+    },
+    {
+        "name": "Prolapse"
+    },
+    {
+        "name": "ProliferativeDiabeticRetinopathy"
+    },
+    {
+        "name": "ProliferativeVitreoretinopathy"
+    },
+    {
+        "name": "ProparacaineHydrochloride"
+    },
+    {
+        "name": "Prophylaxis"
+    },
+    {
+        "name": "Proptosis"
+    },
+    {
+        "name": "Prosthesis"
+    },
+    {
+        "name": "Protanomaly"
+    },
+    {
+        "name": "Protanopia"
+    },
+    {
+        "name": "ProvocativeTest"
+    },
+    {
+        "name": "Proximal"
+    },
+    {
+        "name": "ProximalConvergence"
+    },
+    {
+        "name": "Prp"
+    },
+    {
+        "name": "Psc"
+    },
+    {
+        "name": "Pseudoexfoliation"
+    },
+    {
+        "name": "PseudoisochromaticChart"
+    },
+    {
+        "name": "PseudomonasAeruginosa"
+    },
+    {
+        "name": "Pseudomyopia"
+    },
+    {
+        "name": "PseudoPapilledema"
+    },
+    {
+        "name": "Pseudophakia"
+    },
+    {
+        "name": "Pseudophakos"
+    },
+    {
+        "name": "Pseudostrabismus"
+    },
+    {
+        "name": "PseudotumorCerebri"
+    },
+    {
+        "name": "PseudoVonGraefesSign"
+    },
+    {
+        "name": "PseudoxanthomaElasticum"
+    },
+    {
+        "name": "PSF"
+    },
+    {
+        "name": "Psp"
+    },
+    {
+        "name": "Pterygium"
+    },
+    {
+        "name": "PterygoidLevatorSynkinesis"
+    },
+    {
+        "name": "Ptosis"
+    },
+    {
+        "name": "Ptotic"
+    },
+    {
+        "name": "PulfrichPhenomenon"
+    },
+    {
+        "name": "PulsatingExophthalmos"
+    },
+    {
+        "name": "PulselessDisease"
+    },
+    {
+        "name": "PunchedOutLesion"
+    },
+    {
+        "name": "PunctalEctropion"
+    },
+    {
+        "name": "PunctalOcclusion"
+    },
+    {
+        "name": "PunctalPlug"
+    },
+    {
+        "name": "PunctateKeraticPrecipitates"
+    },
+    {
+        "name": "PunctateKeratitis"
+    },
+    {
+        "name": "Punctum"
+    },
+    {
+        "name": "PunctumProxiAccom"
+    },
+    {
+        "name": "PunctumProximumConve"
+    },
+    {
+        "name": "Pupil"
+    },
+    {
+        "name": "PupilDilator"
+    },
+    {
+        "name": "PupillaryAxis"
+    },
+    {
+        "name": "PupillaryBlock"
+    },
+    {
+        "name": "PupillaryDistance"
+    },
+    {
+        "name": "PupillaryMembrane"
+    },
+    {
+        "name": "PupillaryReflex"
+    },
+    {
+        "name": "Pupillatonia"
+    },
+    {
+        "name": "Pupillometer"
+    },
+    {
+        "name": "Pupillometry"
+    },
+    {
+        "name": "Pupilloplegia"
+    },
+    {
+        "name": "Pupilloscopy"
+    },
+    {
+        "name": "PupilloStatometer"
+    },
+    {
+        "name": "Pupillotonia"
+    },
+    {
+        "name": "PurtschersRetinopathy"
+    },
+    {
+        "name": "Purulent"
+    },
+    {
+        "name": "Pvd"
+    },
+    {
+        "name": "PVL"
+    },
+    {
+        "name": "Pvp"
+    },
+    {
+        "name": "Pvr"
+    },
+    {
+        "name": "pvS"
+    },
+    {
+        "name": "Px"
+    },
+    {
+        "name": "Pxe"
+    },
+    {
+        "name": "Pyocyanic"
+    },
+    {
+        "name": "Pyocyanosis"
+    },
+    {
+        "name": "Pyogenic"
+    },
+    {
+        "name": "Pyosepticemia"
+    },
+    {
+        "name": "Pyrexia"
+    },
+    {
+        "name": "Quadrant"
+    },
+    {
+        "name": "Quadrantanopia"
+    },
+    {
+        "name": "Quadrantanopsia"
+    },
+    {
+        "name": "QuadranticDefect"
+    },
+    {
+        "name": "Qualitative"
+    },
+    {
+        "name": "Quantitative"
+    },
+    {
+        "name": "QuickertThreeSutureOperation"
+    },
+    {
+        "name": "Quininism"
+    },
+    {
+        "name": "RadialExplant"
+    },
+    {
+        "name": "RadialKeratotomy"
+    },
+    {
+        "name": "Radiations"
+    },
+    {
+        "name": "Radiometry"
+    },
+    {
+        "name": "Radioopaque"
+    },
+    {
+        "name": "Radiuscope"
+    },
+    {
+        "name": "RaedersSyndrome"
+    },
+    {
+        "name": "RailroadNystagmus"
+    },
+    {
+        "name": "RandotStereoTest"
+    },
+    {
+        "name": "RangeOfAccommodation"
+    },
+    {
+        "name": "RangeOfConvergence"
+    },
+    {
+        "name": "Rapd"
+    },
+    {
+        "name": "Raphe"
+    },
+    {
+        "name": "RapidEyeMovement"
+    },
+    {
+        "name": "RathkesPouchTumor"
+    },
+    {
+        "name": "RB1"
+    },
+    {
+        "name": "RBN"
+    },
+    {
+        "name": "Rd"
+    },
+    {
+        "name": "RDS"
+    },
+    {
+        "name": "RE"
+    },
+    {
+        "name": "RealImage"
+    },
+    {
+        "name": "ReceptorAmblyopia"
+    },
+    {
+        "name": "Recession"
+    },
+    {
+        "name": "Recessresect"
+    },
+    {
+        "name": "ReciprocalInnervation"
+    },
+    {
+        "name": "RecklinghausensDisease"
+    },
+    {
+        "name": "Recti"
+    },
+    {
+        "name": "Rectus"
+    },
+    {
+        "name": "RecurrentCornealErosion"
+    },
+    {
+        "name": "RedAndGreenGoggles"
+    },
+    {
+        "name": "RedEye"
+    },
+    {
+        "name": "RedFreeLight"
+    },
+    {
+        "name": "RedReflex"
+    },
+    {
+        "name": "ReducedEye"
+    },
+    {
+        "name": "RefinedRefraction"
+    },
+    {
+        "name": "Refixation"
+    },
+    {
+        "name": "Reflected"
+    },
+    {
+        "name": "Reflection"
+    },
+    {
+        "name": "Reflector"
+    },
+    {
+        "name": "Reflectoscope"
+    },
+    {
+        "name": "Reflex"
+    },
+    {
+        "name": "Reflux"
+    },
+    {
+        "name": "Refraction"
+    },
+    {
+        "name": "Refractionist"
+    },
+    {
+        "name": "RefractiveAmblyopia"
+    },
+    {
+        "name": "RefractiveError"
+    },
+    {
+        "name": "RefractiveIndex"
+    },
+    {
+        "name": "RefractiveKeratoplasty"
+    },
+    {
+        "name": "RefractiveMedia"
+    },
+    {
+        "name": "RefractiveSurgery"
+    },
+    {
+        "name": "Refractometer"
+    },
+    {
+        "name": "Refractometry"
+    },
+    {
+        "name": "RefsumsDisease"
+    },
+    {
+        "name": "RegularAstigmatism"
+    },
+    {
+        "name": "ReisbucklersDystrophy"
+    },
+    {
+        "name": "ReitersSyndrome"
+    },
+    {
+        "name": "RelativeAfferentPupillaryDefect"
+    },
+    {
+        "name": "RelativeAmblyopia"
+    },
+    {
+        "name": "RelativeConvergence"
+    },
+    {
+        "name": "RelativeDivergence"
+    },
+    {
+        "name": "RelativeScotoma"
+    },
+    {
+        "name": "RelativeSize"
+    },
+    {
+        "name": "RelaxingIncision"
+    },
+    {
+        "name": "Rem"
+    },
+    {
+        "name": "Remission"
+    },
+    {
+        "name": "Reposit"
+    },
+    {
+        "name": "Resection"
+    },
+    {
+        "name": "RestrictiveSyndromes"
+    },
+    {
+        "name": "ReteMirabile"
+    },
+    {
+        "name": "Reticle"
+    },
+    {
+        "name": "Reticular"
+    },
+    {
+        "name": "Retina"
+    },
+    {
+        "name": "Retinal"
+    },
+    {
+        "name": "RetinalApoplexy"
+    },
+    {
+        "name": "RetinalBreak"
+    },
+    {
+        "name": "RetinalCorrespondence"
+    },
+    {
+        "name": "RetinalCryopexy"
+    },
+    {
+        "name": "RetinalDetachment"
+    },
+    {
+        "name": "RetinalDialysis"
+    },
+    {
+        "name": "RetinalElement"
+    },
+    {
+        "name": "RetinalHole"
+    },
+    {
+        "name": "RetinalIschemia"
+    },
+    {
+        "name": "RetinalMigraine"
+    },
+    {
+        "name": "RetinalPidmentEpithelium"
+    },
+    {
+        "name": "RetinalPigmentEpitheliopathy"
+    },
+    {
+        "name": "RetinalRivalry"
+    },
+    {
+        "name": "RetinalTear"
+    },
+    {
+        "name": "RetinalVisualCells"
+    },
+    {
+        "name": "Retinitis"
+    },
+    {
+        "name": "RetinitisPigmentosa"
+    },
+    {
+        "name": "RetinitisProliferans"
+    },
+    {
+        "name": "RetinitisPunctataAlbescens"
+    },
+    {
+        "name": "Retinoblastoma"
+    },
+    {
+        "name": "Retinol"
+    },
+    {
+        "name": "retinopathy treatment"
+    },
+    {
+        "name": "Retinopathy"
+    },
+    {
+        "name": "RetinopathyOfPrematurity"
+    },
+    {
+        "name": "Retinopexy"
+    },
+    {
+        "name": "Retinoschisis"
+    },
+    {
+        "name": "Retinoscope"
+    },
+    {
+        "name": "Retinoscopy"
+    },
+    {
+        "name": "RetiPigEpiDetach"
+    },
+    {
+        "name": "RetPig"
+    },
+    {
+        "name": "RetractionSyndrome"
+    },
+    {
+        "name": "Retractor"
+    },
+    {
+        "name": "Retrobulbar"
+    },
+    {
+        "name": "RetrobulbarInjection"
+    },
+    {
+        "name": "RetrobulbarNeuritis"
+    },
+    {
+        "name": "Retroillumination"
+    },
+    {
+        "name": "Retrolental"
+    },
+    {
+        "name": "RetrolentalFibroplasia"
+    },
+    {
+        "name": "Retropulsion"
+    },
+    {
+        "name": "RetropulsionOfTheEyeball"
+    },
+    {
+        "name": "ReverseMustardeFlap"
+    },
+    {
+        "name": "ReversibleAmblyopia"
+    },
+    {
+        "name": "Rgp"
+    },
+    {
+        "name": "Rhabdomyosarcoma"
+    },
+    {
+        "name": "RhegmatogenRetiDetach"
+    },
+    {
+        "name": "RheumatoidArthritis"
+    },
+    {
+        "name": "Rhinosporidium"
+    },
+    {
+        "name": "Rhodopsin"
+    },
+    {
+        "name": "Rht"
+    },
+    {
+        "name": "RiddochPhenomenon"
+    },
+    {
+        "name": "RiegersAnomaly"
+    },
+    {
+        "name": "RightBeatingNystagmus"
+    },
+    {
+        "name": "RightDeorsumvergence"
+    },
+    {
+        "name": "RightGaze"
+    },
+    {
+        "name": "RightGazeVerticals"
+    },
+    {
+        "name": "RightHypertropia"
+    },
+    {
+        "name": "RightSursumvergence"
+    },
+    {
+        "name": "RigidGazPermeableLens"
+    },
+    {
+        "name": "RileydaySyndrome"
+    },
+    {
+        "name": "RiMLF"
+    },
+    {
+        "name": "RingScotoma"
+    },
+    {
+        "name": "Riolan"
+    },
+    {
+        "name": "RisleyPrism"
+    },
+    {
+        "name": "Rk"
+    },
+    {
+        "name": "RLE"
+    },
+    {
+        "name": "Rlf"
+    },
+    {
+        "name": "RMS"
+    },
+    {
+        "name": "Rochonduvigneaud"
+    },
+    {
+        "name": "RodMonochromacy"
+    },
+    {
+        "name": "RodMonochromat"
+    },
+    {
+        "name": "Rods"
+    },
+    {
+        "name": "RodVision"
+    },
+    {
+        "name": "Rop"
+    },
+    {
+        "name": "Rosacea"
+    },
+    {
+        "name": "RosaceaKeratitis"
+    },
+    {
+        "name": "RoseBengal"
+    },
+    {
+        "name": "Rostral"
+    },
+    {
+        "name": "RotaryNystagmus"
+    },
+    {
+        "name": "RotaryPrism"
+    },
+    {
+        "name": "RotationFlap"
+    },
+    {
+        "name": "RotationNystagmus"
+    },
+    {
+        "name": "RothbielschowskySyndrome"
+    },
+    {
+        "name": "RothmundSyndrome"
+    },
+    {
+        "name": "RothsSpot"
+    },
+    {
+        "name": "Rotoextraction"
+    },
+    {
+        "name": "RoundTop"
+    },
+    {
+        "name": "Rp"
+    },
+    {
+        "name": "Rpe"
+    },
+    {
+        "name": "Rped"
+    },
+    {
+        "name": "Rr"
+    },
+    {
+        "name": "RSM"
+    },
+    {
+        "name": "Rubella"
+    },
+    {
+        "name": "RubeosisIridis"
+    },
+    {
+        "name": "RunningSutures"
+    },
+    {
+        "name": "Rx"
+    },
+    {
+        "name": "Rx56"
+    },
+    {
+        "name": "R_L"
+    },
+    {
+        "name": "S"
+    },
+    {
+        "name": "SA"
+    },
+    {
+        "name": "SabouraudsDextroseAgar"
+    },
+    {
+        "name": "Saccades"
+    },
+    {
+        "name": "SaccusConjunctivae"
+    },
+    {
+        "name": "SafetyLens"
+    },
+    {
+        "name": "SagittalAxisOfFick"
+    },
+    {
+        "name": "SagittalDepth"
+    },
+    {
+        "name": "SAH"
+    },
+    {
+        "name": "SalmonPatch"
+    },
+    {
+        "name": "SaltTablets"
+    },
+    {
+        "name": "SalusSign"
+    },
+    {
+        "name": "SalzmannsDegeneration"
+    },
+    {
+        "name": "SandhoffsDisease"
+    },
+    {
+        "name": "SanFilippoDisorder"
+    },
+    {
+        "name": "Sarcoid"
+    },
+    {
+        "name": "Sarcoma"
+    },
+    {
+        "name": "SatelliteLesion"
+    },
+    {
+        "name": "SattlersLayer"
+    },
+    {
+        "name": "SattlersVeil"
+    },
+    {
+        "name": "Saujlon70"
+    },
+    {
+        "name": "Saujlon85"
+    },
+    {
+        "name": "SaujlonPw"
+    },
+    {
+        "name": "Sbv"
+    },
+    {
+        "name": "Sc"
+    },
+    {
+        "name": "ScanningElectronMicroscope"
+    },
+    {
+        "name": "Scaphoid"
+    },
+    {
+        "name": "ScheieProcedure"
+    },
+    {
+        "name": "ScheieSyndrome"
+    },
+    {
+        "name": "SchematicEye"
+    },
+    {
+        "name": "SchildersDisease"
+    },
+    {
+        "name": "SchiotzTonometer"
+    },
+    {
+        "name": "SchirmerTest"
+    },
+    {
+        "name": "Schisis"
+    },
+    {
+        "name": "SchlemmsCanal"
+    },
+    {
+        "name": "SchnydersCrystallineDystrophy"
+    },
+    {
+        "name": "SchoolMyopia"
+    },
+    {
+        "name": "SchwalbesLine"
+    },
+    {
+        "name": "SchweiggerHandPerimeter"
+    },
+    {
+        "name": "ScimitarScotoma"
+    },
+    {
+        "name": "Scintigraphy"
+    },
+    {
+        "name": "ScintillatingScotoma"
+    },
+    {
+        "name": "ScissorsMotion"
+    },
+    {
+        "name": "Scl"
+    },
+    {
+        "name": "Sclera"
+    },
+    {
+        "name": "ScleralBuckle"
+    },
+    {
+        "name": "ScleralDepressor"
+    },
+    {
+        "name": "ScleralFlap"
+    },
+    {
+        "name": "ScleralLens"
+    },
+    {
+        "name": "ScleralPlexus"
+    },
+    {
+        "name": "ScleralRigidity"
+    },
+    {
+        "name": "ScleralRing"
+    },
+    {
+        "name": "ScleralSpur"
+    },
+    {
+        "name": "ScleralTrabeculae"
+    },
+    {
+        "name": "Scleritis"
+    },
+    {
+        "name": "Scleroderma"
+    },
+    {
+        "name": "Sclerokeratoplasty"
+    },
+    {
+        "name": "Scleromalacia"
+    },
+    {
+        "name": "SclerosingKeratitis"
+    },
+    {
+        "name": "Sclerostomy"
+    },
+    {
+        "name": "Sclerotomy"
+    },
+    {
+        "name": "Sclerotomy2"
+    },
+    {
+        "name": "Scopolamine"
+    },
+    {
+        "name": "Scotoma"
+    },
+    {
+        "name": "ScotopicAdaptation"
+    },
+    {
+        "name": "ScotopicVision"
+    },
+    {
+        "name": "ScreenCoverTest"
+    },
+    {
+        "name": "Scurvy"
+    },
+    {
+        "name": "SE"
+    },
+    {
+        "name": "SeaFans"
+    },
+    {
+        "name": "SebaceousGland"
+    },
+    {
+        "name": "SeborrheicBlepharitis"
+    },
+    {
+        "name": "Sebum"
+    },
+    {
+        "name": "SebumPalpebrale"
+    },
+    {
+        "name": "SecondaryCataract"
+    },
+    {
+        "name": "SecondaryDeviation"
+    },
+    {
+        "name": "SecondaryExtropia"
+    },
+    {
+        "name": "SecondaryFocalPoint"
+    },
+    {
+        "name": "SecondaryGlaucoma"
+    },
+    {
+        "name": "SecondaryImplant"
+    },
+    {
+        "name": "SecondaryPositions"
+    },
+    {
+        "name": "SecondaryVitreous"
+    },
+    {
+        "name": "SecondCranialNerve"
+    },
+    {
+        "name": "SecondGradeFusion"
+    },
+    {
+        "name": "SectorDefect"
+    },
+    {
+        "name": "SectorIridectomy"
+    },
+    {
+        "name": "SedimentationRate"
+    },
+    {
+        "name": "SedRate"
+    },
+    {
+        "name": "SeesawNystagmus"
+    },
+    {
+        "name": "SeidelScotoma"
+    },
+    {
+        "name": "SellaTurcica"
+    },
+    {
+        "name": "Sem"
+    },
+    {
+        "name": "SemilunarFold"
+    },
+    {
+        "name": "SenileEctropion"
+    },
+    {
+        "name": "SenileEnophthalmus"
+    },
+    {
+        "name": "SenileEntropion"
+    },
+    {
+        "name": "SenileMacularDegeneration"
+    },
+    {
+        "name": "SensoryEsotropia"
+    },
+    {
+        "name": "SensoryExotropia"
+    },
+    {
+        "name": "SensoryFusion"
+    },
+    {
+        "name": "SensoryNerve"
+    },
+    {
+        "name": "SensoryReceptors"
+    },
+    {
+        "name": "SensoryRetina"
+    },
+    {
+        "name": "SensoryVisualPathway"
+    },
+    {
+        "name": "SeparationDifficulty"
+    },
+    {
+        "name": "Sepsis"
+    },
+    {
+        "name": "Septicemia"
+    },
+    {
+        "name": "SepticRetinitis"
+    },
+    {
+        "name": "SeptumOrbitale"
+    },
+    {
+        "name": "Sequelae"
+    },
+    {
+        "name": "SerousChorioretinopathy"
+    },
+    {
+        "name": "SerousDetachment"
+    },
+    {
+        "name": "Serpiginous"
+    },
+    {
+        "name": "SerpiginousChoroidopathy"
+    },
+    {
+        "name": "SerratiaMarcescens"
+    },
+    {
+        "name": "SettingSunPhenomenon"
+    },
+    {
+        "name": "SeventhCranialNerve"
+    },
+    {
+        "name": "Sf6"
+    },
+    {
+        "name": "Sfp"
+    },
+    {
+        "name": "Shadowgraph"
+    },
+    {
+        "name": "ShafersSign"
+    },
+    {
+        "name": "Shaffer_system"
+    },
+    {
+        "name": "ShearingLens"
+    },
+    {
+        "name": "SheathSyndrome"
+    },
+    {
+        "name": "SheetsLens"
+    },
+    {
+        "name": "SheinerPrinciple"
+    },
+    {
+        "name": "Shell"
+    },
+    {
+        "name": "ShellenSutures"
+    },
+    {
+        "name": "ShepardLens"
+    },
+    {
+        "name": "Sheridangardner"
+    },
+    {
+        "name": "SherringtonsLaw"
+    },
+    {
+        "name": "Shingles"
+    },
+    {
+        "name": "ShollowAngle"
+    },
+    {
+        "name": "ShortCiliaryNerves"
+    },
+    {
+        "name": "ShortPosteriorCiliaryArteries"
+    },
+    {
+        "name": "SickleCellDisease"
+    },
+    {
+        "name": "SiderosisBulbi"
+    },
+    {
+        "name": "SiderosisLentis"
+    },
+    {
+        "name": "SiliconeLens"
+    },
+    {
+        "name": "SimcoeLens"
+    },
+    {
+        "name": "SimpleHyperopicAstigmatism"
+    },
+    {
+        "name": "SimpleMyopicAstigmatism"
+    },
+    {
+        "name": "SimultaneousFovealPerception"
+    },
+    {
+        "name": "SimultaneousMacularPerception"
+    },
+    {
+        "name": "SimultaneousPCT"
+    },
+    {
+        "name": "SimultaneousPerception"
+    },
+    {
+        "name": "SimultaneousPrismAndCoverTest"
+    },
+    {
+        "name": "SingleBinocularVision"
+    },
+    {
+        "name": "SinskeyLens"
+    },
+    {
+        "name": "SixthCranialNerve"
+    },
+    {
+        "name": "SixthNervePalsy"
+    },
+    {
+        "name": "SjogrensSyndrome"
+    },
+    {
+        "name": "SkewDeviation"
+    },
+    {
+        "name": "Skiascopy"
+    },
+    {
+        "name": "SkiascopyBar"
+    },
+    {
+        "name": "SkinFlap"
+    },
+    {
+        "name": "Slaboff"
+    },
+    {
+        "name": "Sle"
+    },
+    {
+        "name": "SlidingFlap"
+    },
+    {
+        "name": "SLIMCE"
+    },
+    {
+        "name": "SlitLamp"
+    },
+    {
+        "name": "SLK"
+    },
+    {
+        "name": "SLO"
+    },
+    {
+        "name": "SM"
+    },
+    {
+        "name": "Smd"
+    },
+    {
+        "name": "SmithMKSP"
+    },
+    {
+        "name": "Smp"
+    },
+    {
+        "name": "SnellenChart"
+    },
+    {
+        "name": "SnellenLetter"
+    },
+    {
+        "name": "SnellsLaw"
+    },
+    {
+        "name": "SnowBalls"
+    },
+    {
+        "name": "SnowBlindness"
+    },
+    {
+        "name": "SNpr"
+    },
+    {
+        "name": "SNR"
+    },
+    {
+        "name": "So"
+    },
+    {
+        "name": "SoakingSolution"
+    },
+    {
+        "name": "SOD"
+    },
+    {
+        "name": "SodiumHyaluronate"
+    },
+    {
+        "name": "Sof"
+    },
+    {
+        "name": "SofForm"
+    },
+    {
+        "name": "Soflens"
+    },
+    {
+        "name": "Softcon"
+    },
+    {
+        "name": "SoftContactLens"
+    },
+    {
+        "name": "SoftExudates"
+    },
+    {
+        "name": "SoftSite"
+    },
+    {
+        "name": "SolarKeratosis"
+    },
+    {
+        "name": "SolarMaculopathy"
+    },
+    {
+        "name": "SOP"
+    },
+    {
+        "name": "SOT"
+    },
+    {
+        "name": "SOV"
+    },
+    {
+        "name": "SP"
+    },
+    {
+        "name": "SPAI"
+    },
+    {
+        "name": "SpasmusNutans"
+    },
+    {
+        "name": "SpasticEntropion"
+    },
+    {
+        "name": "SpatialLocalization"
+    },
+    {
+        "name": "Spct"
+    },
+    {
+        "name": "SpecrularReflection"
+    },
+    {
+        "name": "SPECT"
+    },
+    {
+        "name": "Spectacles"
+    },
+    {
+        "name": "SpecularEndothelialMicroscopy"
+    },
+    {
+        "name": "SpecularMicroscopy"
+    },
+    {
+        "name": "SpecularPhotography"
+    },
+    {
+        "name": "Speculum"
+    },
+    {
+        "name": "SphenoidalFissure"
+    },
+    {
+        "name": "SphenoidBone"
+    },
+    {
+        "name": "SphenoidSinus"
+    },
+    {
+        "name": "SphericalAberration"
+    },
+    {
+        "name": "SphericalLen"
+    },
+    {
+        "name": "SpherocylindricalLens"
+    },
+    {
+        "name": "Sphincterotomy"
+    },
+    {
+        "name": "SphincterPupillae"
+    },
+    {
+        "name": "SphingomyelinLipidosis"
+    },
+    {
+        "name": "SpinalTap"
+    },
+    {
+        "name": "SpincastLens"
+    },
+    {
+        "name": "SpiralField"
+    },
+    {
+        "name": "SpiralOfTillaux"
+    },
+    {
+        "name": "Spirilla"
+    },
+    {
+        "name": "Spk"
+    },
+    {
+        "name": "SpotRetinoscope"
+    },
+    {
+        "name": "SPTA"
+    },
+    {
+        "name": "SquashedTomato"
+    },
+    {
+        "name": "Squid"
+    },
+    {
+        "name": "Squint"
+    },
+    {
+        "name": "Sr"
+    },
+    {
+        "name": "Srk"
+    },
+    {
+        "name": "Srnv"
+    },
+    {
+        "name": "Srnvm"
+    },
+    {
+        "name": "SRR"
+    },
+    {
+        "name": "SSC"
+    },
+    {
+        "name": "Sspe"
+    },
+    {
+        "name": "St"
+    },
+    {
+        "name": "StaphylococcusAureus"
+    },
+    {
+        "name": "StaphylococcusEpidermidis"
+    },
+    {
+        "name": "Staphyloma"
+    },
+    {
+        "name": "StargardtsDisease"
+    },
+    {
+        "name": "StarshapedField"
+    },
+    {
+        "name": "Stasis"
+    },
+    {
+        "name": "StaticPerimetry"
+    },
+    {
+        "name": "SteamyCornea"
+    },
+    {
+        "name": "SteepestMeridian"
+    },
+    {
+        "name": "Stellae"
+    },
+    {
+        "name": "Stenopaic"
+    },
+    {
+        "name": "Stenosis"
+    },
+    {
+        "name": "Stereoacuity"
+    },
+    {
+        "name": "StereoCampimeter"
+    },
+    {
+        "name": "Stereogram"
+    },
+    {
+        "name": "Stereopsis"
+    },
+    {
+        "name": "Stereoscope"
+    },
+    {
+        "name": "StereoscopicVision"
+    },
+    {
+        "name": "StereotaxicSurgery"
+    },
+    {
+        "name": "Steroid"
+    },
+    {
+        "name": "StevensjohnsonSyndrome"
+    },
+    {
+        "name": "Stigmata"
+    },
+    {
+        "name": "StilescrawfordEffect"
+    },
+    {
+        "name": "StillingturkRetractSynd"
+    },
+    {
+        "name": "StillsDisease"
+    },
+    {
+        "name": "STIR"
+    },
+    {
+        "name": "StockerLine"
+    },
+    {
+        "name": "StockspielmeyervogtSynd"
+    },
+    {
+        "name": "StockspielmeyervogtSyndrome"
+    },
+    {
+        "name": "Stoxil"
+    },
+    {
+        "name": "StrabismicAmblyopia"
+    },
+    {
+        "name": "Strabismus"
+    },
+    {
+        "name": "StrabismusFixus"
+    },
+    {
+        "name": "StreakRetinoscope"
+    },
+    {
+        "name": "StreptococcusPneumoniae"
+    },
+    {
+        "name": "Striae"
+    },
+    {
+        "name": "StriateArea"
+    },
+    {
+        "name": "Stricture"
+    },
+    {
+        "name": "StringOfPearls"
+    },
+    {
+        "name": "Stroke"
+    },
+    {
+        "name": "Stroma"
+    },
+    {
+        "name": "SturgeweberSyndrome"
+    },
+    {
+        "name": "Stycar"
+    },
+    {
+        "name": "Stye"
+    },
+    {
+        "name": "Stylet"
+    },
+    {
+        "name": "SubacuteSclerosingPanencephalitis"
+    },
+    {
+        "name": "SubaSclePanencepha"
+    },
+    {
+        "name": "SubconjunctivalHemorrhage"
+    },
+    {
+        "name": "SubconjunctivalInjection"
+    },
+    {
+        "name": "Subcutaneous"
+    },
+    {
+        "name": "SubhyaloidHemorrhage"
+    },
+    {
+        "name": "SubjectiveTest"
+    },
+    {
+        "name": "Subluxation"
+    },
+    {
+        "name": "SubretinalNeovascularization"
+    },
+    {
+        "name": "SubretinalNeovascularMembrane"
+    },
+    {
+        "name": "SubstantiaCorticalisCerebri"
+    },
+    {
+        "name": "SubstantiaPropria"
+    },
+    {
+        "name": "SulcusFixation"
+    },
+    {
+        "name": "SulfatideLipidosis"
+    },
+    {
+        "name": "SulfurHexafluoride"
+    },
+    {
+        "name": "SunburstDial"
+    },
+    {
+        "name": "SunflowerCataract"
+    },
+    {
+        "name": "Sunglasses"
+    },
+    {
+        "name": "SuperficialPunctateKeratitis"
+    },
+    {
+        "name": "Superimposition"
+    },
+    {
+        "name": "Superior"
+    },
+    {
+        "name": "SuperiorArcade"
+    },
+    {
+        "name": "SuperiorCanaliculus"
+    },
+    {
+        "name": "SuperiorCervicalGanglion"
+    },
+    {
+        "name": "SuperiorLimbicKeratoconjunctivitis"
+    },
+    {
+        "name": "SuperiorNasalArtery"
+    },
+    {
+        "name": "SuperiorNasalVein"
+    },
+    {
+        "name": "SuperiorOblique"
+    },
+    {
+        "name": "SuperiorObliquePalsy"
+    },
+    {
+        "name": "SuperiorOphthalmicVein"
+    },
+    {
+        "name": "SuperiorOrbitalFissure"
+    },
+    {
+        "name": "SuperiorOrbitalFissureSyndrome"
+    },
+    {
+        "name": "SuperiorPalpebralFurrow"
+    },
+    {
+        "name": "SuperiorPunctum"
+    },
+    {
+        "name": "SuperiorQuadrantanopia"
+    },
+    {
+        "name": "SuperiorRectus"
+    },
+    {
+        "name": "SuperiorTemporalArtery"
+    },
+    {
+        "name": "SuperiorTemporalVein"
+    },
+    {
+        "name": "SuperObliqTenSheaSynd"
+    },
+    {
+        "name": "Suppression"
+    },
+    {
+        "name": "SuppressionAmblyopia"
+    },
+    {
+        "name": "Suppurate"
+    },
+    {
+        "name": "Suppuration"
+    },
+    {
+        "name": "Suprachoroid"
+    },
+    {
+        "name": "SupranuclearPathways"
+    },
+    {
+        "name": "SupraorbitalArtery"
+    },
+    {
+        "name": "SupraorbitalNerve"
+    },
+    {
+        "name": "SupraorbitalNotch"
+    },
+    {
+        "name": "SuprathresholdStaticPerimetry"
+    },
+    {
+        "name": "SupratrochlearArtery"
+    },
+    {
+        "name": "SupratrochlearNerve"
+    },
+    {
+        "name": "Supraversion"
+    },
+    {
+        "name": "Sursumduction"
+    },
+    {
+        "name": "Sursumvergence"
+    },
+    {
+        "name": "Sursumversion"
+    },
+    {
+        "name": "SuturePlication"
+    },
+    {
+        "name": "Sutures"
+    },
+    {
+        "name": "SwanIncision"
+    },
+    {
+        "name": "SwanSyndrome"
+    },
+    {
+        "name": "SwingingFlashLightTest"
+    },
+    {
+        "name": "SylvianAqueductSyndrome"
+    },
+    {
+        "name": "Symblepharon"
+    },
+    {
+        "name": "SymmetricSurgery"
+    },
+    {
+        "name": "SympatheticNervousSystem"
+    },
+    {
+        "name": "SympatheticOphthalmia"
+    },
+    {
+        "name": "SympatheticUveitis"
+    },
+    {
+        "name": "SympatholyticDrug"
+    },
+    {
+        "name": "SympathomimeticDrug"
+    },
+    {
+        "name": "SynchisisScintillans"
+    },
+    {
+        "name": "Syndrome"
+    },
+    {
+        "name": "Synechiae"
+    },
+    {
+        "name": "Synechiolysis"
+    },
+    {
+        "name": "Synephris"
+    },
+    {
+        "name": "Syneresis"
+    },
+    {
+        "name": "Synergist"
+    },
+    {
+        "name": "SynergistDivergence"
+    },
+    {
+        "name": "Systematism"
+    },
+    {
+        "name": "Systemless"
+    },
+    {
+        "name": "T1w"
+    },
+    {
+        "name": "T2w"
+    },
+    {
+        "name": "Ta"
+    },
+    {
+        "name": "Tac"
+    },
+    {
+        "name": "Tache"
+    },
+    {
+        "name": "Tachycardia"
+    },
+    {
+        "name": "Taenia"
+    },
+    {
+        "name": "TakayasusDisease"
+    },
+    {
+        "name": "Tampon"
+    },
+    {
+        "name": "Tamponade"
+    },
+    {
+        "name": "TangentScreen"
+    },
+    {
+        "name": "TanglerDisease"
+    },
+    {
+        "name": "Tap"
+    },
+    {
+        "name": "Tapetoretinopathy"
+    },
+    {
+        "name": "Tapetum"
+    },
+    {
+        "name": "TarcoTest"
+    },
+    {
+        "name": "TarsalConjunctivalResection"
+    },
+    {
+        "name": "TarsalGlands"
+    },
+    {
+        "name": "TarsalPlate"
+    },
+    {
+        "name": "Tarsectomy"
+    },
+    {
+        "name": "Tarsorrhaphy"
+    },
+    {
+        "name": "Tarsus"
+    },
+    {
+        "name": "TattooingOfTheCornea"
+    },
+    {
+        "name": "TaysachsDisease"
+    },
+    {
+        "name": "Tcell"
+    },
+    {
+        "name": "TCT"
+    },
+    {
+        "name": "TeachingMirror"
+    },
+    {
+        "name": "TearBreakUpTime"
+    },
+    {
+        "name": "TearDrainageSystem"
+    },
+    {
+        "name": "TearDuct"
+    },
+    {
+        "name": "TearFilm"
+    },
+    {
+        "name": "TearFilmBreakUpTime"
+    },
+    {
+        "name": "TearSac"
+    },
+    {
+        "name": "TearsNaturale"
+    },
+    {
+        "name": "TegmentalSyndrome"
+    },
+    {
+        "name": "Teichopsia"
+    },
+    {
+        "name": "Telangiectasia"
+    },
+    {
+        "name": "Telebinocular"
+    },
+    {
+        "name": "Telecanthus"
+    },
+    {
+        "name": "TellerAcuityCards"
+    },
+    {
+        "name": "TempleLength"
+    },
+    {
+        "name": "Temporal"
+    },
+    {
+        "name": "TemporalArcades"
+    },
+    {
+        "name": "TemporalArteritis"
+    },
+    {
+        "name": "TemporalCrescent"
+    },
+    {
+        "name": "TemporalLobe"
+    },
+    {
+        "name": "TemporalLoop"
+    },
+    {
+        "name": "TemporalPallor"
+    },
+    {
+        "name": "Tendon"
+    },
+    {
+        "name": "Tenectomy"
+    },
+    {
+        "name": "TenonsCapsule"
+    },
+    {
+        "name": "Tenotomy"
+    },
+    {
+        "name": "Tension"
+    },
+    {
+        "name": "TenzelSemicircularFlap"
+    },
+    {
+        "name": "Teratogen"
+    },
+    {
+        "name": "TerriensUlcer"
+    },
+    {
+        "name": "TertiaryPositions"
+    },
+    {
+        "name": "TertiaryVitreous"
+    },
+    {
+        "name": "Test"
+    },
+    {
+        "name": "TetracaineHydrochloride"
+    },
+    {
+        "name": "TetrahydrozolineHydrochloride"
+    },
+    {
+        "name": "Tft"
+    },
+    {
+        "name": "TGF"
+    },
+    {
+        "name": "Th"
+    },
+    {
+        "name": "ThermalBurns"
+    },
+    {
+        "name": "ThermalSclerostomy"
+    },
+    {
+        "name": "ThermalSclerotomy"
+    },
+    {
+        "name": "Thimerosal"
+    },
+    {
+        "name": "ThioglycollatheBroth"
+    },
+    {
+        "name": "ThirdCranialNerve"
+    },
+    {
+        "name": "ThirdGradeFusion"
+    },
+    {
+        "name": "ThirdNervePalsy"
+    },
+    {
+        "name": "ThomsonSyndrome"
+    },
+    {
+        "name": "ThreeMirrorLens"
+    },
+    {
+        "name": "ThreeStepTest"
+    },
+    {
+        "name": "ThresholdStimulus"
+    },
+    {
+        "name": "Thrombophlebitis"
+    },
+    {
+        "name": "Thrombus"
+    },
+    {
+        "name": "THS"
+    },
+    {
+        "name": "ThygeuperPuncKerat"
+    },
+    {
+        "name": "ThyroidEyeDisease"
+    },
+    {
+        "name": "ThyrotoxicExophthalmos"
+    },
+    {
+        "name": "Tia"
+    },
+    {
+        "name": "TIB"
+    },
+    {
+        "name": "TicDouloureux"
+    },
+    {
+        "name": "TimololMaleate"
+    },
+    {
+        "name": "Timoptic"
+    },
+    {
+        "name": "Tinnitus"
+    },
+    {
+        "name": "TissueAdhesive"
+    },
+    {
+        "name": "TitmusTest"
+    },
+    {
+        "name": "TK"
+    },
+    {
+        "name": "Tn"
+    },
+    {
+        "name": "TNF"
+    },
+    {
+        "name": "TnoStereoTest"
+    },
+    {
+        "name": "TobaccoAmblyopia"
+    },
+    {
+        "name": "TobaccoDust"
+    },
+    {
+        "name": "Tobramycin"
+    },
+    {
+        "name": "TOF"
+    },
+    {
+        "name": "Tolazoline"
+    },
+    {
+        "name": "TolosahuntSyndrome"
+    },
+    {
+        "name": "Tomogram"
+    },
+    {
+        "name": "Tomography"
+    },
+    {
+        "name": "TonicConvergence"
+    },
+    {
+        "name": "TonicPupil"
+    },
+    {
+        "name": "Tonography"
+    },
+    {
+        "name": "Tonometer"
+    },
+    {
+        "name": "Tonometry"
+    },
+    {
+        "name": "topical antibiotics"
+    },
+    {
+        "name": "Topical"
+    },
+    {
+        "name": "Torch"
+    },
+    {
+        "name": "ToricLens"
+    },
+    {
+        "name": "Torsion"
+    },
+    {
+        "name": "Torticollis"
+    },
+    {
+        "name": "Tortuous"
+    },
+    {
+        "name": "TotalAstigmatism"
+    },
+    {
+        "name": "Tov"
+    },
+    {
+        "name": "toxic optic neuropathy"
+    },
+    {
+        "name": "ToxicAmblyopia"
+    },
+    {
+        "name": "Toxin"
+    },
+    {
+        "name": "ToxocaraCarnis"
+    },
+    {
+        "name": "Toxoplasmosis"
+    },
+    {
+        "name": "TPA"
+    },
+    {
+        "name": "Tpi"
+    },
+    {
+        "name": "TrabecularMeshwork"
+    },
+    {
+        "name": "Trabeculectomy"
+    },
+    {
+        "name": "Trabeculotomy"
+    },
+    {
+        "name": "Trabeculum"
+    },
+    {
+        "name": "Trachoma"
+    },
+    {
+        "name": "TrachomaInclusionConjunctivitisVirusFamily"
+    },
+    {
+        "name": "TractionDetachment"
+    },
+    {
+        "name": "TractionSutures"
+    },
+    {
+        "name": "TractionTest"
+    },
+    {
+        "name": "TransientIschemicAttack"
+    },
+    {
+        "name": "TransientObscurationOfVision"
+    },
+    {
+        "name": "Transillumination"
+    },
+    {
+        "name": "Transposition"
+    },
+    {
+        "name": "TranspositionFlap"
+    },
+    {
+        "name": "TrantasDots"
+    },
+    {
+        "name": "TranverseAxisOfFick"
+    },
+    {
+        "name": "TranverseBlepharotomy"
+    },
+    {
+        "name": "Trauma"
+    },
+    {
+        "name": "TreachercollinsSyndrome"
+    },
+    {
+        "name": "Trefoil"
+    },
+    {
+        "name": "Trephine"
+    },
+    {
+        "name": "Treponema"
+    },
+    {
+        "name": "TrialFrame"
+    },
+    {
+        "name": "TrialLenses"
+    },
+    {
+        "name": "Trianopia"
+    },
+    {
+        "name": "Tric"
+    },
+    {
+        "name": "Trichiasis"
+    },
+    {
+        "name": "Trichromatism"
+    },
+    {
+        "name": "TrifluoroThymidine"
+    },
+    {
+        "name": "Trifocal"
+    },
+    {
+        "name": "TrigeminalNeuralgia"
+    },
+    {
+        "name": "TripleProcedure"
+    },
+    {
+        "name": "Triplopia"
+    },
+    {
+        "name": "Trisomy13Syndrome"
+    },
+    {
+        "name": "Trisomy21"
+    },
+    {
+        "name": "Tritanomaly"
+    },
+    {
+        "name": "Trochlea"
+    },
+    {
+        "name": "Tropia"
+    },
+    {
+        "name": "Tropicamide"
+    },
+    {
+        "name": "Troposcope"
+    },
+    {
+        "name": "TrueExfoliation"
+    },
+    {
+        "name": "TrueImage"
+    },
+    {
+        "name": "TSE"
+    },
+    {
+        "name": "TTT"
+    },
+    {
+        "name": "Tuberculosis"
+    },
+    {
+        "name": "TuberousSclerosis"
+    },
+    {
+        "name": "TubularVisualField"
+    },
+    {
+        "name": "Tuck"
+    },
+    {
+        "name": "TuckingOfTheLevatorAponeurosis"
+    },
+    {
+        "name": "TuckOfTheEyelidRetractors"
+    },
+    {
+        "name": "TuckOfTheInferiorAponeurosis"
+    },
+    {
+        "name": "TunicaFibrosaOculi"
+    },
+    {
+        "name": "TunicaNervosaOculi"
+    },
+    {
+        "name": "TunicaVascularisOculi"
+    },
+    {
+        "name": "TunicaVasculosaLentis"
+    },
+    {
+        "name": "TunnelVisison"
+    },
+    {
+        "name": "TurkishSaddle"
+    },
+    {
+        "name": "TurnersSyndrome"
+    },
+    {
+        "name": "TVAS"
+    },
+    {
+        "name": "TwoSnipOrOnesnipOperation"
+    },
+    {
+        "name": "TylosisCiliaris"
+    },
+    {
+        "name": "TyndallEffect"
+    },
+    {
+        "name": "TyndallPhenomenon"
+    },
+    {
+        "name": "Type"
+    },
+    {
+        "name": "Typhlogy"
+    },
+    {
+        "name": "Typhlosis"
+    },
+    {
+        "name": "UBO"
+    },
+    {
+        "name": "UghSyndrome"
+    },
+    {
+        "name": "UhthoffsSign"
+    },
+    {
+        "name": "Ulcer"
+    },
+    {
+        "name": "Ulceration"
+    },
+    {
+        "name": "Ultrasonography"
+    },
+    {
+        "name": "Ultrasound"
+    },
+    {
+        "name": "Ultraviolet"
+    },
+    {
+        "name": "Umbilicated"
+    },
+    {
+        "name": "un"
+    },
+    {
+        "name": "UncrossedDiplopia"
+    },
+    {
+        "name": "Undermine"
+    },
+    {
+        "name": "UnharmoniousArc"
+    },
+    {
+        "name": "Unilateral"
+    },
+    {
+        "name": "Uniocular"
+    },
+    {
+        "name": "UnrefinedRefraction"
+    },
+    {
+        "name": "UpbeatNystagmus"
+    },
+    {
+        "name": "UpdrawnPupil"
+    },
+    {
+        "name": "Upgaze"
+    },
+    {
+        "name": "UpperCanaliculus"
+    },
+    {
+        "name": "UpperPunctum"
+    },
+    {
+        "name": "UpsideDownPtosis"
+    },
+    {
+        "name": "Urinalysis"
+    },
+    {
+        "name": "Urticaria"
+    },
+    {
+        "name": "us4000"
+    },
+    {
+        "name": "UshersSyndrome"
+    },
+    {
+        "name": "USST"
+    },
+    {
+        "name": "UV"
+    },
+    {
+        "name": "Uvea"
+    },
+    {
+        "name": "UvealTract"
+    },
+    {
+        "name": "Uveitis"
+    },
+    {
+        "name": "UveoparotidFever"
+    },
+    {
+        "name": "Uveoparotiditis"
+    },
+    {
+        "name": "V"
+    },
+    {
+        "name": "V1"
+    },
+    {
+        "name": "Vagus"
+    },
+    {
+        "name": "ValveOfHasner"
+    },
+    {
+        "name": "VanDerHoevessSyndrome"
+    },
+    {
+        "name": "VariableStrabismus"
+    },
+    {
+        "name": "Varicella"
+    },
+    {
+        "name": "Variola"
+    },
+    {
+        "name": "Varix"
+    },
+    {
+        "name": "Vascular"
+    },
+    {
+        "name": "Vascularization"
+    },
+    {
+        "name": "Vasculature"
+    },
+    {
+        "name": "Vasculitis"
+    },
+    {
+        "name": "VDT"
+    },
+    {
+        "name": "VDU"
+    },
+    {
+        "name": "Vecp"
+    },
+    {
+        "name": "Vectograph"
+    },
+    {
+        "name": "VenaeCiliares"
+    },
+    {
+        "name": "VenaeVorticosae"
+    },
+    {
+        "name": "VenousPhase"
+    },
+    {
+        "name": "VenousStasisRetinopathy"
+    },
+    {
+        "name": "Ventouse"
+    },
+    {
+        "name": "Ventral"
+    },
+    {
+        "name": "Venule"
+    },
+    {
+        "name": "Ver"
+    },
+    {
+        "name": "Vergence"
+    },
+    {
+        "name": "VergenceAbility"
+    },
+    {
+        "name": "VergencePower"
+    },
+    {
+        "name": "VergenceReflex"
+    },
+    {
+        "name": "VernalCatarrh"
+    },
+    {
+        "name": "VernalConjunctivitis"
+    },
+    {
+        "name": "VernierAcuity"
+    },
+    {
+        "name": "Version"
+    },
+    {
+        "name": "VertexDistance"
+    },
+    {
+        "name": "VertexPower"
+    },
+    {
+        "name": "VerticalAxisOfFick"
+    },
+    {
+        "name": "VerticalGazeCenter"
+    },
+    {
+        "name": "VerticalMeridian"
+    },
+    {
+        "name": "VerticalNystagmus"
+    },
+    {
+        "name": "VerticalVergence"
+    },
+    {
+        "name": "Vertigo"
+    },
+    {
+        "name": "VestibularNystagmus"
+    },
+    {
+        "name": "VestibularSystem"
+    },
+    {
+        "name": "VestibulooculoReflex"
+    },
+    {
+        "name": "Vidarabine"
+    },
+    {
+        "name": "ViethmuelllerHoropter"
+    },
+    {
+        "name": "Viraa"
+    },
+    {
+        "name": "ViralConjunctivitis"
+    },
+    {
+        "name": "VirtualImage"
+    },
+    {
+        "name": "Virus"
+    },
+    {
+        "name": "Visc"
+    },
+    {
+        "name": "Viscosurgery"
+    },
+    {
+        "name": "Vision"
+    },
+    {
+        "name": "VisionBothEyes"
+    },
+    {
+        "name": "VisionLeftEye"
+    },
+    {
+        "name": "VisionRightEye"
+    },
+    {
+        "name": "VistechSystem"
+    },
+    {
+        "name": "VisualAcuity"
+    },
+    {
+        "name": "VisualAngle"
+    },
+    {
+        "name": "VisualAssociationAreas"
+    },
+    {
+        "name": "VisualAxis"
+    },
+    {
+        "name": "VisualCortex"
+    },
+    {
+        "name": "VisualDirection"
+    },
+    {
+        "name": "VisualEvokedResponse"
+    },
+    {
+        "name": "VisualField"
+    },
+    {
+        "name": "VisualLine"
+    },
+    {
+        "name": "VisualPerseveration"
+    },
+    {
+        "name": "VisualPurple"
+    },
+    {
+        "name": "visudyne"
+    },
+    {
+        "name": "VisuosensoryCortex"
+    },
+    {
+        "name": "Visuscope"
+    },
+    {
+        "name": "VitaminA"
+    },
+    {
+        "name": "VitaminADeficiency"
+    },
+    {
+        "name": "VitaminB12Deficiency"
+    },
+    {
+        "name": "VitaminB1Deficiency"
+    },
+    {
+        "name": "VitaminCDeficiency"
+    },
+    {
+        "name": "VitaminDDeficiency"
+    },
+    {
+        "name": "VitelliformDegeneration"
+    },
+    {
+        "name": "VitrealBleed"
+    },
+    {
+        "name": "Vitrectomy"
+    },
+    {
+        "name": "Vitreous"
+    },
+    {
+        "name": "VitreousBase"
+    },
+    {
+        "name": "VitreousBulge"
+    },
+    {
+        "name": "VitreousDetachment"
+    },
+    {
+        "name": "VitreousFace"
+    },
+    {
+        "name": "VitreousFloaters"
+    },
+    {
+        "name": "VitreousHemorrhage"
+    },
+    {
+        "name": "VitreousOpacities"
+    },
+    {
+        "name": "VitreousTap"
+    },
+    {
+        "name": "VitreousTouch"
+    },
+    {
+        "name": "Vitritis"
+    },
+    {
+        "name": "VocationalTrifocals"
+    },
+    {
+        "name": "Vod"
+    },
+    {
+        "name": "VogtkoyanagiharadaSyndrome"
+    },
+    {
+        "name": "VogtsLine"
+    },
+    {
+        "name": "VogtspielmeyerSyndrome"
+    },
+    {
+        "name": "VoluntaryConvergence"
+    },
+    {
+        "name": "VoluntaryEyeMovements"
+    },
+    {
+        "name": "Voluntarynystagmus"
+    },
+    {
+        "name": "VonGierkesDisease"
+    },
+    {
+        "name": "VonGraefesSign"
+    },
+    {
+        "name": "VonGraefesSyndrome"
+    },
+    {
+        "name": "VonHippellindauDisease"
+    },
+    {
+        "name": "VonRecklinghausensDisease"
+    },
+    {
+        "name": "VonWillebrandtsKnee"
+    },
+    {
+        "name": "Vor"
+    },
+    {
+        "name": "VortexVeins"
+    },
+    {
+        "name": "Vos"
+    },
+    {
+        "name": "VossiusRing"
+    },
+    {
+        "name": "Vou"
+    },
+    {
+        "name": "Vpattern"
+    },
+    {
+        "name": "VshapedGroove"
+    },
+    {
+        "name": "VToYPlasty"
+    },
+    {
+        "name": "Vuerometer"
+    },
+    {
+        "name": "Vv"
+    },
+    {
+        "name": "vx"
+    },
+    {
+        "name": "W4d"
+    },
+    {
+        "name": "WaadenburgkleinSyndrome"
+    },
+    {
+        "name": "WallenbergSyndrome"
+    },
+    {
+        "name": "WallEyed"
+    },
+    {
+        "name": "WaterDrinkingTest"
+    },
+    {
+        "name": "waterfall_aftereffect"
+    },
+    {
+        "name": "Watt"
+    },
+    {
+        "name": "Wavefront"
+    },
+    {
+        "name": "Wavelength"
+    },
+    {
+        "name": "WD"
+    },
+    {
+        "name": "WE"
+    },
+    {
+        "name": "WebersSyndrome"
+    },
+    {
+        "name": "WeckCells"
+    },
+    {
+        "name": "WeckCellVitrectomy"
+    },
+    {
+        "name": "WeckSponges"
+    },
+    {
+        "name": "Weight"
+    },
+    {
+        "name": "WeillmarchesaniSyndrome"
+    },
+    {
+        "name": "Welch4Drop"
+    },
+    {
+        "name": "WernersSyndrome"
+    },
+    {
+        "name": "WernickesEncephalopathy"
+    },
+    {
+        "name": "WettingSolution"
+    },
+    {
+        "name": "WheelRotation"
+    },
+    {
+        "name": "WhiplashHeadShakingSyndrome"
+    },
+    {
+        "name": "WhiteOfTheEye"
+    },
+    {
+        "name": "WiegersLigament"
+    },
+    {
+        "name": "WiesProcedure"
+    },
+    {
+        "name": "WildervankSyndrome"
+    },
+    {
+        "name": "WillebrandtsKnee"
+    },
+    {
+        "name": "WilsonsDisease"
+    },
+    {
+        "name": "Winking"
+    },
+    {
+        "name": "WinkingSyndrome"
+    },
+    {
+        "name": "WipeoutSyndrome"
+    },
+    {
+        "name": "WirtTest"
+    },
+    {
+        "name": "WithCorrection"
+    },
+    {
+        "name": "WithMotion"
+    },
+    {
+        "name": "WithoutCorrection"
+    },
+    {
+        "name": "WithTheRuleAstigmatism"
+    },
+    {
+        "name": "WolfsSyndrome"
+    },
+    {
+        "name": "WorkingDistance"
+    },
+    {
+        "name": "WorstMedallionLens"
+    },
+    {
+        "name": "WorthFourdotTest"
+    },
+    {
+        "name": "WoundDehiscence"
+    },
+    {
+        "name": "WoundHealing"
+    },
+    {
+        "name": "WoundLeak"
+    },
+    {
+        "name": "WPlasty"
+    },
+    {
+        "name": "W_to_W"
+    },
+    {
+        "name": "X'"
+    },
+    {
+        "name": "X"
+    },
+    {
+        "name": "Xanthelasma"
+    },
+    {
+        "name": "Xanthoma"
+    },
+    {
+        "name": "Xanthopsia"
+    },
+    {
+        "name": "XAxisOfFick"
+    },
+    {
+        "name": "Xenon"
+    },
+    {
+        "name": "Xerophthalmia"
+    },
+    {
+        "name": "Xerosis"
+    },
+    {
+        "name": "XerosisConjunctivae"
+    },
+    {
+        "name": "Xerostomia"
+    },
+    {
+        "name": "XFS"
+    },
+    {
+        "name": "Xt"
+    },
+    {
+        "name": "Xylocaine"
+    },
+    {
+        "name": "Yag"
+    },
+    {
+        "name": "YAxisOfFick"
+    },
+    {
+        "name": "YellowPigmentOfMacula"
+    },
+    {
+        "name": "YellowSpot"
+    },
+    {
+        "name": "YokeMuscles"
+    },
+    {
+        "name": "YSutures"
+    },
+    {
+        "name": "YtovPlasty"
+    },
+    {
+        "name": "ZAxisOfFick"
+    },
+    {
+        "name": "ZeisGlands"
+    },
+    {
+        "name": "Zephiran"
+    },
+    {
+        "name": "ZeroVergence"
+    },
+    {
+        "name": "ZincSulfate"
+    },
+    {
+        "name": "ZippedUpAngle"
+    },
+    {
+        "name": "ZMarginalTenotomy"
+    },
+    {
+        "name": "ZMyotomy"
+    },
+    {
+        "name": "Zolyse"
+    },
+    {
+        "name": "Zona"
+    },
+    {
+        "name": "ZonularCataract"
+    },
+    {
+        "name": "Zonules"
+    },
+    {
+        "name": "Zonulysis"
+    },
+    {
+        "name": "ZPlasty"
+    },
+    {
+        "name": "Zygoma"
+    },
+    {
+        "name": "ZygomaticNerve"
+    },
+    {
+        "name": "Zygomaticoorbital"
+    },
+    {
+        "name": "Zygomaticotemporal"
+    }
+]

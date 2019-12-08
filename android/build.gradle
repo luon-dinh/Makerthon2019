@@ -24,7 +24,7 @@ allprojects {
     repositories {
         mavenLocal()
         maven {
-            // All of React Native (JS, Obj-C sources, Android binaries) is installed from npm
+            // All of React Native (JS, Obj-C sources, Android binaries) is installed from npm/Users/pnng/Documents/glixylus/GLXS-OPH/android/gradle.properties
             url("$rootDir/../node_modules/react-native/android")
         }
         maven {

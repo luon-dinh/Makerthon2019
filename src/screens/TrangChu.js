@@ -58,8 +58,8 @@ class SelectedRenderWarn extends React.Component {
     if (this.props.number == 0) {
       return (
         <View style={{ justifyContent: 'center', alignItems: 'center', margin: 5 }}>
-          <Text category='h5' style={{ margin: 10, marginBottom: 0, color: '#8B8EFC' }}>Chưa có triệu chứng nào được chọn !</Text>
-          <Image source={require("../images/eye.png")} style={{ width: 128, height: 128, margin: 15 }}></Image>
+          <Text style={{ fontSize:25, marginBottom: 0, color: '#8B8EFC',lineHeight:32,margin:5}}>Chưa có triệu chứng nào được chọn !</Text>
+          <Image source={require("../images/eye.png")} style={{ width: 128, height: 130, margin: 15 }} ></Image>
           <Text appearance='hint' style={{ margin: 8 }}>để bắt đầu, hãy nhập vào triệu chứng cần tìm.</Text>
         </View>
       );
@@ -264,8 +264,8 @@ export default class TrangChu extends React.Component {
     renderHeader = () => {
       return (
         <>
-          <Text style={{ marginHorizontal: 10, fontSize: 14, color: '#6C6CCE', textAlign: 'center', marginTop: 10, fontWeight: "bold" }}>{tong ? "TÌM ĐƯỢC " + tong + " BỆNH TƯƠNG ỨNG" : null}</Text>
-          <Image source={require("../images/list.png")} style={{ width: 20, height: 20, alignSelf: "center" }}></Image>
+          <Text style={{ marginHorizontal: 10, fontSize: 14, color: '#fff', textAlign: 'center', marginTop: 10, fontWeight: "bold" }}>{tong ? "TÌM ĐƯỢC " + tong + " BỆNH TƯƠNG ỨNG" : null}</Text>
+          <Image source={require("../images/list.png")} style={{ width: 20, height: 20, alignSelf: "center", tintColor:'#fff' }}></Image>
         </>
       )
     };
@@ -367,7 +367,7 @@ export default class TrangChu extends React.Component {
       extrapolate: 'clamp'
     })
     return (
-      <LinearGradient colors={['#fff', '#fff']} style={{ flex: 1 }}>
+      <LinearGradient colors={['#5c6bc0', '#6A82FB']} style={{ flex: 1 }}>
         <View style={{ flex: 1 }}>
           <ScrollView style={{ flexDirection: 'column', paddingTop: 10 }} keyboardShouldPersistTaps="handled" >
             <View style={styles.panel}>
