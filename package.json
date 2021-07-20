@@ -16,7 +16,7 @@
     "firebase": "^7.2.3",
     "jetifier": "^1.6.4",
     "react": "16.9.0",
-    "react-native": "0.60",
+    "react-native": "0.62",
     "react-native-elements": "^1.2.7",
     "react-native-gesture-handler": "^1.5.0",
     "react-native-linear-gradient": "^2.5.6",
